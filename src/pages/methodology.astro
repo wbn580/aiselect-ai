@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Methodology — AI Select" description="How we test and rate AI tools.">
+  <div class="max-w-[42rem] mx-auto px-6 py-16">
+    <h1 class="text-3xl font-mono font-bold mb-8">Methodology</h1>
+    <div class="space-y-5 text-[#0F0F1B] leading-relaxed
+      [&_h2]:text-xl [&_h2]:font-mono [&_h2]:font-bold [&_h2]:mt-10 [&_h2]:mb-4
+      [&_h2]:pb-2 [&_h2]:border-b [&_h2]:border-gray-100
+    ">
+      <h2>Testing rubric</h2>
+      <p>Every tool is evaluated on five dimensions:</p>
+      <ol class="list-decimal pl-6 space-y-2">
+        <li><strong>Performance</strong> — speed benchmarks, uptime, latency (tested on our own infrastructure)</li>
+        <li><strong>Usability</strong> — onboarding time, UI clarity, documentation quality</li>
+        <li><strong>Features</strong> — completeness relative to category expectations</li>
+        <li><strong>Value</strong> — price-to-performance ratio at each tier</li>
+        <li><strong>Support</strong> — response time, knowledge base, community</li>
+      </ol>
+      <p>Each dimension is scored 1-10. The final rating is a weighted average.</p>
+
+      <h2>Affiliate disclosure</h2>
+      <p>We participate in affiliate programs for some of the tools we review. These include Hostinger, NordVPN, AppSumo, and Airwallex. Affiliate links are marked clearly. Our ratings are independent of commission structures.</p>
+
+      <h2>Updates</h2>
+      <p>We re-test tools every 6 months or when a major feature release occurs. Each review page shows the last update date.</p>
+    </div>
+  </div>
+</BaseLayout>

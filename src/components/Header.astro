@@ -1,0 +1,26 @@
+---
+const links = [
+  ['Tools', '/'],
+  ['Compare', '/'],
+  ['Methodology', '/methodology/'],
+  ['About', '/about/'],
+];
+---
+
+<header class="sticky top-0 z-50 bg-[#1A1A2E]/95 backdrop-blur-sm border-b border-white/[0.06]">
+  <div class="max-w-6xl mx-auto px-6">
+    <div class="flex items-center h-16 gap-10">
+      <a href="/" class="flex items-center gap-2 shrink-0">
+        <span class="w-7 h-7 rounded-md bg-[#00D9C0]/15 flex items-center justify-center">
+          <span class="text-[#00D9C0] text-sm font-mono font-bold">&gt;_</span>
+        </span>
+        <span class="font-mono font-bold text-base text-white tracking-tight">aiselect</span>
+      </a>
+      <nav class="hidden md:flex gap-8">
+        {links.map(([label, href]) => (
+          <a href={href} class="text-sm text-gray-400 hover:text-white transition-colors font-medium">{label}</a>
+        ))}
+      </nav>
+    </div>
+  </div>
+</header>

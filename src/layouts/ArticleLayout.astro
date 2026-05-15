@@ -1,0 +1,50 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  entry: CollectionEntry<'articles'>;
+}
+
+const { entry } = Astro.props;
+const { title, description, publishDate, rating } = entry.data;
+const date = new Date(publishDate).toLocaleDateString('en-US', {
+  year: 'numeric', month: 'long', day: 'numeric',
+});
+---
+
+<BaseLayout title={title} description={description}>
+  <article class="max-w-[42rem] mx-auto px-6 py-16">
+    <div class="flex flex-wrap items-center gap-3 mb-6">
+      <a href={`/category/${entry.data.category}/`} class="text-xs font-mono text-[#00D9C0] uppercase tracking-wider bg-[#00D9C0]/10 px-3 py-1 rounded-full">
+        {entry.data.category.replace(/-/g, ' ')}
+      </a>
+      {rating && (
+        <span class="text-xs font-mono text-[#6B7280]">Rated {rating}/10</span>
+      )}
+      <span class="text-xs text-[#6B7280]">{date}</span>
+    </div>
+    <h1 class="text-3xl lg:text-4xl font-mono font-bold leading-tight tracking-tight mb-6">{title}</h1>
+    <p class="text-lg text-[#6B7280] leading-relaxed mb-12">{description}</p>
+    <div class="text-[#0F0F1B] leading-relaxed
+      [&_h2]:text-xl [&_h2]:font-mono [&_h2]:font-bold [&_h2]:mt-12 [&_h2]:mb-5 [&_h2]:pb-2 [&_h2]:border-b [&_h2]:border-gray-100
+      [&_h3]:text-lg [&_h3]:font-mono [&_h3]:font-medium [&_h3]:mt-8 [&_h3]:mb-3
+      [&_p]:mb-5 [&_p]:leading-relaxed
+      [&_a]:text-[#00B8A2] [&_a]:no-underline hover:[&_a]:underline
+      [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:mb-5 [&_ul]:space-y-2
+      [&_li]:leading-relaxed
+      [&_strong]:font-semibold
+      [&_table]:w-full [&_table]:text-sm [&_table]:mb-6 [&_table]:border [&_table]:border-gray-200 [&_table]:rounded-lg
+      [&_th]:text-left [&_th]:p-3 [&_th]:bg-[#1A1A2E] [&_th]:text-white [&_th]:font-mono [&_th]:text-xs [&_th]:uppercase
+      [&_td]:p-3 [&_td]:border-b [&_td]:border-gray-100 [&_td]:text-sm
+      [&_pre]:bg-[#0F0F1B] [&_pre]:text-[#00D9C0] [&_pre]:p-5 [&_pre]:rounded-lg [&_pre]:overflow-x-auto [&_pre]:text-sm [&_pre]:font-mono [&_pre]:mb-6
+    ">
+      <slot />
+    </div>
+    <footer class="mt-16 pt-8 border-t border-gray-100">
+      <p class="text-xs text-[#6B7280]">
+        Published {date}. <a href="/methodology/" class="underline underline-offset-2">How we test</a>. Some links may earn a commission — see <a href="/about/" class="underline underline-offset-2">our disclosure</a>.
+      </p>
+    </footer>
+  </article>
+</BaseLayout>

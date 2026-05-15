@@ -1,0 +1,79 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const articles = await getCollection('articles');
+const sorted = articles.sort((a, b) =>
+  new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime()
+);
+---
+
+<BaseLayout
+  title="AI Tools, Reviewed Honestly"
+  description="Hands-on testing, transparent ratings, affiliate-disclosed verdicts. AI Select helps developers, creators, and founders pick the right AI tools."
+>
+  <!-- Hero -->
+  <section class="relative overflow-hidden bg-[#1A1A2E]">
+    <div class="max-w-6xl mx-auto px-6 py-20 lg:py-28">
+      <div class="max-w-2xl">
+        <h1 class="text-4xl lg:text-5xl font-mono font-bold text-white leading-tight tracking-tight">
+          AI Tools,<br/>Reviewed Honestly.
+        </h1>
+        <p class="mt-5 text-lg text-gray-400 max-w-xl leading-relaxed">
+          Hands-on testing &middot; transparent ratings &middot; affiliate-disclosed verdicts
+        </p>
+        <div class="mt-8 flex gap-3">
+          <a href="#reviews" class="inline-flex items-center gap-2 px-5 py-2.5 bg-[#00D9C0] text-[#1A1A2E] font-mono text-sm font-semibold rounded-lg hover:bg-[#00B8A2] transition-colors">
+            Browse reviews &darr;
+          </a>
+          <a href="/methodology/" class="inline-flex items-center gap-2 px-5 py-2.5 bg-white/10 text-white font-mono text-sm rounded-lg hover:bg-white/15 transition-colors">
+            How we test
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tool Categories -->
+  <section class="max-w-6xl mx-auto px-6 -mt-10 relative z-10">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+      {['Web Hosting','VPN','AI Writing','No-code','Automation','Database','Image Gen','Business'].map(cat => (
+        <a href={`/category/${cat.toLowerCase().replace(/ /g, '-')}/`}
+           class="bg-white border border-gray-200 rounded-xl p-4 hover:border-[#00D9C0] hover:shadow-sm transition-all group">
+          <span class="text-sm font-mono font-semibold group-hover:text-[#00D9C0]">{cat}</span>
+          <span class="block text-2xs text-gray-400 mt-0.5">&rarr;</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- Latest Reviews -->
+  <section id="reviews" class="max-w-6xl mx-auto px-6 mt-16">
+    <div class="flex items-center justify-between mb-8">
+      <h2 class="text-2xl font-mono font-bold tracking-tight">Latest Reviews</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+      {sorted.slice(0, 6).map(a => {
+        const slug = a.id.replace(/\.md$/, '');
+        const date = new Date(a.data.publishDate).toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+        return (
+          <a href={`/${slug}/`} class="group block bg-white border border-gray-200 rounded-xl p-5 hover:border-[#00D9C0] hover:shadow-md transition-all">
+            <div class="flex items-center justify-between mb-3">
+              <span class="text-2xs font-mono uppercase tracking-wider text-[#00D9C0] bg-[#00D9C0]/5 px-2 py-1 rounded">
+                {a.data.category.replace(/-/g, ' ')}
+              </span>
+              {a.data.rating && (
+                <span class="text-xs font-mono text-[#6B7280] tabular-nums">{a.data.rating}/10</span>
+              )}
+            </div>
+            <h3 class="font-mono font-bold text-base leading-snug group-hover:text-[#00D9C0] transition-colors mb-2">
+              {a.data.title}
+            </h3>
+            <p class="text-sm text-[#6B7280] leading-relaxed line-clamp-2 mb-3">{a.data.description}</p>
+            <span class="text-2xs text-gray-400">{date}</span>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</BaseLayout>
