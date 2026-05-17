@@ -3,6 +3,7 @@ title: "Airwallex for Solo Founders · Business Banking Without the Bank"
 description: "Airwallex offers multi-currency business accounts, virtual cards, and international transfers without a traditional bank. We tested the onboarding, fees, and day-to-day usability as a solo founder."
 category: "business"
 publishDate: "2026-04-20T03:00:00Z"
+modDate: "2026-04-20T03:00:00Z"
 rating: 8
 readingTime: 5
 tags: ["airwallex", "business-banking", "fintech", "founder"]

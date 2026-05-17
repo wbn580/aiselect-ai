@@ -1,7 +1,9 @@
 ---
 title: 'Mullvad 匿名支付深度评测：为什么它是隐私爱好者的终极选择'
 description: '这篇 Mullvad 匿名支付评测深入测试了现金、门罗币、比特币和 Mullvad 代金券四种支付方式，给出完整匿名性评分和实用指南，帮助开发者、创作者和创始人真正实现无痕订阅 VPN。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: mullvad-anonymous-payment-review
 ogImage: 'https://img.ulec.com.cn/工具评测/mullvad-anonymous-payment-review-2026-1880x1253.jpg'
 tags:

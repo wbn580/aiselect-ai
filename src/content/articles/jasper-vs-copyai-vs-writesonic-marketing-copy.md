@@ -1,7 +1,9 @@
 ---
 title: 'Jasper vs Copy.ai vs Writesonic：2025年AI营销文案工具终极对比评测'
 description: '深度评测 Jasper、Copy.ai 与 Writesonic 三大 AI 营销文案生成器，从短文案到长文、品牌声音、定价与模板库，提供 2025 年最新数据与选购建议。如果你正在对比 Jasper vs Copy.ai vs Writesonic for marketing copy，本文是唯一不废话的决策指南。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: jasper-vs-copyai-vs-writesonic-marketing-copy
 ogImage: 'https://img.ulec.com.cn/工具评测/jasper-vs-copyai-vs-writesonic-marketing-copy-2026-1733x1300.jpg'
 tags:

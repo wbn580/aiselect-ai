@@ -3,6 +3,7 @@ title: "Hostinger vs SiteGround vs Cloudways · Real Performance Benchmarks"
 description: "We deployed identical WordPress sites on Hostinger, SiteGround, and Cloudways and measured TTFB, uptime, and CPU stability over 14 days. The results surprised us."
 category: "web-hosting"
 publishDate: "2026-04-29T03:00:00Z"
+modDate: "2026-04-29T03:00:00Z"
 rating: 8
 readingTime: 7
 tags: ["hostinger", "siteground", "cloudways", "comparison", "benchmark"]

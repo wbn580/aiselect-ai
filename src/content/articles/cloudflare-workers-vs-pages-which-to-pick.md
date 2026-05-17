@@ -1,7 +1,9 @@
 ---
 title: 'Cloudflare Workers vs Pages：何时选择哪个？深度对比指南'
 description: 'AI 工具选购者必读：全面对比 Cloudflare Workers 与 Pages 的核心差异、性能、定价与 AI 应用场景，用数据和判断帮你做出精准选择，避免架构陷阱。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: cloudflare-workers-vs-pages-which-to-pick
 ogImage: 'https://img.ulec.com.cn/工具评测/cloudflare-workers-vs-pages-which-to-pick-2026-1343x1300.jpg'
 tags:

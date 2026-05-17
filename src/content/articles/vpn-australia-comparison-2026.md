@@ -3,6 +3,7 @@ title: "VPN for Australia · NordVPN vs ExpressVPN vs Surfshark"
 description: "Australian internet users have specific VPN needs: geo-unblocking, ISP throttling bypass, and privacy from metadata retention. We compare the three market leaders on Australian servers."
 category: "vpn"
 publishDate: "2026-04-15T03:00:00Z"
+modDate: "2026-04-15T03:00:00Z"
 rating: 8
 readingTime: 6
 tags: ["vpn", "australia", "nordvpn", "expressvpn", "surfshark", "comparison"]

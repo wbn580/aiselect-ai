@@ -1,7 +1,9 @@
 ---
 title: 'Adobe Firefly vs Stable Diffusion for Designers: The Definitive 2025 Comparison'
 description: 'In-depth technical comparison of Adobe Firefly and Stable Diffusion for professional designers. Covers image quality, licensing, workflow integration, control features, and pricing to help creators choose the right AI image tool.'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: adobe-firefly-vs-stable-diffusion-designers
 ogImage: 'https://img.ulec.com.cn/工具评测/adobe-firefly-vs-stable-diffusion-designers-2026-1880x1253.jpg'
 tags:

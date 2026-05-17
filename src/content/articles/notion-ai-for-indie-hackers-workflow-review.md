@@ -1,7 +1,9 @@
 ---
 title: 'Notion AI 独立开发者工作流实战评测：效率翻倍还是徒增噪音？'
 description: '深度拆解 Notion AI for indie hackers: workflow 全链路。从头脑风暴、PRD 撰写到营销文案与用户洞察，用真实数据与判断揭示 AI 加持工作流的实际收益与隐藏成本，为独立开发者与创始人提供一份无水分选购参考。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: notion-ai-for-indie-hackers-workflow-review
 ogImage: 'https://img.ulec.com.cn/工具评测/notion-ai-for-indie-hackers-workflow-review-2026-1880x1254.jpg'
 tags:

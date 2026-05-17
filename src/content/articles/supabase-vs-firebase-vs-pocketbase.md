@@ -1,7 +1,9 @@
 ---
 title: 'Supabase vs Firebase vs PocketBase：2025 年开发者后端平台终极对比评测'
 description: '深度对比 Supabase、Firebase 与 PocketBase 三大后端服务平台。从数据库、认证、定价、扩展性到开发者体验，用真实数据和判断帮你选出适合项目规模与技术栈的后端。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: supabase-vs-firebase-vs-pocketbase
 ogImage: 'https://img.ulec.com.cn/工具评测/supabase-vs-firebase-vs-pocketbase-2026-1880x1253.jpg'
 tags:

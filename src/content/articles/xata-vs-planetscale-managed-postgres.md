@@ -1,7 +1,9 @@
 ---
 title: 'Xata vs PlanetScale 托管 Postgres 深度对比：AI 时代数据库选型指南'
 description: 'Xata 与 PlanetScale 两大 Serverless 数据库之战：深入比较架构、性能、成本、开发者体验与 AI 集成，助你为下一个项目做出高信息密度判断。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: xata-vs-planetscale-managed-postgres
 ogImage: 'https://img.ulec.com.cn/工具评测/xata-vs-planetscale-managed-postgres-2026-1880x1058.jpg'
 tags:

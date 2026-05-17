@@ -1,7 +1,9 @@
 ---
 title: '产品团队工具对决：Linear vs Height vs Shortcut 深度对比评测（2025）'
 description: '产品团队在 Linear、Height 与 Shortcut 之间如何选择？本文从功能、工作流、定价、集成、AI 能力等维度进行详细对比，提供数据与判断，帮你找到最适合高绩效团队的项目管理工具。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: linear-vs-height-vs-shortcut-product-teams
 ogImage: 'https://img.ulec.com.cn/工具评测/linear-vs-height-vs-shortcut-product-teams-2026-1880x1254.jpg'
 tags:

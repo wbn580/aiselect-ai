@@ -1,7 +1,9 @@
 ---
 title: 'Tella vs Loom vs Vimeo Record：异步视频录制工具终极评测（2025版）'
 description: '深度评测Tella、Loom与Vimeo Record三款异步视频工具，从画质、功能、定价到团队管理，为开发者、创作者和创始人提供数据驱动的选购建议，帮你找到最适合的异步通信方案。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: tella-vs-loom-vs-vimeo-record-async-video
 ogImage: 'https://img.ulec.com.cn/工具评测/tella-vs-loom-vs-vimeo-record-async-video-2026-1880x1253.jpg'
 tags:

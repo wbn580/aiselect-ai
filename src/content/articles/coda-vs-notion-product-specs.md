@@ -1,7 +1,9 @@
 ---
 title: 'Coda vs Notion 产品规格文档深度评测：哪一款更适合开发者与创始人？'
 description: '深入对比 Coda 与 Notion 用于产品规格文档的实际表现，从数据库能力、协作体验、版本控制到成本扩展性，给出明确选型建议，帮助开发者和创始人停止内耗。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: coda-vs-notion-product-specs
 ogImage: 'https://img.ulec.com.cn/工具评测/coda-vs-notion-product-specs-2026-1880x1058.jpg'
 tags:

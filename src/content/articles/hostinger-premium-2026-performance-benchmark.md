@@ -1,7 +1,9 @@
 ---
 title: 'Hostinger Premium 2026: 真实性能基准测试与深度评测'
 description: 'Hostinger Premium 2026 的真实性能基准测试：我们将从速度、正常运行时间、并发处理能力等维度给出数据与判断，帮助 AI 工具开发者、创作者与创始人选择最佳主机。全程实验数据，杜绝空谈。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: hostinger-premium-2026-performance-benchmark
 ogImage: 'https://img.ulec.com.cn/工具评测/hostinger-premium-2026-performance-benchmark-2026-1880x1255.jpg'
 tags:

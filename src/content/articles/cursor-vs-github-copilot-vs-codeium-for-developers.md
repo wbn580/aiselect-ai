@@ -1,7 +1,9 @@
 ---
 title: 'Cursor vs GitHub Copilot vs Codeium：2025 开发者 AI 编程助手深度横评'
 description: '从代码补全准确率、上下文感知、安全合规、定价到 IDE 集成，全面对比 Cursor、GitHub Copilot 与 Codeium，为开发者和技术创始人提供 2025 年最硬核的 AI 编程助手选型参考。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: cursor-vs-github-copilot-vs-codeium-for-developers
 ogImage: 'https://img.ulec.com.cn/工具评测/cursor-vs-github-copilot-vs-codeium-for-developers-2026-1880x1253.jpg'
 tags:

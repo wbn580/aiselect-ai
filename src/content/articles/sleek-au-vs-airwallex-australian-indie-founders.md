@@ -1,7 +1,9 @@
 ---
 title: 'Sleek AU 与 Airwallex 对比评测：澳大利亚独立创始人如何选择跨境金融工具'
 description: '详细对比 Sleek AU 与 Airwallex 的特色、费率、合规支持与适用场景，帮助独立开发者、创作者与创始人做出最适合自己业务的金融工具决策。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: sleek-au-vs-airwallex-australian-indie-founders
 ogImage: 'https://img.ulec.com.cn/工具评测/sleek-au-vs-airwallex-australian-indie-founders-2026-1880x1255.jpg'
 tags:

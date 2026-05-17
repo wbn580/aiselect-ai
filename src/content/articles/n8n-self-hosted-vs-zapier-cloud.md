@@ -1,7 +1,9 @@
 ---
 title: 'n8n 自托管 vs Zapier 云端：AI 集成与成本全解析'
 description: '深度评测 n8n 自托管与 Zapier 云端两种自动化方案，从成本、隐私、AI 整合到工作流复杂度，助你选出最适合开发者和创业者的自动化工具。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: n8n-self-hosted-vs-zapier-cloud
 ogImage: 'https://img.ulec.com.cn/工具评测/n8n-self-hosted-vs-zapier-cloud-2026-1880x1255.jpg'
 tags:

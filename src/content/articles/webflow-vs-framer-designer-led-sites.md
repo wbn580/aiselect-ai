@@ -1,7 +1,9 @@
 ---
 title: 'Webflow vs Framer for Designer-Led Sites: The Definitive 2025 Comparison'
 description: 'An in-depth, data-driven comparison of Webflow and Framer for designers building high-end marketing sites, portfolios, and content hubs. We analyze editor experience, responsive behavior, CMS depth, SEO performance, and true cost of ownership to help founders, developers, and creatives pick the right no-code tool.'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: webflow-vs-framer-designer-led-sites
 ogImage: 'https://img.ulec.com.cn/工具评测/webflow-vs-framer-designer-led-sites-2026-1880x1253.jpg'
 tags:

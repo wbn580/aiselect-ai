@@ -1,7 +1,9 @@
 ---
 title: 'WireGuard vs OpenVPN 协议深度对比：谁才是2025年最佳VPN协议？'
 description: 'WireGuard 与 OpenVPN 协议全面对比：从架构设计、传输性能、安全审计、配置复杂度到实际吞吐量测试数据，帮你决定选哪个 VPN 协议。开发者、创作者与创始人的技术选型指南。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: wireguard-vs-openvpn-protocol-comparison
 ogImage: 'https://img.ulec.com.cn/工具评测/wireguard-vs-openvpn-protocol-comparison-2026-1880x1058.jpg'
 tags:

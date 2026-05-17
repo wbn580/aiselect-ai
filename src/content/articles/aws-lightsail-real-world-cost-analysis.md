@@ -1,7 +1,9 @@
 ---
 title: 'AWS Lightsail 真实世界成本分析：隐藏费用、定价陷阱与年度总支出拆解'
 description: '深度拆解AWS Lightsail在真实项目中的月度、年度总拥有成本。从实例、流量、存储、备份到负载均衡器，揭示定价计算器的盲区，帮助开发者、创作者与创始人在选型时避开隐性费用陷阱。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: aws-lightsail-real-world-cost-analysis
 ogImage: 'https://img.ulec.com.cn/工具评测/aws-lightsail-real-world-cost-analysis-2026-1880x1232.jpg'
 tags:

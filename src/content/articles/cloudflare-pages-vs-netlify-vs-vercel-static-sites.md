@@ -1,7 +1,9 @@
 ---
 title: 'Cloudflare Pages vs Netlify vs Vercel for Static Sites: The 2025 Developer’s Verdict'
 description: 'An in-depth, data-driven comparison of Cloudflare Pages, Netlify, and Vercel for hosting static sites. We analyse build speed, edge network scale, pricing pitfalls, serverless function costs, and developer experience to help you pick the right platform.'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: cloudflare-pages-vs-netlify-vs-vercel-static-sites
 ogImage: 'https://img.ulec.com.cn/工具评测/cloudflare-pages-vs-netlify-vs-vercel-static-sites-2026-1880x1058.jpg'
 tags:

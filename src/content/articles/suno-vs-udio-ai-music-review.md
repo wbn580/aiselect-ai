@@ -1,7 +1,9 @@
 ---
 title: 'Suno 对比 Udio：2025年AI音乐生成工具深度测评'
 description: 'Suno和Udio是目前最火的两款AI音乐生成工具，本测评从音质、风格覆盖、创作自由度、版权政策、社区生态等维度进行实测对比，帮助开发者、创作者和创业者找到最适合自己的AI作曲方案。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: suno-vs-udio-ai-music-review
 ogImage: 'https://img.ulec.com.cn/工具评测/suno-vs-udio-ai-music-review-2026-1880x1058.jpg'
 tags:

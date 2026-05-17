@@ -1,7 +1,9 @@
 ---
 title: 'Cloudflare D1 深度评测：边缘 SQLite 数据库的性能、成本与是否值得投入'
 description: '面向开发者和创始人的 Cloudflare D1 全方位评测：从架构、性能、SQL 兼容性到定价与竞品对比，给出真实数据与判断，助力边缘 SQLite 数据库选型。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: cloudflare-d1-review-edge-sqlite
 ogImage: 'https://img.ulec.com.cn/工具评测/cloudflare-d1-review-edge-sqlite-2026-1880x1058.jpg'
 tags:

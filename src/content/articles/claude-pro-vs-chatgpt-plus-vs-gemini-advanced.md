@@ -1,7 +1,9 @@
 ---
 title: 'Claude Pro vs ChatGPT Plus vs Gemini Advanced：谁才是2025年最佳 AI 订阅？'
 description: '深度评测 Claude Pro、ChatGPT Plus 和 Gemini Advanced 三大旗舰 AI 订阅。从代码生成、多模态、长文写作、隐私安全到性价比，为开发者、创作者和创始人提供一份 2000 字的对比决策指南，帮你选出真正值回每月订阅费的工具。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: claude-pro-vs-chatgpt-plus-vs-gemini-advanced
 ogImage: 'https://img.ulec.com.cn/工具评测/claude-pro-vs-chatgpt-plus-vs-gemini-advanced-2026-1880x1253.jpg'
 tags:

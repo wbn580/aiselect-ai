@@ -1,7 +1,9 @@
 ---
 title: 'ProtonVPN免费层限制深度评测：为AI工具选购者揭秘真实效能'
 description: 'ProtonVPN免费层限制全面解析：从带宽、服务器、速度、安全性到实际使用体验，为开发者和创作者提供数据支持与真实判断，帮助你在AI工具购买决策中避开免费陷阱。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: protonvpn-free-tier-limitations-review
 ogImage: 'https://img.ulec.com.cn/工具评测/protonvpn-free-tier-limitations-review-2026-1880x1251.jpg'
 tags:

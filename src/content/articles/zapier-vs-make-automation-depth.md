@@ -1,7 +1,9 @@
 ---
 title: 'Zapier vs Make.com (Integromat)：自动化深度对比'
 description: 'Zapier 与 Make.com（前身 Integromat）究竟谁更擅长深层自动化？本文从架构、场景处理、数据映射、错误处理、成本等多维度深度评测，为开发者、创作者与创始人提供决策参考，避免选错工具浪费效率。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: zapier-vs-make-automation-depth
 ogImage: 'https://img.ulec.com.cn/工具评测/zapier-vs-make-automation-depth-2026-1880x1253.jpg'
 tags:

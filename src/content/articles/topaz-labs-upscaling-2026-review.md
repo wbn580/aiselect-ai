@@ -1,7 +1,9 @@
 ---
 title: 'Topaz Labs 2026 AI放大技术深度评测：画质、速度与性价比全面解析'
 description: '深入评测Topaz Labs 2026年最新AI放大技术，涵盖Gigapixel AI和Video AI核心更新，实际测试人脸、风景、文本放大效果，对比Magnific AI、Adobe Super Resolution等竞品，提供开发者、创作者和创始人的选购建议。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: topaz-labs-upscaling-2026-review
 ogImage: 'https://img.ulec.com.cn/工具评测/topaz-labs-upscaling-2026-review-2026-1880x1058.jpg'
 tags:

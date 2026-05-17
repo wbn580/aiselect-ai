@@ -3,6 +3,7 @@ title: "NordVPN Review · Speed Tests Across 12 Countries"
 description: "We ran NordVPN through 12-country speed tests, DNS leak checks, and streaming unblock trials. Here are the numbers — and whether it's still the best VPN in 2026."
 category: "vpn"
 publishDate: "2026-05-08T03:00:00Z"
+modDate: "2026-05-08T03:00:00Z"
 rating: 8
 readingTime: 7
 tags: ["nordvpn", "vpn", "speed-test", "privacy", "review"]

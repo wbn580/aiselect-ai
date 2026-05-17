@@ -1,7 +1,9 @@
 ---
 title: 'Airtable vs Notion 数据库终极对比：2025 年谁才是开发者和创作者的真正生产级选择'
 description: '深度评测 Airtable 与 Notion 作为数据库时的核心差异：从架构、数据建模、查询语言、API 扩展到性能极限，提供真实性能数据和购买判断，帮助开发者和创作者避免选型陷阱。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: airtable-vs-notion-database-2025
 ogImage: 'https://img.ulec.com.cn/工具评测/airtable-vs-notion-database-2025-2026-1733x1300.jpg'
 tags:

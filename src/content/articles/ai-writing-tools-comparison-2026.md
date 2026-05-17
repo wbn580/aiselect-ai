@@ -3,6 +3,7 @@ title: "5 AI Writing Tools Compared · Output Quality on 10 Real Tasks"
 description: "We gave Jasper, Copy.ai, Writesonic, Rytr, and ChatGPT the same 10 writing tasks — from blog posts to ad copy to technical documentation. Here's which tool won each task."
 category: "ai-writing"
 publishDate: "2026-04-10T03:00:00Z"
+modDate: "2026-04-10T03:00:00Z"
 rating: 7
 readingTime: 7
 tags: ["ai-writing", "comparison", "jasper", "copyai", "chatgpt"]

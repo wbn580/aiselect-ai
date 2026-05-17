@@ -3,6 +3,7 @@ title: "Hostinger Horizons AI Website Builder · 30-Day Hands-On Review"
 description: "We spent 30 days building real sites with Hostinger Horizons — the AI website builder that ships with hosting. Here's what it can actually do, where it breaks, and whether the $2.99/mo plan is worth it."
 category: "web-hosting"
 publishDate: "2026-05-10T03:00:00Z"
+modDate: "2026-05-10T03:00:00Z"
 rating: 7
 readingTime: 6
 tags: ["hostinger", "ai-website-builder", "hosting", "review"]

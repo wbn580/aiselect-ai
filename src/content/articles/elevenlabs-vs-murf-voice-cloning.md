@@ -1,7 +1,9 @@
 ---
 title: 'ElevenLabs vs Murf for Voice Cloning: Ultimate 2025 Comparison for AI Tool Buyers'
 description: 'Discover the definitive comparison between ElevenLabs and Murf for voice cloning. We analyze voice quality, language support, pricing, usability, and ideal use cases for developers, creators, and founders choosing an AI voice tool.'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: elevenlabs-vs-murf-voice-cloning
 ogImage: 'https://img.ulec.com.cn/工具评测/elevenlabs-vs-murf-voice-cloning-2026-1880x1253.jpg'
 tags:

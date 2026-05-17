@@ -3,6 +3,7 @@ title: "Hostinger Shared Hosting · Is the $2.99/mo Plan Actually Usable in 2026
 description: "We benchmarked Hostinger's cheapest shared hosting plan with a real WordPress site, a static site, and a Node.js app. Here's what $2.99/mo actually buys you."
 category: "web-hosting"
 publishDate: "2026-05-05T03:00:00Z"
+modDate: "2026-05-05T03:00:00Z"
 rating: 7
 readingTime: 6
 tags: ["hostinger", "shared-hosting", "benchmark", "review"]

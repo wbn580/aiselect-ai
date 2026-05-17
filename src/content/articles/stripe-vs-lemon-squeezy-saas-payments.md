@@ -1,7 +1,9 @@
 ---
 title: 'Stripe vs Lemon Squeezy：SaaS支付工具全面对比评测'
 description: '深入对比 Stripe 与 Lemon Squeezy 在 SaaS 支付领域的优劣势，从费率、税务合规、开发者体验、全球化支持到 AI 工具选购决策，提供真实数据与判断，助你选出最适合的支付平台。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: stripe-vs-lemon-squeezy-saas-payments
 ogImage: 'https://img.ulec.com.cn/工具评测/stripe-vs-lemon-squeezy-saas-payments-2026-1880x1253.jpg'
 tags:

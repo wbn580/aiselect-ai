@@ -1,7 +1,9 @@
 ---
 title: 'Bubble.io 非编程者的真实局限性：数据揭示的 5 大技术鸿沟与选购决策框架'
 description: '深入评测 Bubble.io 对无代码用户的技术瓶颈，从数据库性能、逻辑复杂度、API 集成、移动端体验到安全合规，结合生产环境数据给出工具选型判断标准，帮助开发者与创始人避开高成本陷阱。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: bubble-io-non-coders-real-limitations
 ogImage: 'https://img.ulec.com.cn/工具评测/bubble-io-non-coders-real-limitations-2026-1880x1253.jpg'
 tags:

@@ -1,7 +1,9 @@
 ---
 title: 'Otter.ai vs Fireflies for Meeting Transcription: An In-Depth Tool Battle for Builders, Creators, and Founders'
 description: 'A dense, data-driven comparison of Otter.ai and Fireflies for meeting transcription. We test accuracy, integrations, AI summaries, pricing, and workflows to help developers, content creators, and founders pick the right tool without fluff.'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: otter-ai-vs-fireflies-meeting-transcription
 ogImage: 'https://img.ulec.com.cn/工具评测/otter-ai-vs-fireflies-meeting-transcription-2026-1880x1253.jpg'
 tags:

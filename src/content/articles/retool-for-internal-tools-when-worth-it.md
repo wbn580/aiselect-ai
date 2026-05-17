@@ -1,7 +1,9 @@
 ---
 title: 'Retool for Internal Tools: When It’s Worth It'
 description: 'A rigorous, data-backed guide to deciding when Retool is the right internal tool builder. We analyze costs, developer velocity, security, and when Retool wins versus when it fails.'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: retool-for-internal-tools-when-worth-it
 ogImage: 'https://img.ulec.com.cn/工具评测/retool-for-internal-tools-when-worth-it-2026-1880x1253.jpg'
 tags:

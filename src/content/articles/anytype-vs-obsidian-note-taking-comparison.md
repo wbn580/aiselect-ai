@@ -1,7 +1,9 @@
 ---
 title: 'AnyType vs Obsidian：谁才是创作者的终极笔记工具？深度对比评测'
 description: '深入对比 AnyType 与 Obsidian 两大笔记工具：从核心理念、数据结构、跨平台体验、扩展性、隐私保护到定价，为开发者、创作者和创始人提供基于实测数据的选型建议。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: anytype-vs-obsidian-note-taking-comparison
 ogImage: 'https://img.ulec.com.cn/工具评测/anytype-vs-obsidian-note-taking-comparison-2026-1880x1253.jpg'
 tags:

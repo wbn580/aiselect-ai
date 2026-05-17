@@ -1,7 +1,9 @@
 ---
 title: 'Vercel Postgres 对比 Neon：谁才是 AI 时代 Serverless 数据库的王牌？'
 description: '深度拆解 Vercel Postgres 与 Neon 在性能、成本、扩展、AI 集成和开发体验上的真实差异。面向 AI 工具创业者、开发者和独立创作者的选型指南，数据驱动，拒绝注水。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: vercel-postgres-vs-neon
 ogImage: 'https://img.ulec.com.cn/工具评测/vercel-postgres-vs-neon-2026-1880x1253.jpg'
 tags:

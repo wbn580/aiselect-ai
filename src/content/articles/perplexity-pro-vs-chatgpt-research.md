@@ -1,7 +1,9 @@
 ---
 title: 'Perplexity Pro vs ChatGPT 研究能力深度对比：谁才是开发者和创作者的终极调研利器'
 description: '本文从学术严谨性、实时数据、来源透明度、多模态研究、隐私定价等维度，对 Perplexity Pro 和 ChatGPT 进行研究能力的硬核对比，用数据和实测告诉你哪一款更适合深度调研。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: perplexity-pro-vs-chatgpt-research
 ogImage: 'https://img.ulec.com.cn/工具评测/perplexity-pro-vs-chatgpt-research-2026-1880x1253.jpg'
 tags:

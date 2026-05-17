@@ -1,7 +1,9 @@
 ---
 title: 'Convex vs Supabase 实时功能深度对比：谁才是 AI 实时应用的最佳后端？'
 description: 'Convex 与 Supabase 的实时功能到底哪家强？本文从延迟、数据一致性、扩展模型和开发者体验四个维度展开严苛评测，帮助 AI 工具开发者、创作者和创始人做出精准选型决策。长文纯干货，无水分。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: convex-vs-supabase-realtime
 ogImage: 'https://img.ulec.com.cn/工具评测/convex-vs-supabase-realtime-2026-1880x1058.jpg'
 tags:

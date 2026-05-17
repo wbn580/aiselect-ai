@@ -1,7 +1,9 @@
 ---
 title: 'Runway Gen-3 vs Pika 2.0 for Video: An In-Depth Comparison for AI Tool Buyers'
 description: 'Discover the definitive comparison between Runway Gen-3 and Pika 2.0 for AI video generation. Data-driven analysis of quality, speed, creative control, and pricing helps developers, creators, and founders choose the right tool.'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: runway-gen-3-vs-pika-2-0-video-comparison
 ogImage: 'https://img.ulec.com.cn/工具评测/runway-gen-3-vs-pika-2-0-video-comparison-2026-1880x1253.jpg'
 tags:

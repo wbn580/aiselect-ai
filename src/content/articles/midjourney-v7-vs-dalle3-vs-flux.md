@@ -1,7 +1,9 @@
 ---
 title: 'Midjourney V7 vs DALL·E 3 vs Flux：2025年AI绘图工具终极测评与选购指南'
 description: '深入对比 Midjourney V7、DALL·E 3 和 Flux 三大 AI 图像生成模型，从图像质量、文字渲染、风格控制、速度与价格等维度进行实测分析，帮助开发者、创作者和创始人选出最适合的 AI 绘图工具。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: midjourney-v7-vs-dalle3-vs-flux
 ogImage: 'https://img.ulec.com.cn/工具评测/midjourney-v7-vs-dalle3-vs-flux-2026-1880x1254.jpg'
 tags:

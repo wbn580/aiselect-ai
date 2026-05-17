@@ -1,7 +1,9 @@
 ---
 title: 'WP Engine vs Kinsta 托管型 WordPress 深度对比：2025 年开发者和创始人该怎么选？'
 description: '一份为开发者、创作者和创始人准备的严肃托管评测：从性能基准、定价陷阱、开发者工具链到安全与支持，用真实数据和判断告诉你 WP Engine 和 Kinsta 到底差在哪里，以及为什么选错可能让高速增长的项目付出代价。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: wp-engine-vs-kinsta-managed-wordpress-comparison
 ogImage: 'https://img.ulec.com.cn/工具评测/wp-engine-vs-kinsta-managed-wordpress-comparison-2026-1880x1175.jpg'
 tags:

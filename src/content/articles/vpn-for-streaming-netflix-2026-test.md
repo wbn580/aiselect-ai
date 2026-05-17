@@ -1,7 +1,9 @@
 ---
 title: 'VPN for streaming: which works on Netflix 2026 — data‑backed test of 15+ providers'
 description: 'We tested 17 VPNs against Netflix 2026 geo‑blocks across 6 regions, measuring speed, reliability, and 4K consistency. Only three passed every trial. Data, methodology, and verdict inside.'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: vpn-for-streaming-netflix-2026-test
 ogImage: 'https://img.ulec.com.cn/工具评测/vpn-for-streaming-netflix-2026-test-2026-1880x1253.jpg'
 tags:

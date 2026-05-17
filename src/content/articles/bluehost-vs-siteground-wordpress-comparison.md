@@ -1,7 +1,9 @@
 ---
 title: 'Bluehost vs SiteGround for WordPress 用户：2025 终极深度对比评测'
 description: 'WordPress 主机选 Bluehost 还是 SiteGround？这篇 1800+ 字深度评测通过实测性能、价格、安全、支持等多维数据，为开发者、创作者和创始人给出严谨判断，帮你避开续费陷阱和性能坑。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: bluehost-vs-siteground-wordpress-comparison
 ogImage: 'https://img.ulec.com.cn/工具评测/bluehost-vs-siteground-wordpress-comparison-2026-1880x1299.jpg'
 tags:

@@ -1,7 +1,9 @@
 ---
 title: 'Raycast AI vs Alfred：macOS 高级用户的效率对决'
 description: '深入分析 Raycast AI 与 Alfred 在 macOS 上的核心差异，从 AI 能力、工作流扩展、性能到定价，为开发者、创作者和创始人提供数据化的选购指南，助你找到最适合自己的启动器。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: raycast-ai-vs-alfred-macos-power-users
 ogImage: 'https://img.ulec.com.cn/工具评测/raycast-ai-vs-alfred-macos-power-users-2026-1880x1253.jpg'
 tags:

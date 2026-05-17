@@ -1,7 +1,9 @@
 ---
 title: 'Hostinger vs Namecheap 主机深度对比：2025 年开发者与创始人选购指南'
 description: '本文从性能、价格、功能、支持等七个维度深度对比 Hostinger 与 Namecheap 主机，结合全球多节点测速、套餐拆解和实际部署体验，为 AI 工具选购者提供数据驱动的决策依据。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: hostinger-vs-namecheap-hosting-comparison-2025
 ogImage: 'https://img.ulec.com.cn/工具评测/hostinger-vs-namecheap-hosting-comparison-2025-2026-1880x1255.jpg'
 tags:

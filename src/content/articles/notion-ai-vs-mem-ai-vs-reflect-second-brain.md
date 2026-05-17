@@ -1,7 +1,9 @@
 ---
 title: 'Notion AI vs Mem.ai vs Reflect：打造第二大脑，哪款AI笔记工具更适合你？'
 description: '深入评测Notion AI、Mem.ai和Reflect.app三款第二大脑工具：从AI能力、知识组织逻辑、工作流适配到开发者、创作者与创始人的真实使用场景，提供数据支持与判断，帮你选出最适合的AI笔记系统。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: notion-ai-vs-mem-ai-vs-reflect-second-brain
 ogImage: 'https://img.ulec.com.cn/工具评测/notion-ai-vs-mem-ai-vs-reflect-second-brain-2026-1880x1058.jpg'
 tags:

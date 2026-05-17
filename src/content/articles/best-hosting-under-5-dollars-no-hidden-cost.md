@@ -1,7 +1,9 @@
 ---
 title: '2025月付$5以下无隐藏成本最佳主机深度测评：从性能到续费完全透明'
 description: '实测6家月付5美元以下主机，严格核查首购价、续费价、功能缩水与强制附加费，给出无隐藏成本的四款公认选择，涵盖共享主机、云VPS和专为AI工具搭建的轻量应用服务器，附带详细性价比评分与选购决策流程图。'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: best-hosting-under-5-dollars-no-hidden-cost
 ogImage: 'https://img.ulec.com.cn/工具评测/best-hosting-under-5-dollars-no-hidden-cost-2026-1880x1255.jpg'
 tags:

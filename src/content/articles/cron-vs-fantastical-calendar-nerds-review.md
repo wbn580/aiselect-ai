@@ -1,7 +1,9 @@
 ---
 title: 'Cron vs Fantastical for Calendar Nerds: An In-Depth Tool Review'
 description: 'An exhaustive, data-driven comparison of Cron and Fantastical for calendar power users: natural language parsing, UI, integrations, privacy, pricing, and which one truly rules the power-user calendar stack.'
-pubDatetime: 2026-05-17T00:00:00Z
+publishDate: "2026-05-17"
+modDate: "2026-05-17"
+category: "ai-writing"
 slug: cron-vs-fantastical-calendar-nerds-review
 ogImage: 'https://img.ulec.com.cn/工具评测/cron-vs-fantastical-calendar-nerds-review-2026-1880x1253.jpg'
 tags:
