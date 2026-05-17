@@ -1,0 +1,22 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const posts = await getCollection("articles");
+const catMap = new Map();
+for (const p of posts) {
+  const cat = p.data.category;
+  if (cat) catMap.set(cat, (catMap.get(cat) || 0) + 1);
+}
+const cats = [...catMap.entries()].sort((a, b) => b[1] - a[1]);
+---
+<BaseLayout title="Categories">
+  <main class="max-w-3xl mx-auto p-8">
+    <h1 class="text-2xl font-bold mb-4">Categories</h1>
+    <ul>
+      {cats.map(([cat, count]) => (
+        <li><a href={`/category/${cat.toLowerCase().replace(/ /g, '-')}/`}>{cat} ({count})</a></li>
+      ))}
+    </ul>
+  </main>
+</BaseLayout>
