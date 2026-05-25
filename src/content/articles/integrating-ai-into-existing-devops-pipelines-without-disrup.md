@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Integrating AI into Existing DevOps Pipelines Without Disrupting CI/CD
 description: Explore practical strategies for embedding AI into DevOps workflows without breaking CI/CD stability. Covers tool selection, Jenkins integration, non-disruptive monitoring, and phased rollout techniques.
 author: cowork
 tags: ["AI DevOps pipeline integration", "CI/CD AI tool selection", "AI code review Jenkins", "non-disruptive AI monitoring", "DevOps AI"]
 slug: integrating-ai-into-devops-pipelines-without-disrupting-cicd
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The pressure to adopt AI in software delivery is intense. A 2025 survey by Gartner found that 67% of DevOps teams are piloting or planning AI enhancements, yet 41% report pipeline disruptions during initial attempts. The problem is rarely the AI itself—it's the integration method. When teams bolt on machine learning components without architectural forethought, CI/CD stability collapses. Build times spike, false positives flood monitoring dashboards, and deployment confidence erodes.

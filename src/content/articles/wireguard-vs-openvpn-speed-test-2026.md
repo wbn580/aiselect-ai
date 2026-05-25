@@ -1,6 +1,9 @@
 ---
 title: "WireGuard vs OpenVPN Speed Test Across 20 Server Locations (2026)"
-pubDatetime: 2025-11-27T20:08:44Z
+pubDatetime: "2025-11-27T20:08:44Z"
+description: "了解WireGuard vs OpenVPN Speed Test Across 20 Server Locations (2026) - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # WireGuard vs OpenVPN Speed Test Across 20 Server Locations (2026)

@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI Tools for Academic Research: Ethical Use and Selection
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI Tools for Academic Research: Ethical Use and Selection"
 description: A comprehensive guide to selecting and ethically using AI tools in academic research. Covers literature review assistants, data analysis platforms, writing aids, and institutional compliance frameworks for 2026.
 author: cowork
 tags: ["AI tools academic research", "ethical AI research tools", "AI literature review tool", "academic AI selection guide", "research integrity"]
 slug: ai-tools-academic-research-ethical-selection
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The integration of artificial intelligence into academic research has moved from experimental curiosity to near-universal adoption. A 2026 global survey conducted by the International Association of Research Universities found that **78% of active researchers now use at least one AI-powered tool** in their daily workflow, up from 34% in 2023. This rapid shift demands a clear, principled framework for tool selection and ethical deployment. Without such a framework, researchers risk compromising data integrity, violating institutional policies, or undermining the credibility of their own work. The stakes are particularly high in an era when **funding bodies and journal editorial boards increasingly scrutinize AI usage disclosures**.

@@ -1,6 +1,9 @@
 ---
 title: "Sora by OpenAI: Full Video Production Timeline for a 2‑Minute Ad"
-pubDatetime: 2026-01-11T18:32:13Z
+pubDatetime: "2026-01-11T18:32:13Z"
+description: "了解Sora by OpenAI: Full Video Production Timeline for a 2‑Minute Ad - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Sora by OpenAI: Full Video Production Timeline for a 2‑Minute Ad

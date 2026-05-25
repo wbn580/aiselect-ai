@@ -1,6 +1,9 @@
 ---
 title: "Jasper for Enterprise Teams: What Changed in Q1 2026"
-pubDatetime: 2026-01-23T13:46:40Z
+pubDatetime: "2026-01-23T13:46:40Z"
+description: "了解Jasper for Enterprise Teams: What Changed in Q1 2026 - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Jasper for Enterprise Teams: What Changed in Q1 2026

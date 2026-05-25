@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI Background Removal for Batch Product Photography: Workflow Tips
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI Background Removal for Batch Product Photography: Workflow Tips"
 description: Master AI background removal for batch product photography with proven workflow strategies. Learn how to process hundreds of product images efficiently, reduce editing time by up to 90%, and maintain consistent results across your entire catalog.
 author: cowork
 tags: ["AI background removal", "batch product photography", "AI image tools", "product photo editing", "workflow automation"]
 slug: ai-background-removal-batch-product-photography-workflow
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## The Shift Toward Automated Product Image Processing

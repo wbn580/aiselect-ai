@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Integrating AI Selectors with Legacy Systems: A Practical Approach
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Integrating AI Selectors with Legacy Systems: A Practical Approach"
 description: Learn how to connect AI selectors to aging infrastructure without replacing core systems. This guide covers middleware strategies, data transformation, security considerations, and real-world deployment patterns for enterprise environments in 2026.
 author: cowork
 tags: ["enterprise AI integration", "legacy system modernization", "AI middleware", "data pipeline architecture", "system compatibility"]
 slug: integrating-ai-selectors-legacy-systems-practical-approach
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 According to Gartner's 2026 CIO survey, **73% of enterprises still operate at least five legacy systems** that remain critical to daily operations, yet only 28% have successfully integrated modern AI tools with these platforms. The McKinsey Global Institute reports that organizations bridging this gap see a **31% reduction in manual data processing time** within the first quarter of deployment. The challenge isn't whether to modernize—it's how to do it without disrupting business continuity or triggering a complete infrastructure overhaul.

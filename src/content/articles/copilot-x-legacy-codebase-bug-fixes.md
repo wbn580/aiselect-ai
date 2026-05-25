@@ -1,6 +1,9 @@
 ---
 title: "GitHub Copilot X: Context‑Aware Bug Fixes in Legacy Codebases"
-pubDatetime: 2025-12-14T10:25:21Z
+pubDatetime: "2025-12-14T10:25:21Z"
+description: "了解GitHub Copilot X: Context‑Aware Bug Fixes in Legacy Codebases - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # GitHub Copilot X: Context‑Aware Bug Fixes in Legacy Codebases

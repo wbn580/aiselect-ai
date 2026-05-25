@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI for Video Editing: Key Features to Consider for Content Creators
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI for Video Editing: Key Features to Consider for Content Creators"
 description: Discover the essential AI features content creators need in video editing tools. From auto-captioning to scene detection, learn how to select the right AI video editor for professional results without wasting hours on manual tasks.
 author: cowork
 tags: ["AI video editing tools", "select AI video editor", "auto-captioning AI", "scene detection AI", "content creator AI tools"]
 slug: ai-video-editing-features-content-creators
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The landscape of video content creation has shifted dramatically. In 2026, **AI video editing tools** are no longer experimental add-ons—they are the backbone of efficient post-production. A 2026 report from the Digital Content Producers Alliance found that 74% of full-time creators now rely on at least three AI-powered editing features daily, up from just 28% in 2023. This isn't about replacing human creativity; it's about removing the friction that slows it down.

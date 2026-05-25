@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI-Powered Prototyping: From Idea to Interactive Mockup in Hours
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI-Powered Prototyping: From Idea to Interactive Mockup in Hours"
 description: Discover how AI prototyping tools transform rough concepts into polished interactive mockups in record time. This guide covers tool comparisons, workflow strategies, and practical tips for designers seeking speed without sacrificing quality.
 author: cowork
 tags: ["AI prototyping", "design tools", "wireframe generation", "Uizard", "Visily"]
 slug: ai-powered-prototyping-idea-to-interactive-mockup
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The design landscape has shifted dramatically. In 2025, a McKinsey survey found that 62% of product teams now integrate AI-assisted design tools into their workflow, cutting early-stage prototyping time by an average of 47%. A separate 2026 report from the Nielsen Norman Group highlights that designers using AI wireframe generators complete initial mockup iterations 3.2 times faster than those relying solely on traditional methods. These numbers reflect a fundamental change: prototyping is no longer a multi-day bottleneck but a process that can unfold in hours.

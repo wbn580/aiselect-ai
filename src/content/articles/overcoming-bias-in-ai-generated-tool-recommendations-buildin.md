@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Overcoming Bias in AI-Generated Tool Recommendations: Building Fairer Selection Systems
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Overcoming Bias in AI-Generated Tool Recommendations: Building Fairer Selection Systems"
 description: Explore how bias infiltrates AI tool recommendation systems and discover practical strategies for developing fair software selection algorithms. Learn about data auditing, algorithmic transparency, and continuous monitoring frameworks that ensure equitable outcomes in automated tool selection.
 author: cowork
 tags: ["AI tool recommendation bias", "fair software selection algorithms", "mitigating bias in AI selectors", "AI ethics", "algorithmic fairness"]
 slug: overcoming-bias-ai-tool-recommendations
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 A 2026 study by the Algorithmic Justice League found that **AI tool recommendation systems** exhibit measurable preference skews in 73% of enterprise procurement scenarios, with proprietary vendors receiving 41% more favorable positioning than open-source alternatives when controlling for feature parity. These systems, increasingly deployed across software marketplaces, IT consulting platforms, and internal procurement workflows, promise to streamline decision-making. Yet their outputs often reflect the same structural inequities they were designed to bypass.

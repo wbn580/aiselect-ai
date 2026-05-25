@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Building a Custom AI Selector Tool for Your Team's Stack
 description: A comprehensive guide to designing and deploying a custom AI selector tool that helps your team evaluate, compare, and choose the right AI models based on performance benchmarks, cost, and task-specific requirements.
 author: cowork
 tags: 
 slug: custom-ai-selector-tool-team-stack
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 In 2026, the average software engineering team evaluates over 17 distinct AI models before making a single integration decision, according to a survey of 1,200 technical leads conducted by O'Reilly Media. This complexity has only intensified as foundation model providers release specialized variants at an accelerating pace. The question is no longer whether your team needs a systematic approach to model selection, but how to build one that actually works. A **custom AI selector tool**—an internal recommendation engine tailored to your organization's unique stack, budget, and performance requirements—has become essential infrastructure rather than a nice-to-have experiment.

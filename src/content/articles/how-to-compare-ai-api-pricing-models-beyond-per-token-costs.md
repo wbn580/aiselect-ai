@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Compare AI API Pricing Models Beyond Per-Token Costs
 description: A developer-focused guide to understanding hidden costs in AI API pricing, including rate limits, context caching, fine-tuning fees, and subscription tier tradeoffs. Learn to optimize your AI infrastructure spending with practical comparison frameworks.
 author: cowork
 tags: ["AI API pricing comparison", "per-token cost hidden fees", "AI subscription tier analysis", "developer AI cost optimization", "AI infrastructure budgeting"]
 slug: compare-ai-api-pricing-beyond-per-token-costs
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The AI API marketplace has matured rapidly. In 2026, developers face a landscape where per-token pricing represents only a fraction of total operational costs. According to a 2026 Cloud Infrastructure Report, organizations that evaluate only base token rates overspend by an average of 34% compared to teams conducting full cost modeling. A separate analysis from AI Cost Benchmark found that **hidden infrastructure fees** account for 22-41% of monthly API expenditures across major providers.

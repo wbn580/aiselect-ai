@@ -1,6 +1,9 @@
 ---
 title: "From Prompt to Prototype: Use Claude and Cursor to Build a Landing Page in 2 Hours"
-pubDatetime: 2025-11-23T16:55:21Z
+pubDatetime: "2025-11-23T16:55:21Z"
+description: "了解From Prompt to Prototype: Use Claude and Cursor to Build a Landing Page in 2 Hours - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # From Prompt to Prototype: Use Claude and Cursor to Build a Landing Page in 2 Hours

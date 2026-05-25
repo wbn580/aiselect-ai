@@ -1,6 +1,9 @@
 ---
 title: "Pika 2.0 Lip Sync: Add Dialogue to AI Characters Without Post‑Production"
-pubDatetime: 2025-12-24T13:01:51Z
+pubDatetime: "2025-12-24T13:01:51Z"
+description: "了解Pika 2.0 Lip Sync: Add Dialogue to AI Characters Without Post‑Production - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Pika 2.0 Lip Sync: Add Dialogue to AI Characters Without Post‑Production

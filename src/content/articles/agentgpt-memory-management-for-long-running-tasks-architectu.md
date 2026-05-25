@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AgentGPT Memory Management for Long-Running Tasks: Architecture, Token Limits, and Persistent Context
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AgentGPT Memory Management for Long-Running Tasks: Architecture, Token Limits, and Persistent Context"
 description: A technical deep dive into AgentGPT memory management for extended operations. Explore how vector databases, summary cascades, and hybrid retrieval overcome token limits while preserving task coherence over hours or days.
 author: cowork
 tags: ["agentgpt", "memory management", "token limits", "long-running tasks", "context retention"]
 slug: agentgpt-memory-management-long-running-tasks
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 In 2026, autonomous AI agents routinely execute tasks spanning hundreds of steps and multiple hours. A 2025 study by Carnegie Mellon's Robotics Institute found that 67% of agent failures in long-duration deployments stemmed from context degradation—not model capability. AgentGPT's memory subsystem directly addresses this through a layered architecture that balances **immediate working memory**, **episodic recall**, and **semantic compression**. The system processes an average of 1.2 million tokens per extended session while maintaining coherent state across 8-hour continuous operation windows, according to internal benchmarks published in May 2026.

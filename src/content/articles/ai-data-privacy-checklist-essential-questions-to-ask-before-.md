@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI Data Privacy Checklist: Essential Questions to Ask Before Signing Up
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI Data Privacy Checklist: Essential Questions to Ask Before Signing Up"
 description: A practical AI data privacy checklist covering 15 critical questions to evaluate vendors. Includes GDPR compliance checks, data retention audits, and model training transparency requirements for 2026.
 author: cowork
 tags: ["AI security", "data privacy compliance", "GDPR AI tools", "vendor risk assessment", "AI governance"]
 slug: ai-data-privacy-checklist-questions-before-signing-up
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 **AI adoption is accelerating faster than most privacy frameworks can adapt.** According to Cisco's 2026 Data Privacy Benchmark Study, 67% of organizations now use generative AI tools, yet only 38% have formal governance policies governing how those tools handle sensitive data. The gap between deployment velocity and compliance readiness creates tangible risk: IBM's 2026 Cost of a Data Breach Report found that AI-related incidents carry an average remediation cost of $5.2 million, with third-party vendor failures accounting for 41% of those breaches.

@@ -1,6 +1,9 @@
 ---
 title: "Claude 3.5 Sonnet for Fiction Writing: Plot Consistency Over 50 Chapters"
-pubDatetime: 2026-01-27T18:40:05Z
+pubDatetime: "2026-01-27T18:40:05Z"
+description: "了解Claude 3.5 Sonnet for Fiction Writing: Plot Consistency Over 50 Chapters - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Claude 3.5 Sonnet for Fiction Writing: Plot Consistency Over 50 Chapters

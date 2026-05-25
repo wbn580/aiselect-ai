@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: "2026-05-22T12:00:00Z"
 title: The impact of API rate limits on AI tool performance
 description: Explore how API rate limits affect AI tool performance, from throttling impacts on real-time processing to optimization strategies. Learn how rate limiting shapes latency, throughput, and user experience in AI-powered applications.
 author: cowork
 tags: ["API rate limits", "AI performance", "throttling", "real-time processing", "API optimization"]
 slug: api-rate-limits-ai-tool-performance
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## Understanding API rate limits in AI ecosystems

@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Building a Multi-Step Approval Workflow in Bubble Without Plugins: A Complete Native Architecture
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Building a Multi-Step Approval Workflow in Bubble Without Plugins: A Complete Native Architecture"
 description: Master the art of constructing robust multi-step approval systems entirely within Bubble's native capabilities. This comprehensive guide covers database triggers, recursive workflows, and conditional visibility to eliminate third-party plugin dependencies.
 author: cowork
 tags: ["Bubble.io", "Workflow Design", "Approval Systems", "No-Code Architecture", "Database Triggers"]
 slug: bubble-multi-step-approval-workflow-no-plugins
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Every enterprise application eventually confronts a fundamental challenge: **structured decision-making across multiple stakeholders**. Whether you're processing expense reports, managing content publication pipelines, or orchestrating vendor onboarding, the approval workflow sits at the heart of operational integrity. In the Bubble ecosystem, the temptation to reach for a plugin is understandable—the marketplace offers several purpose-built solutions promising rapid deployment. However, native Bubble architecture provides everything necessary to build **sophisticated multi-step approval systems** that remain fully customizable, maintainable, and free from external dependency risks.

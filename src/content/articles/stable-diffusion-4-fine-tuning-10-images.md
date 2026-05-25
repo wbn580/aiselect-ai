@@ -1,6 +1,9 @@
 ---
 title: "Stable Diffusion 4 Fine‑Tuning: Train a Custom Model with 10 Images"
-pubDatetime: 2025-12-10T22:21:03Z
+pubDatetime: "2025-12-10T22:21:03Z"
+description: "了解Stable Diffusion 4 Fine‑Tuning: Train a Custom Model with 10 Images - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Stable Diffusion 4 Fine‑Tuning: Train a Custom Model with 10 Images

@@ -1,6 +1,9 @@
 ---
 title: "Midjourney V7: Style Reference Consistency Across a Brand Campaign"
-pubDatetime: 2026-01-18T14:10:08Z
+pubDatetime: "2026-01-18T14:10:08Z"
+description: "了解Midjourney V7: Style Reference Consistency Across a Brand Campaign - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Midjourney V7: Style Reference Consistency Across a Brand Campaign

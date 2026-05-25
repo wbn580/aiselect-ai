@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Collaborative AI: How Teams Can Share and Improve AI Workflows
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Collaborative AI: How Teams Can Share and Improve AI Workflows"
 description: Discover how collaborative AI workflow tools, team AI prompt sharing, and version control for AI projects are transforming team productivity. Learn practical strategies to build shared knowledge bases, optimize prompts collectively, and implement governance frameworks that keep your AI initiatives aligned and effective.
 author: cowork
 tags: ["collaborative ai workflow tools", "team ai prompt sharing", "version control ai projects", "AI collaboration", "team productivity"]
 slug: collaborative-ai-teams-share-improve-workflows
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The landscape of artificial intelligence has shifted dramatically. According to a 2026 McKinsey Global Survey, 72% of organizations now report that AI is embedded in at least two business functions, up from 55% in 2024. Yet the real competitive advantage isn't just adopting AI—it's how teams collaborate around it. **Collaborative AI workflow tools** are emerging as the backbone of high-performing teams that treat AI outputs not as final products but as evolving assets that benefit from collective refinement.

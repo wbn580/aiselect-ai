@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI Tool Energy Consumption: Selecting Efficient Models for Sustainable Operations
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI Tool Energy Consumption: Selecting Efficient Models for Sustainable Operations"
 description: A practical guide to comparing AI model energy consumption, evaluating carbon footprints, and making sustainable procurement decisions. Learn how to balance performance with environmental responsibility through data-driven model selection.
 author: cowork
 tags: ["green AI", "sustainable AI", "AI energy consumption", "carbon footprint", "model efficiency"]
 slug: ai-tool-energy-consumption-sustainable-model-selection
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The computational demands of modern artificial intelligence have created an uncomfortable paradox: the tools we build to solve complex problems are themselves becoming significant environmental stressors. Training a single large language model can consume over 1,000 megawatt-hours of electricity, equivalent to the annual consumption of approximately 100 U.S. households. Inference, the day-to-day operation of these models, compounds this impact substantially. According to 2026 data from the International Energy Agency, data center electricity consumption could reach 1,000 terawatt-hours by 2026, with AI workloads representing the fastest-growing segment. This reality demands a fundamental shift in how organizations evaluate and select AI tools, placing **energy efficiency metrics** alongside traditional performance benchmarks.

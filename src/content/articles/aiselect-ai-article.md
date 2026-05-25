@@ -1,10 +1,13 @@
 ---
-pubDatetime: 2026-05-22T18:26:40Z
+pubDatetime: "2026-05-22T18:26:40Z"
+description: "了解aiselect-ai-article - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 ```yaml
 title: "Integrating Stable Diffusion into Your Design Workflow Without Replacing Your Existing Tools"
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 description: "Discover how to seamlessly integrate Stable Diffusion into your existing design toolkit. Learn practical strategies for AI image generation integration, maintaining brand-consistent AI art, and leveraging Figma AI plugins without disrupting your creative process."
 author: "Design Tools Analyst"
 tags: ["Stable Diffusion design workflow", "AI image generation integration", "Figma AI plugin", "brand-consistent AI art", "prompt engineering for designers"]

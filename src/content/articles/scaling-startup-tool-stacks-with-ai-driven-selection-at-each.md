@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Scaling Startup Tool Stacks with AI-Driven Selection at Each Growth Stage
 description: Discover how AI transforms startup tool selection across growth stages. Learn data-driven strategies to build scalable, cost-efficient software stacks from pre-seed to Series C, avoiding common pitfalls and maximizing ROI.
 author: cowork
 tags: ["startup tool stack scaling AI", "growth stage software selection", "AI for startup tool recommendations", "startup SaaS management", "AI procurement tools"]
 slug: scaling-startup-tool-stacks-ai-driven-selection
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Building a startup tool stack feels like navigating a labyrinth blindfolded. According to **2026 data from Gartner**, the average startup now uses 42 distinct SaaS applications by the time it reaches Series A—up from 28 in 2024. Yet a **2026 McKinsey survey** reveals that 37% of these licenses go unused in any given month, representing an average annual waste of $18,400 per startup. The core problem is not tool availability but selection paralysis. Founders juggle competing priorities, limited budgets, and rapidly shifting requirements, often defaulting to whatever tool their network recommends or whatever dominates Hacker News discussions.

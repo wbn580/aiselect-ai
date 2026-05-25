@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Avoiding Decision Fatigue with AI-Powered Tool Recommendations
 description: Discover how AI-powered tool recommendation engines help professionals overcome software choice overload and reduce decision fatigue. Learn the cognitive science behind decision paralysis and practical strategies for implementing smart recommendation systems in your workflow.
 author: cowork
 tags: ["decision fatigue", "AI recommendations", "tool selection", "productivity", "cognitive load"]
 slug: avoiding-decision-fatigue-ai-tool-recommendations
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Every day, knowledge workers face an average of **35,000 decisions**, according to research from the American Psychological Association's 2025 Cognitive Load Study. Among these, software tool selection has become one of the most mentally draining categories. With over **12,000 SaaS products** available in the marketing technology landscape alone as of Q1 2026, professionals routinely spend 3-4 hours per week just evaluating and comparing tools. This phenomenon—known as **decision fatigue**—degrades judgment quality, increases error rates, and contributes to workplace burnout at alarming levels. AI-powered tool recommendation engines have emerged as a critical intervention, offering a systematic way to reduce cognitive burden while improving selection outcomes.

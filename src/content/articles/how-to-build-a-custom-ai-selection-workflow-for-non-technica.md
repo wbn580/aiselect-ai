@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Build a Custom AI Selection Workflow for Non-Technical Teams
 description: Learn how non-technical teams can build a custom AI selection workflow using no-code tools. This guide covers step-by-step setup, real-world examples, and strategies to streamline your AI tool evaluation process without writing a single line of code.
 author: cowork
 tags: ["custom AI selection workflow", "no-code AI tool setup", "AI for non-technical teams", "workflow automation with AI", "AI selection for marketing teams"]
 slug: custom-ai-selection-workflow-non-technical-teams
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 According to a 2026 Gartner survey, 78% of business teams report that evaluating AI tools consumes more than 15 hours per week, yet only 34% feel confident in their final selections. For marketing, sales, and operations teams without dedicated data scientists, the challenge isn't a lack of options—it's the overwhelming noise. A **custom AI selection workflow** built with no-code platforms can transform this chaotic process into a repeatable, transparent system. This guide walks through exactly how to design and deploy one, using tools your team already understands.

@@ -1,6 +1,9 @@
 ---
 title: "Webflow Localization in 2026: Launch a Multilingual Site Without Plugins"
-pubDatetime: 2026-01-19T08:11:38Z
+pubDatetime: "2026-01-19T08:11:38Z"
+description: "了解Webflow Localization in 2026: Launch a Multilingual Site Without Plugins - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Webflow Localization in 2026: Launch a Multilingual Site Without Plugins

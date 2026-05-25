@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: A Beginner’s Guide to Training Your Own AI Selection Model
 description: Learn how to build and train a custom AI selection model from scratch. This beginner-friendly guide covers data preparation, open-source tools, model architecture choices, and practical deployment strategies for DIY AI projects.
 author: cowork
 tags: ["train AI selection model", "DIY AI tool selector", "custom AI model guide", "open-source AI selection", "beginner AI training project"]
 slug: train-ai-selection-model-beginners-guide
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 According to a 2026 report by Grand View Research, the global AI training dataset market reached $3.8 billion, driven by a 47% year-over-year increase in custom model development among small teams and individual developers. Stanford's AI Index 2026 also noted that **open-source AI selection models** now account for 34% of all new machine learning deployments outside enterprise environments. These numbers tell a clear story: training your own AI is no longer reserved for research labs with million-dollar budgets.

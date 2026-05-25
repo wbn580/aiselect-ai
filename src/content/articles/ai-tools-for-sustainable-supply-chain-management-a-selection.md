@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI Tools for Sustainable Supply Chain Management: A Selection Guide
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI Tools for Sustainable Supply Chain Management: A Selection Guide"
 description: Discover how AI tools are transforming sustainable supply chain management in 2026. This comprehensive guide examines green logistics AI, carbon tracking solutions, and practical selection criteria for businesses seeking to reduce environmental impact while maintaining operational efficiency.
 author: cowork
 tags: ["AI sustainable supply chain", "supply chain AI tools", "green logistics AI", "AI carbon tracking supply", "sustainable operations"]
 slug: ai-tools-sustainable-supply-chain-management-guide
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Global supply chains account for over 60% of total greenhouse gas emissions, according to the **World Economic Forum's 2026 Global Risks Report**. As regulatory pressure intensifies and consumer expectations shift toward environmental accountability, businesses are turning to **AI tools for sustainable supply chain management** at an unprecedented rate. The **International Data Corporation (IDC)** projects that spending on AI-driven sustainability solutions will reach $45 billion by the end of 2026, representing a 28% increase from the previous year.

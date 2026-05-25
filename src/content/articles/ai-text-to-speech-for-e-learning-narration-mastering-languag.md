@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI Text-to-Speech for E-Learning Narration: Mastering Language and Pacing Control
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI Text-to-Speech for E-Learning Narration: Mastering Language and Pacing Control"
 description: Discover how AI text-to-speech technology is transforming e-learning narration with precise language selection and natural pacing control. Learn about multilingual capabilities, adaptive speed algorithms, and practical implementation strategies for creating engaging educational audio content.
 author: cowork
 tags: ["AI text-to-speech e-learning", "e-learning narration AI", "AI voiceover e-learning tool", "multilingual AI TTS e-learning", "natural AI narration pacing"]
 slug: ai-text-to-speech-e-learning-narration-language-pacing-control
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The global AI text-to-speech market for education surpassed $1.2 billion in 2025 and is projected to reach $3.8 billion by 2028, according to market research from Grand View Research. This explosive growth reflects a fundamental shift in how educational content creators approach audio narration. Traditional voiceover production often required professional studios, native speakers for each language variant, and painstaking manual synchronization. Today's **AI text-to-speech e-learning** solutions eliminate these barriers while offering unprecedented control over linguistic nuance and temporal delivery.

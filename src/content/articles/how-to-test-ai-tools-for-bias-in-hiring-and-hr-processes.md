@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Test AI Tools for Bias in Hiring and HR Processes
 description: A comprehensive guide on testing AI hiring tools for bias, covering fairness metrics, audit frameworks, and practical steps to ensure equitable recruitment outcomes.
 author: cowork
 tags: ["AI Ethics", "Hiring Bias", "HR Technology", "Fairness Testing", "Audit"]
 slug: test-ai-hiring-bias-hr-processes
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The integration of artificial intelligence into hiring has accelerated dramatically. A 2026 study by the **Society for Human Resource Management** found that 79% of large enterprises now use some form of AI in their recruitment stack, from resume screening to video interview analysis. However, the promise of efficiency comes with a well-documented risk: algorithmic bias. A landmark audit by the **National Institute of Standards and Technology (NIST)** in early 2026 revealed that facial analysis technologies still exhibit differential performance across demographic groups, with false match rates up to 10 times higher for certain populations. Testing for bias is no longer a theoretical exercise; it is a critical compliance and ethical imperative. This guide provides a practical, step-by-step methodology for auditing AI tools in your HR processes.

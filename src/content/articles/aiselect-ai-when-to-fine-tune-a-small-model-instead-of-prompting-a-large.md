@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: "2026-05-22T12:00:00Z"
 title: When to Fine-Tune a Small Model Instead of Prompting a Large One for Niche Tasks
 description: Discover when fine-tuning a compact model like Llama 3 outperforms prompting large LLMs for specialized tasks. Explore cost-efficiency, accuracy benchmarks, and practical decision frameworks for niche AI applications.
 author: AI Tools Editorial Team

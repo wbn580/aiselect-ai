@@ -1,6 +1,9 @@
 ---
 title: "Devin AI Software Engineer: What It Actually Ships in 2026"
-pubDatetime: 2026-01-13T08:55:36Z
+pubDatetime: "2026-01-13T08:55:36Z"
+description: "了解Devin AI Software Engineer: What It Actually Ships in 2026 - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Devin AI Software Engineer: What It Actually Ships in 2026

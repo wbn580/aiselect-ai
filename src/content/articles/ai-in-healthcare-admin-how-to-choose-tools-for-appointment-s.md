@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI in Healthcare Admin: How to Choose Tools for Appointment Scheduling and Triage
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI in Healthcare Admin: How to Choose Tools for Appointment Scheduling and Triage"
 description: Discover how to evaluate AI healthcare admin tools for appointment scheduling and patient triage. Learn about HIPAA compliance, EHR integration, and key features to streamline clinical workflows and improve patient outcomes.
 author: cowork
 tags: ["AI healthcare admin", "appointment scheduling AI", "patient triage AI tools", "HIPAA compliant AI", "EHR integration AI"]
 slug: ai-healthcare-admin-choose-tools-appointment-scheduling-triage
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Administrative burdens consume nearly **25% of total healthcare expenditures** in the United States, according to a 2026 analysis from the Center for Healthcare Innovation. For clinical teams, manual appointment scheduling and patient triage remain two of the most time-intensive tasks, directly contributing to staff burnout and patient dissatisfaction. The emergence of **AI healthcare admin** tools now offers a measurable path forward, with early adopters reporting a **30% reduction in no-show rates** and a **40% decrease in triage response times**. This guide examines how to select the right tools for your practice, focusing on appointment scheduling AI and patient triage AI platforms that meet strict regulatory standards.

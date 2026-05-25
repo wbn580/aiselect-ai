@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: "2026-05-22T12:00:00Z"
 title: Why You Should Test Multiple AI Detectors Before Accusing Students of Plagiarism
 description: Testing multiple AI detectors is essential for academic fairness. Learn why false positive rates, GPTZero accuracy limitations, and institutional policies demand a multi-tool approach before confronting students about AI-generated content.
 author: AI Ethics Editorial Team

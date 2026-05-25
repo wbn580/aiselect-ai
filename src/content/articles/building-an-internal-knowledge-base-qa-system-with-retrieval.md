@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Building an Internal Knowledge Base Q&A System with Retrieval-Augmented Generation
 description: A comprehensive technical guide to constructing a privacy-first internal knowledge base Q&A system using Retrieval-Augmented Generation. Explore architecture design, document grounding strategies, and enterprise search integration with citation-backed accuracy.
 author: cowork
 tags: ["RAG knowledge base setup", "internal AI assistant privacy", "document-grounded answers", "enterprise search with AI", "citation-backed chatbot"]
 slug: internal-knowledge-base-rag-system
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 More than 78% of enterprise knowledge workers report spending over 3.5 hours weekly searching for internal documents, according to a 2026 productivity survey by the Information Overload Research Group. Meanwhile, Gartner's 2026 Digital Workplace Report indicates that organizations deploying AI-augmented knowledge retrieval experience a 43% reduction in mean time to resolution for internal support tickets. These numbers underscore a pressing reality: the volume of institutional knowledge locked inside wikis, shared drives, and legacy intranets has outpaced traditional search capabilities. **Retrieval-Augmented Generation (RAG)** offers a path forward by anchoring large language model outputs in actual internal documents, producing **document-grounded answers** complete with verifiable citations. This article walks through the architecture, privacy considerations, and implementation patterns for building an **internal AI assistant** that respects data boundaries while dramatically improving knowledge discovery.

@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Troubleshooting Common Issues When Adopting AI Selection Tools
 description: A comprehensive guide to diagnosing and resolving common problems when integrating AI-powered selection tools into your workflow. Learn practical fixes for data compatibility, model drift, integration failures, and user adoption challenges with actionable strategies backed by 2026 industry data.
 author: cowork
 tags: ["AI selector adoption issues", "troubleshooting tool recommendation AI", "fixing AI selection problems", "AI tool integration", "AI decision support"]
 slug: troubleshooting-ai-selection-tool-adoption
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 According to a 2026 McKinsey survey, 67% of organizations have adopted at least one **AI selection tool** for decision-making workflows, yet 41% report significant operational friction within the first six months of deployment. Gartner's 2026 Hype Cycle for Artificial Intelligence identifies "AI selector disillusionment" as a peak concern, with implementation failure rates hovering near 28% for first-time adopters. These numbers highlight a critical gap between procurement enthusiasm and practical execution.

@@ -1,6 +1,9 @@
 ---
 title: "Zapier AI Actions: Connect ChatGPT to 7 000 Apps Without Code"
-pubDatetime: 2025-12-01T15:21:05Z
+pubDatetime: "2025-12-01T15:21:05Z"
+description: "了解Zapier AI Actions: Connect ChatGPT to 7 000 Apps Without Code - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Zapier AI Actions: Connect ChatGPT to 7 000 Apps Without Code

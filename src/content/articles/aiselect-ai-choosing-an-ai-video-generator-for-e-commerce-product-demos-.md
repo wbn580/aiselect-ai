@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: "2026-05-22T12:00:00Z"
 title: Choosing an AI Video Generator for E-Commerce Product Demos with Voiceover
 description: A practical guide to selecting AI video generators for e-commerce product demos with voiceover. Explore key features like AI avatar lip-sync, Shopify integration, and scalable creation workflows to boost conversion rates and streamline content production.
 author: Tools Editor

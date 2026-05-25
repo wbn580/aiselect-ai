@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: "2026-05-22T12:00:00Z"
 title: Assessing AI Tool Bias in Hiring and HR Applications in 2026
 description: A comprehensive analysis of how artificial intelligence bias infiltrates hiring tools and HR technology. Explore fairness audit frameworks, regulatory shifts, and practical strategies for building equitable algorithmic recruitment systems.
 author: cowork
 tags: ["AI bias", "hiring tools", "fairness audit", "HR technology", "algorithmic equity"]
 slug: assessing-ai-tool-bias-hiring-hr-applications-2026
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## Introduction: The Algorithmic Gatekeeper Dilemma

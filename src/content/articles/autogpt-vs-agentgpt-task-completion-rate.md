@@ -1,6 +1,9 @@
 ---
 title: "AutoGPT vs AgentGPT: Autonomous Task Completion Rate in Real Scenarios"
-pubDatetime: 2025-12-29T22:06:34Z
+pubDatetime: "2025-12-29T22:06:34Z"
+description: "了解AutoGPT vs AgentGPT: Autonomous Task Completion Rate in Real Scenarios - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # AutoGPT vs AgentGPT: Autonomous Task Completion Rate in Real Scenarios

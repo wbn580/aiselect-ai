@@ -1,6 +1,9 @@
 ---
 title: "Bubble Performance Optimization: From 3 s to 0.8 s Load Time in 2026"
-pubDatetime: 2026-02-20T16:56:50Z
+pubDatetime: "2026-02-20T16:56:50Z"
+description: "了解Bubble Performance Optimization: From 3 s to 0.8 s Load Time in 2026 - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Bubble Performance Optimization: From 3 s to 0.8 s Load Time in 2026

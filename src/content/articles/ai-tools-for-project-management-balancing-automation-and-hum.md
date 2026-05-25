@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI Tools for Project Management: Balancing Automation and Human Oversight
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI Tools for Project Management: Balancing Automation and Human Oversight"
 description: Explore how AI project management tools transform workflows while maintaining essential human oversight. Discover practical strategies for integrating automation into your productivity stack without sacrificing control or team creativity.
 author: cowork
 tags: ["AI project management", "automation human oversight", "productivity AI tools", "project management software", "workflow automation"]
 slug: ai-tools-project-management-automation-human-oversight
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The global market for **AI project management** solutions is projected to reach $5.7 billion by 2026, according to industry analysis from Gartner. Yet 73% of project managers report concerns about over-automation eroding team judgment, per a 2026 Project Management Institute survey. This tension between efficiency gains and human intuition defines the current landscape of **productivity AI tools**. The challenge is not choosing between automation and human input—it is designing systems where both elements strengthen each other.

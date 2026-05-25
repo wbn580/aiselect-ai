@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AutoGPT vs AgentGPT: Key Differences in Task Completion for Developers
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AutoGPT vs AgentGPT: Key Differences in Task Completion for Developers"
 description: An in-depth developer guide comparing AutoGPT and AgentGPT on task completion capabilities. Explore their architectures, performance metrics, and ideal use cases based on 2026 benchmarks.
 author: cowork
 tags: 
 slug: autogpt-vs-agentgpt-task-completion-guide
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## Introduction

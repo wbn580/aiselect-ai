@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Selecting AI for Social Media Listening: Sentiment Accuracy and Trend Detection
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Selecting AI for Social Media Listening: Sentiment Accuracy and Trend Detection"
 description: A comprehensive guide to evaluating AI social media listening tools. Learn how to assess sentiment analysis accuracy, multilingual capabilities, and trend detection algorithms to make data-driven decisions for your brand monitoring strategy.
 author: cowork
 tags: ["AI social media listening", "sentiment analysis tool selection", "trend detection AI", "social listening criteria", "multilingual AI sentiment"]
 slug: selecting-ai-social-media-listening-sentiment-trend-detection
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 A 2026 Gartner survey found that 68% of marketing leaders now prioritize **AI social media listening** platforms with native sentiment analysis over traditional monitoring dashboards. Meanwhile, Stanford's AI Index Report 2026 reveals that top-tier **sentiment analysis tool selection** algorithms achieve 91.3% accuracy on English-language social content, yet drop to 74.8% when processing code-mixed multilingual posts. This gap underscores the stakes: brands that select the wrong tool risk misinterpreting consumer emotion at scale.

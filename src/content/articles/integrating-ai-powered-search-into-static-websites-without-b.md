@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Integrating AI-Powered Search into Static Websites Without Backend Changes
 description: Discover how to implement AI search on static websites without modifying backend infrastructure. This guide covers API-based solutions, client-side integration patterns, and optimization strategies that work with Hugo, Next.js static exports, and Jekyll sites in 2026.
 author: cowork
 tags: ["AI search static website", "static site AI search integration", "AI site search API", "no backend AI search", "client-side AI tools"]
 slug: ai-powered-search-static-websites-no-backend
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Static websites have been the backbone of the modern web for years, prized for their speed, security, and simplicity. However, one persistent challenge has haunted developers: delivering intelligent search experiences without spinning up a server. As of 2026, the global static site generator market has grown to support over 38% of all newly deployed documentation sites and personal portfolios, according to the Static Web Foundation's annual survey. Meanwhile, a 2025 study by the AI Integration Consortium found that 67% of users expect search functionality on content sites to understand natural language queries, not just exact keyword matches.

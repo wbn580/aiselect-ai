@@ -1,6 +1,9 @@
 ---
 title: "Netlify Edge Handlers: Personalize Content at the CDN Level"
-pubDatetime: 2026-02-13T07:20:23Z
+pubDatetime: "2026-02-13T07:20:23Z"
+description: "了解Netlify Edge Handlers: Personalize Content at the CDN Level - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Netlify Edge Handlers: Personalize Content at the CDN Level

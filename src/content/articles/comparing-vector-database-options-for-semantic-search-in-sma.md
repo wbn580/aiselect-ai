@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Comparing Vector Database Options for Semantic Search in Small to Mid-Sized Apps
 description: A practical guide to choosing the right vector database for semantic search in resource-constrained environments. We compare Pinecone, pgvector, and other solutions on cost, scalability, and ease of integration for development teams.
 author: cowork
 tags: ["vector database for small apps", "semantic search backend choice", "lightweight embedding storage", "managed vs self-hosted vector DB", "infrastructure"]
 slug: comparing-vector-database-options-small-mid-sized-apps
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The global vector database market is projected to reach $4.3 billion by 2028, with adoption among small to mid-sized applications growing 67% year-over-year in 2026, according to a recent DB-Engines survey. For engineering teams building semantic search into products with limited infrastructure budgets, the **vector database for small apps** decision directly impacts both performance and operational overhead. This article examines the trade-offs between managed services like Pinecone, self-hosted options like pgvector, and emerging alternatives, focusing on the metrics that matter when you are not operating at hyperscale.

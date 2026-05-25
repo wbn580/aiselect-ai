@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI Selection for Remote Work Tools: What Small Businesses Need to Know
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI Selection for Remote Work Tools: What Small Businesses Need to Know"
 description: Navigate the complex landscape of AI-powered remote work tools for small businesses. Learn practical strategies for budget-friendly AI selection, compare key features, and discover how to boost team productivity without enterprise-level complexity.
 author: cowork
 tags: ["AI selection remote work tools", "small business AI tool picker", "remote productivity AI guide", "AI for SMB tool selection", "budget-friendly AI selection"]
 slug: ai-selection-remote-work-tools-small-business
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## Introduction: The AI Advantage for Remote Small Teams

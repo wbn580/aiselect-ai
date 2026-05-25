@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI for Event Planning: Tools to Streamline Logistics and Attendee Experience
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI for Event Planning: Tools to Streamline Logistics and Attendee Experience"
 description: Discover how artificial intelligence is transforming event management in 2026. Explore cutting-edge tools that automate logistics, personalize attendee journeys, and deliver measurable ROI for corporate events and conferences.
 author: cowork
 tags: ["AI event planning", "event logistics AI", "attendee experience AI", "event management technology", "smart event tools"]
 slug: ai-event-planning-tools-streamline-logistics-attendee-experience
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The global event management software market is projected to reach $14.8 billion in 2026, with AI-powered solutions accounting for over 40% of new technology investments according to Grand View Research. Corporate event planners who integrate AI event planning tools report an average 32% reduction in operational hours spent on logistics coordination. This shift represents more than incremental improvement—it fundamentally redefines how events are conceptualized, executed, and measured.

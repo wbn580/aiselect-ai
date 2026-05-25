@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Bubble Performance Optimization Techniques for 2026: Speed Up Your No-Code App
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Bubble Performance Optimization Techniques for 2026: Speed Up Your No-Code App"
 description: Master bubble io performance 2026 with proven strategies to optimize Bubble app speed. Learn server-side workflow optimization, database performance tips, and front-end tuning for faster no-code applications.
 author: cowork
 tags: ["Bubble.io", "No-Code", "Performance Optimization", "Web Development", "Database Tuning"]
 slug: bubble-performance-optimization-techniques-2026
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## Introduction

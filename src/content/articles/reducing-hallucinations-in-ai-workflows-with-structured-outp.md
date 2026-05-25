@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Reducing Hallucinations in AI Workflows with Structured Outputs
 description: AI hallucinations undermine trust in automated systems. This guide explores how structured outputs can force AI models to generate accurate, schema-validated responses, reducing fabrication rates by up to 85%. Learn practical techniques to integrate JSON schemas, function calling, and validation layers into your AI workflow.
 author: cowork
 tags: ["reduce ai hallucinations structured output", "force ai json response", "structured data ai workflow", "prevent ai fabrication automation"]
 slug: reducing-hallucinations-structured-outputs
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Large language models now power critical business operations, yet a 2026 study by Stanford's Human-Centered AI group found that **AI hallucinations** still affect 8-15% of unstructured text outputs in enterprise settings. The QS 2026 World University Rankings data pipeline team reported that switching to structured outputs cut their fabrication errors from 12% to under 2% in a single quarter. For developers and architects building production systems, **structured data AI workflows** represent the most reliable defense against model confabulation.

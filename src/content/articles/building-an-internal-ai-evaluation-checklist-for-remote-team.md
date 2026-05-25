@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: "2026-05-22T12:00:00Z"
 title: Building an Internal AI Evaluation Checklist for Remote Teams
 description: Learn how to create a structured AI evaluation checklist tailored for distributed work environments. This guide covers assessment frameworks, security protocols, and performance metrics that help remote teams select and implement AI tools effectively in 2026.
 author: cowork
 tags: ["remote team", "evaluation checklist", "AI assessment", "distributed work", "collaboration tools"]
 slug: internal-ai-evaluation-checklist-remote-teams
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Remote work is no longer a temporary experiment. By 2026, the OECD reports that **38% of knowledge workers** operate in hybrid or fully distributed arrangements, while McKinsey's latest workforce survey indicates that **72% of organizations** now maintain permanent remote team structures. This shift has accelerated AI adoption across collaboration stacks, with Gartner estimating that **65% of remote teams** will integrate at least three AI-powered tools into their daily workflows by the end of this year.

@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Security Implications of AI-Powered Email Filtering for Small Businesses
 description: Explore the hidden security risks and practical benefits of AI-powered email filtering for small businesses. Learn how machine learning transforms phishing detection while introducing new vulnerabilities that demand strategic implementation.
 author: cowork
 tags: ["AI email filtering security", "small business AI email security", "AI phishing detection email", "AI email filter risks", "AI email security tool small business"]
 slug: security-implications-ai-email-filtering-small-businesses
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## The Double-Edged Sword of AI Email Filtering

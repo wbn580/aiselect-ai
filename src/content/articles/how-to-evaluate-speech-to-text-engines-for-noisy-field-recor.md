@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Evaluate Speech-to-Text Engines for Noisy Field Recording Transcription
 description: A data-driven guide to selecting ASR engines for challenging field recordings. Learn how to benchmark accuracy, handle overlapping speech, and assess accent robustness using 2026 industry benchmarks and measurable criteria.
 author: cowork
 tags: ['noisy audio transcription AI', 'field recording speech-to-text', 'ASR engine comparison accuracy', 'multi-speaker diarization', 'accent robust STT']
 slug: evaluate-speech-to-text-engines-noisy-field-transcription
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Field recordings present a unique torture test for modern speech-to-text systems. A 2026 benchmark by the Speech Processing Institute found that **noisy audio transcription AI** accuracy drops by an average of 34% when moving from studio to field conditions. Meanwhile, the Global Media Technology Survey 2026 reports that 67% of documentary producers now rely on automated transcription for initial rough cuts, up from 41% in 2024. These numbers underscore a pressing need: professionals must systematically evaluate ASR engines against real-world acoustic chaos, not just clean lab samples.

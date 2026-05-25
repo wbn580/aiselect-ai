@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Using AI Selectors for Educational Technology: A Teacher’s Guide
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Using AI Selectors for Educational Technology: A Teacher’s Guide"
 description: Discover how AI selectors for educational technology can transform classroom tool selection. This guide offers practical strategies for teachers to evaluate AI-driven recommendations and integrate edtech effectively into their teaching practices.
 author: cowork
 tags: ["AI selector for edtech", "teachers guide AI tools", "classroom technology selection", "AI for education tools", "edtech recommendation AI"]
 slug: using-ai-selectors-educational-technology-teachers-guide
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## Introduction

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: "2026-05-22T12:00:00Z"
 title: Choosing a Text-to-Speech Engine for Accessibility Compliance in Government Websites
 description: A comprehensive guide to selecting AI-powered text-to-speech engines that meet WCAG accessibility standards for government websites. Explore technical requirements, SSML capabilities, and integration strategies for 2026 compliance mandates.
 author: AI Audio Tools Editor

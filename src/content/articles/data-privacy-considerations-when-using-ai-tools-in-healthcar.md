@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Data Privacy Considerations When Using AI Tools in Healthcare Projects
 description: Explore the critical data privacy considerations when deploying AI tools in healthcare projects. This guide covers HIPAA compliance frameworks, secure integration architectures, de-identification strategies, and evolving regulatory landscapes for protecting patient information in 2026.
 author: cowork
 tags: ["ai healthcare data privacy", "hipaa compliant ai tools", "secure ai integration healthcare", "healthcare data governance", "patient privacy"]
 slug: data-privacy-ai-tools-healthcare-projects
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The integration of artificial intelligence into clinical workflows is accelerating at an unprecedented pace. A 2026 report from the Office of the National Coordinator for Health IT indicates that over 78% of U.S. healthcare organizations now deploy some form of AI-assisted diagnostic or administrative tool, a figure that has nearly doubled since 2023. Yet this rapid adoption introduces profound tensions between algorithmic capability and fundamental privacy obligations. Healthcare data is not merely proprietary—it is sacred, governed by layers of federal statutes, state laws, and ethical covenants that predate the current technological era.

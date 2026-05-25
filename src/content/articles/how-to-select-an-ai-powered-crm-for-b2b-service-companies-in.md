@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Select an AI-Powered CRM for B2B Service Companies in 2026
 description: A comprehensive guide to choosing the right AI-powered CRM for B2B service businesses. Learn about essential features, evaluation frameworks, implementation strategies, and how to avoid costly mistakes in your selection process.
 author: cowork
 tags: ["AI CRM B2B service", "choose AI-powered CRM", "B2B AI CRM features", "AI lead scoring CRM", "service company AI CRM"]
 slug: select-ai-powered-crm-b2b-service-companies-2026
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The B2B service sector is undergoing a fundamental transformation in how client relationships are managed. According to Gartner's 2025 Market Analysis, **78% of B2B service organizations** have either adopted or plan to adopt AI-enhanced CRM systems by 2026, up from just 34% in 2023. The global market for AI-powered CRM solutions reached $24.3 billion in 2025, with projections indicating a compound annual growth rate of 13.7% through 2029.

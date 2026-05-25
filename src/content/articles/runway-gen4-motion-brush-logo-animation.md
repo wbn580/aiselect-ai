@@ -1,6 +1,9 @@
 ---
 title: "Runway Gen‑4 Motion Brush: Animate Static Logos in Under 60 Seconds"
-pubDatetime: 2025-12-09T06:17:36Z
+pubDatetime: "2025-12-09T06:17:36Z"
+description: "了解Runway Gen‑4 Motion Brush: Animate Static Logos in Under 60 Seconds - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Runway Gen‑4 Motion Brush: Animate Static Logos in Under 60 Seconds

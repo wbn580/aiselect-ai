@@ -1,6 +1,9 @@
 ---
 title: "Multi‑Agent Simulation: Coordinating 3 AI Agents to Research a Market Report"
-pubDatetime: 2026-01-24T12:36:24Z
+pubDatetime: "2026-01-24T12:36:24Z"
+description: "了解Multi‑Agent Simulation: Coordinating 3 AI Agents to Research a Market Report - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Multi‑Agent Simulation: Coordinating 3 AI Agents to Research a Market Report

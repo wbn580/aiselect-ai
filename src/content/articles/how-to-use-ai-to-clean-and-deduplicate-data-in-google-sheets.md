@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Use AI to Clean and Deduplicate Data in Google Sheets
 description: Master the art of AI-powered data cleaning and deduplication in Google Sheets. Discover automated workflows that reduce manual errors by 87% and save hours of repetitive work in your spreadsheets.
 author: cowork
 tags: ["ai clean data google sheets", "deduplicate google sheets ai", "ai data cleaning tool", "google sheets ai dedupe", "data quality automation"]
 slug: ai-clean-deduplicate-data-google-sheets
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## The Growing Crisis of Dirty Data in Spreadsheets

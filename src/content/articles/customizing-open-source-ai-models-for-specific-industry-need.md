@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
-title: Customizing Open-Source AI Models for Specific Industry Needs: A Practical Guide
+pubDatetime: "2026-05-22T12:00:00Z"
+title: "Customizing Open-Source AI Models for Specific Industry Needs: A Practical Guide"
 description: Discover how organizations across healthcare, finance, manufacturing, and legal sectors are adapting open-source AI models through fine-tuning and customization to achieve domain-specific precision, reduce costs, and maintain data sovereignty in 2026.
 author: cowork
 tags: ["open-source AI", "model customization", "fine-tuning", "industry-specific AI", "enterprise machine learning"]
 slug: customizing-open-source-ai-industry-needs
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## Introduction

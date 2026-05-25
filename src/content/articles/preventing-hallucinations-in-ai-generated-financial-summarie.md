@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Preventing Hallucinations in AI-Generated Financial Summaries
 description: Explore proven strategies to stop AI hallucinations in financial reporting. Learn how grounded generation, retrieval-augmented frameworks, and audit-ready validation pipelines are transforming financial data accuracy and trustworthy AI outputs for risk management in 2026.
 author: cowork
 tags: [AI hallucination prevention, financial data accuracy AI, grounded generation methods, trustworthy AI outputs, audit-ready AI summaries]
 slug: preventing-hallucinations-ai-financial-summaries
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 A 2026 survey by the International Association of Financial Engineers reveals that **78% of financial institutions** now deploy large language models for quarterly report drafting, yet **63% of those same firms** cite hallucination as their primary operational risk. A separate analysis from Thomson Reuters Labs in early 2026 documented that unverified AI summaries introduced factual errors in **3.2 out of every 100 earnings call transcripts** processed through generic generative models. These numbers are not just statistical noise—they represent potential compliance violations, investor mistrust, and material misstatements that can trigger regulatory scrutiny.

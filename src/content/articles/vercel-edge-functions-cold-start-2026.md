@@ -1,6 +1,9 @@
 ---
 title: "Vercel Edge Functions Cold Start Battle: 2026 Performance Data"
-pubDatetime: 2025-11-28T11:16:41Z
+pubDatetime: "2025-11-28T11:16:41Z"
+description: "了解Vercel Edge Functions Cold Start Battle: 2026 Performance Data - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Vercel Edge Functions Cold Start Battle: 2026 Performance Data

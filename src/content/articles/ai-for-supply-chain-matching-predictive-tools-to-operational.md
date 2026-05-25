@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI for Supply Chain: Matching Predictive Tools to Operational Complexity
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI for Supply Chain: Matching Predictive Tools to Operational Complexity"
 description: Discover how to align AI supply chain tools with your real operational complexity. We cut through the hype to examine predictive logistics AI, demand sensing, and dynamic routing against actual infrastructure maturity and planning depth.
 author: cowork
 tags: ["AI supply chain tools", "predictive logistics AI", "operational complexity AI", "supply chain digitization", "demand sensing"]
 slug: ai-supply-chain-matching-predictive-tools-operational-complexity
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The global market for **AI supply chain tools** is projected to reach $41.2 billion by 2026, driven by a compound annual growth rate of 38.8% since 2023. Yet according to a 2026 McKinsey operations survey, 60% of supply chain leaders report that their predictive analytics investments have failed to meet ROI expectations—not because the algorithms were flawed, but because the **operational complexity AI** solutions were mismatched to the actual problem structure. A 2026 Gartner report further indicates that through 2028, 70% of supply chain organizations will restructure their AI tooling stacks after discovering that off-the-shelf **predictive logistics AI** cannot handle their unique constraint density.

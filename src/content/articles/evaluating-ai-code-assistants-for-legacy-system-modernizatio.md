@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: Evaluating AI Code Assistants for Legacy System Modernization Projects
 description: A practical guide to assessing AI code assistants for modernizing legacy systems. Explore how tools handle COBOL, Fortran, and outdated frameworks, with insights on migration accuracy, security, and team adoption strategies.
 author: cowork
 tags: ["AI code assistant legacy systems", "modernize COBOL with AI", "legacy code AI migration", "AI for outdated frameworks", "developer tools"]
 slug: evaluating-ai-code-assistants-legacy-modernization
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## Introduction

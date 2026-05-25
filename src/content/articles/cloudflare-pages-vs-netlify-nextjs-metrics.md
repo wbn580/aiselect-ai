@@ -1,6 +1,9 @@
 ---
 title: "Cloudflare Pages vs Netlify: Deploy a Next.js App and Measure Real User Metrics"
-pubDatetime: 2026-01-03T11:42:11Z
+pubDatetime: "2026-01-03T11:42:11Z"
+description: "了解Cloudflare Pages vs Netlify: Deploy a Next.js App and Measure Real User Metrics - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Cloudflare Pages vs Netlify: Deploy a Next.js App and Measure Real User Metrics

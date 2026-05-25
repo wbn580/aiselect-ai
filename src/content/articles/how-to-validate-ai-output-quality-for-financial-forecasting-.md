@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Validate AI Output Quality for Financial Forecasting Use Cases
 description: Discover a structured framework for validating AI output quality in financial forecasting. Learn how to benchmark AI accuracy, implement explainable AI budgeting, and design rigorous output quality testing protocols that ensure reliable, audit-ready predictions for your organization.
 author: cowork
 tags: ["AI financial forecasting validation", "benchmark AI accuracy finance", "explainable AI budgeting", "AI output quality testing", "financial model risk management"]
 slug: validate-ai-output-quality-financial-forecasting
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Financial institutions are rapidly embedding artificial intelligence into their forecasting workflows. A 2026 survey by the Global Association of Risk Professionals indicates that 68% of treasury departments now use some form of machine learning for cash flow prediction, up from 41% in 2024. However, the same report highlights a critical bottleneck: only 29% of these teams have a **formal AI output quality testing** framework in place. The consequence is not just inaccurate numbers; it is undetected model drift silently eroding capital allocation decisions.

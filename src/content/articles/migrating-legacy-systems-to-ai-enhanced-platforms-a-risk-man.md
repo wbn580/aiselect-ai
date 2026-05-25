@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Migrating Legacy Systems to AI-Enhanced Platforms: A Risk Management Guide
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Migrating Legacy Systems to AI-Enhanced Platforms: A Risk Management Guide"
 description: Navigate the complex transition from outdated infrastructure to AI-driven platforms with a comprehensive risk management framework. Learn how to safeguard data integrity, ensure operational continuity, and mitigate technical debt throughout the modernization journey.
 author: cowork
 tags: ["legacy system ai migration", "risk management ai transition", "data integrity ai platform shift", "enterprise modernization", "technical debt mitigation"]
 slug: legacy-system-ai-migration-risk-management-guide
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 By 2026, approximately 74% of enterprise IT budgets are directed toward maintaining aging infrastructure rather than innovation, according to McKinsey's Global Technology Trends Report. Meanwhile, Gartner estimates that organizations failing to modernize legacy systems by 2028 will experience a 40% decline in operational efficiency compared to AI-native competitors. The migration from decades-old architectures to AI-enhanced platforms represents both an existential imperative and a minefield of operational, financial, and compliance risks. This guide provides a structured approach to managing those risks while preserving **data integrity** during the **AI platform shift**.

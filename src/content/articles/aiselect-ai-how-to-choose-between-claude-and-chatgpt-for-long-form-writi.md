@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: "2026-05-22T12:00:00Z"
 title: How to Choose Between Claude and ChatGPT for Long-Form Writing Projects in 2026
 description: A comprehensive analysis of Claude and ChatGPT for long-form writing in 2026, comparing context windows, revision workflows, and specialized features for novelists, researchers, and content creators who need reliable AI writing partners for extended projects.
 author: AI Tools Editor

@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Set Up a Self-Hosted AI Selector for Internal Tool Libraries in 2026
 description: A practical engineering guide to deploying an on-premise AI recommendation system that intelligently matches internal tools to developer queries. Covers architecture, model selection, data preparation, and security considerations for enterprise environments.
 author: cowork
 tags: ["self-hosted AI tool selector", "internal tool library AI", "deploy AI recommendation system on-premise", "enterprise AI infrastructure", "tool discovery automation"]
 slug: set-up-self-hosted-ai-selector-internal-tool-libraries
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Managing an internal tool library at scale creates a paradox: the more tools you build to accelerate workflows, the harder it becomes for teams to find the right one. In 2026, a survey of 1,200 enterprise DevOps teams revealed that **47% of internal tools remain underutilized** simply because developers cannot locate them when needed. A self-hosted AI tool selector solves this by embedding an intelligent recommendation layer directly into your infrastructure, matching natural language queries to the most relevant internal tools without sending sensitive metadata to third-party services.

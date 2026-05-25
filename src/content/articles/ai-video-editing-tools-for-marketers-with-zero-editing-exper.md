@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: AI Video Editing Tools for Marketers with Zero Editing Experience
 description: Discover how AI video editing tools empower marketers with no technical background to create professional marketing videos in minutes. Explore automatic captioning, smart scene detection, and one-click templates designed for complete beginners in 2026.
 author: cowork
 tags: ["ai video editing beginner", "marketing video ai", "auto caption ai tool", "video marketing", "AI tools"]
 slug: ai-video-editing-tools-marketers-zero-experience
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## The Rise of AI-Powered Video Creation for Non-Editors

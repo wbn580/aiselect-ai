@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: How to Use AI for Smart Tool Selection in Small Teams: A Practical Guide for Lean Workflows
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "How to Use AI for Smart Tool Selection in Small Teams: A Practical Guide for Lean Workflows"
 description: Discover how small teams can leverage AI to evaluate, compare, and select productivity tools with precision. This guide covers data-driven frameworks, real-world scenarios, and actionable strategies to reduce software waste and accelerate team performance.
 author: cowork
 tags: ["AI tool selection small teams", "smart software selection guide", "AI for team productivity tools", "workflow automation", "small team software strategy"]
 slug: ai-smart-tool-selection-small-teams
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## Introduction: The Hidden Cost of Poor Tool Selection

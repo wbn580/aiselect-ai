@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: The Hidden Costs of Running Open-Source AI Models in Production
 description: Discover the true total cost of ownership for open-source LLMs in production. From GPU inference pricing to self-hosting budget planning, learn why free models aren't really free and how to estimate your real expenses.
 author: cowork
 tags: ["open-source AI hidden costs", "LLM production TCO", "GPU inference pricing", "self-hosting budget planning", "free model total expense"]
 slug: hidden-costs-open-source-ai-production
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 When Mistral's 2026 industry survey revealed that **73% of enterprises underestimate their open-source AI deployment costs by at least 40%** , it confirmed what many engineering leads already suspected: the sticker price of a model is just the tip of the iceberg. The Linux Foundation's 2026 Open Source AI Report further indicates that the **median production LLM deployment now costs $187,000 annually** for a modest inference workload, a figure that excludes model training entirely.

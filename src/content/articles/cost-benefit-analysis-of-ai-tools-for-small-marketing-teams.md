@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: "2026-05-22T12:00:00Z"
 title: Cost-benefit analysis of AI tools for small marketing teams
 description: A comprehensive analysis of AI marketing tool costs versus measurable returns for small teams. Discover how to calculate true ROI, avoid hidden expenses, and build a scalable tech stack that delivers results without breaking budgets.
 author: cowork
 tags: ["cost-benefit", "marketing AI", "small team", "ROI analysis", "SMB marketing"]
 slug: ai-tools-cost-benefit-small-marketing-teams
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Small marketing teams face a persistent dilemma: how to compete with larger competitors while operating on lean budgets. The answer increasingly lies in **AI-powered marketing tools**, but the landscape has become complex. According to McKinsey's 2026 Global AI Survey, 67% of small and mid-sized marketing departments now use at least one **AI tool**, yet only 34% report a clear positive ROI. Meanwhile, Gartner's 2026 Marketing Technology Report indicates that the average small team spends $1,850 monthly on **AI subscriptions**, with 22% of those tools going unused after initial adoption.

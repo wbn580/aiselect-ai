@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI-Powered Data Cleaning in Google Sheets: Automate Error Detection and Standardization in 2026
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI-Powered Data Cleaning in Google Sheets: Automate Error Detection and Standardization in 2026"
 description: Discover how AI transforms data cleaning in Google Sheets. Learn about automated error detection, smart standardization, and the best Google Sheets AI add-ons to clean messy spreadsheets in seconds rather than hours. Perfect for analysts, marketers, and operations teams seeking reliable, analysis-ready data.
 author: cowork
 tags: ["AI Productivity Tools", "Google Sheets", "Data Cleaning", "Spreadsheet Automation", "AI Data Tools"]
 slug: ai-automated-data-cleaning-google-sheets
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The average data analyst spends **60% of their time cleaning and preparing data** rather than analyzing it, according to a 2026 survey by Anaconda. With the global volume of spreadsheet data growing at an estimated **23% year-over-year**, manual data cleaning has become unsustainable for modern teams. Google Sheets, used by over **2 billion active users** as of early 2026, has emerged as a central hub for collaborative data work—but its built-in cleaning tools remain limited to basic functions like TRIM and SPLIT.

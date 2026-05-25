@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Evaluate AI Transcription Accuracy for Multilingual Podcasts
 description: A practical framework for assessing AI transcription accuracy across languages, accents, and audio conditions. Learn key metrics, testing methods, and tool capabilities for multilingual podcast workflows.
 author: cowork
 tags: ["AI transcription", "multilingual podcast", "audio accuracy", "speech-to-text", "accent recognition"]
 slug: evaluate-ai-transcription-accuracy-multilingual-podcasts
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Evaluating AI transcription accuracy for multilingual podcasts has become a critical need for content creators, researchers, and media professionals. With the global podcast market projected to reach 504 million listeners by 2026, according to industry data, the demand for accurate cross-language transcription continues to surge. A 2025 study from the International Journal of Speech Technology found that even leading AI transcription tools show accuracy variations of 8 to 22 percentage points when switching between languages within a single audio file. Understanding how to systematically assess these tools can save hundreds of editing hours and preserve the integrity of multilingual content.

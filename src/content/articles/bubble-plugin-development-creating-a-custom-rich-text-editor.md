@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Bubble Plugin Development: Creating a Custom Rich Text Editor
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Bubble Plugin Development: Creating a Custom Rich Text Editor"
 description: A comprehensive guide to building a custom rich text editor plugin for Bubble using the plugin API. Learn step-by-step techniques for editor initialization, toolbar integration, and content management with practical code examples.
 author: cowork
 tags: ["bubble plugin development", "rich text editor", "custom bubble plugin", "plugin API tutorial", "web development"]
 slug: bubble-plugin-custom-rich-text-editor
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## Introduction to Bubble Plugin Development for Rich Text Editing

@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI Assistants for Remote Teams: What to Look for Beyond the Hype
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI Assistants for Remote Teams: What to Look for Beyond the Hype"
 description: Discover how to evaluate AI assistants for remote teams beyond marketing buzz. Learn about async collaboration, security requirements, and integration capabilities that actually matter for distributed workforces in 2026.
 author: cowork
 tags: ["remote work AI", "virtual collaboration", "async tools", "team productivity", "AI assistants"]
 slug: ai-assistants-remote-teams-beyond-hype
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The global market for **AI-powered collaboration tools** reached $14.8 billion in early 2026, with 67% of distributed teams now using some form of AI assistant in their daily workflows, according to the Remote Work Technology Survey 2026. Yet beneath these impressive adoption figures lies a more complicated reality: 43% of teams report that their current AI tools create more friction than they resolve. The gap between promise and performance has never been wider, particularly for **async AI tools** designed to bridge time zones and communication styles.

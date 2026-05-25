@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Integrating AI Analytics into No-Code Dashboards: A Non-Technical Guide
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Integrating AI Analytics into No-Code Dashboards: A Non-Technical Guide"
 description: Learn how to seamlessly embed AI analytics into no-code dashboards without writing a single line of code. This guide covers practical integration methods for Airtable, Bubble, and other leading platforms, helping business users unlock predictive insights and automated data storytelling.
 author: cowork
 tags: ["AI analytics no-code dashboard", "embed AI analytics no-code", "no-code AI insights", "Airtable AI analytics integration", "Bubble AI analytics"]
 slug: integrating-ai-analytics-no-code-dashboards-guide
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 By 2026, over **65% of business intelligence adoption** will involve some form of embedded artificial intelligence, according to Gartner's latest analytics maturity report. The days when advanced data analysis required Python scripts and SQL queries are fading fast. Today, **AI analytics no-code dashboard** solutions allow marketing managers, operations leads, and startup founders to surface predictive patterns, detect anomalies, and generate natural language summaries directly inside visual interfaces they already use. What once demanded a dedicated data science team now happens through drag-and-drop configuration.

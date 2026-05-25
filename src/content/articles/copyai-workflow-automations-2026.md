@@ -1,6 +1,9 @@
 ---
 title: "Copy.ai Workflow Automations: Build Your Content Pipeline in 20 Minutes"
-pubDatetime: 2025-12-08T21:09:04Z
+pubDatetime: "2025-12-08T21:09:04Z"
+description: "了解Copy.ai Workflow Automations: Build Your Content Pipeline in 20 Minutes - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Copy.ai Workflow Automations: Build Your Content Pipeline in 20 Minutes

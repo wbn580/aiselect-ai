@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: "2026-05-22T12:00:00Z"
 title: How to Set Up a Local AI Image Upscaler for Archival Photo Restoration
 description: Learn to build a fully offline AI photo restoration workstation using local upscalers like Upscayl and Real-ESRGAN. Preserve privacy while restoring pre-digital family archives, historical prints, and delicate film scans with open-source tools that never send your data to the cloud.
 author: AI Tools Editorial

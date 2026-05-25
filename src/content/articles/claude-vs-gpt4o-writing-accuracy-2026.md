@@ -1,6 +1,9 @@
 ---
 title: "Claude 3.5 Sonnet vs GPT-4o: Real‑World Writing Accuracy Tested in 2026"
-pubDatetime: 2025-12-13T07:31:58Z
+pubDatetime: "2025-12-13T07:31:58Z"
+description: "了解Claude 3.5 Sonnet vs GPT-4o: Real‑World Writing Accuracy Tested in 2026 - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Claude 3.5 Sonnet vs GPT‑4o: Real‑World Writing Accuracy Tested in 2026

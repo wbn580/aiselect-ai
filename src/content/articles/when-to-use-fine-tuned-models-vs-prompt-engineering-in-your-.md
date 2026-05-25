@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: When to Use Fine-Tuned Models vs Prompt Engineering in Your Stack
 description: Discover the decision framework for choosing between fine-tuning and prompt engineering in your AI stack. Compare costs, accuracy needs, and data requirements with 2026 benchmarks and practical thresholds.
 author: cowork
 tags: ["AI Models", "Fine-Tuning", "Prompt Engineering", "Model Optimization", "AI Strategy"]
 slug: fine-tuning-vs-prompt-engineering-decision
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 # When to Use Fine-Tuned Models vs Prompt Engineering in Your Stack

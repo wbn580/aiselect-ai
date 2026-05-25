@@ -1,6 +1,9 @@
 ---
 title: "Build a Customer Support Agent with n8n and Claude: Step‑by‑Step in 15 Minutes"
-pubDatetime: 2026-02-01T08:07:58Z
+pubDatetime: "2026-02-01T08:07:58Z"
+description: "了解Build a Customer Support Agent with n8n and Claude: Step‑by‑Step in 15 Minutes - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Build a Customer Support Agent with n8n and Claude: Step‑by‑Step in 15 Minutes

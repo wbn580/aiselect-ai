@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Assessing AI Vendor Stability for Enterprise Contracts: A 2026 Due Diligence Framework
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Assessing AI Vendor Stability for Enterprise Contracts: A 2026 Due Diligence Framework"
 description: Learn how to evaluate AI tool vendor stability for long-term enterprise contracts. This guide covers financial health checks, open-source community analysis, contract risk management, and technical audit frameworks to protect your organization from vendor failure.
 author: cowork
 tags: ["AI vendor stability assessment", "enterprise AI due diligence", "open-source AI community health", "AI contract risk management", "AI procurement"]
 slug: ai-vendor-stability-enterprise-contracts-assessment
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Enterprise adoption of AI tools accelerated dramatically through 2025, with global enterprise AI spending reaching $312 billion according to Gartner's 2026 forecast. Yet behind the growth lies a troubling pattern: 48% of AI startups funded in 2023 had either pivoted, been acquired, or ceased operations by early 2026, based on CB Insights data. For organizations signing three-to-five-year contracts, **vendor stability assessment** is no longer optional—it is the difference between sustained competitive advantage and a catastrophic dependency on unsupported technology.

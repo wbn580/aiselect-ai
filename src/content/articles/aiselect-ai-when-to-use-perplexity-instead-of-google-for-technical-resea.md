@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: "2026-05-22T12:00:00Z"
 title: When to Use Perplexity Instead of Google for Technical Research Queries
 description: Discover the strategic advantages of using Perplexity AI over Google for technical and academic research. Learn how citation-backed answers, developer-focused search, and query optimization can transform your workflow with concrete data from 2025-2026 benchmarks.
 author: Tool Insights

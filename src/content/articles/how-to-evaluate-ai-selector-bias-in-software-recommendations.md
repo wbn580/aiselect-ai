@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: How to Evaluate AI Selector Bias in Software Recommendations: A Practical Audit Framework
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "How to Evaluate AI Selector Bias in Software Recommendations: A Practical Audit Framework"
 description: Discover how to detect and mitigate AI selector bias in software recommendations. This guide covers practical audit methodologies, fairness metrics, and governance strategies to ensure your business tool selection process remains objective and trustworthy.
 author: cowork
 tags: ["AI ethics", "software selection", "algorithmic bias", "AI auditing", "business intelligence"]
 slug: evaluate-ai-selector-bias-software-recommendations
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 Organizations are rapidly adopting AI-driven recommendation engines to streamline software procurement. A 2026 Gartner survey found that **73% of mid-size enterprises** now use some form of AI selector for vendor evaluation, yet **only 28% have formal bias audit protocols** in place. This gap creates significant risk. When an AI system systematically favors certain tools due to flawed training data, opaque feature weighting, or vendor influence, the financial and operational consequences can be severe. A 2026 MIT Sloan study estimated that **biased software recommendations cost businesses an average of $340,000 annually** in suboptimal licensing, integration failures, and missed productivity gains. Understanding how to evaluate these biases is no longer optional—it is a core competency for technology leaders.

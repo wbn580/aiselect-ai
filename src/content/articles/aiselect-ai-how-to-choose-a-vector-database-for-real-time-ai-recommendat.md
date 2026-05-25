@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: "2026-05-22T12:00:00Z"
 title: How to Choose a Vector Database for Real-Time AI Recommendation Engines
 description: Explore the critical factors for selecting a vector database to power real-time AI recommendation engines. Compare Pinecone vs Weaviate, analyze hybrid search latency, and understand how to optimize e-commerce personalization with high-performance similarity search.
 author: AI Infrastructure Editorial

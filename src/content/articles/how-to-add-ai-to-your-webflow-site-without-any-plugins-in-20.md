@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Add AI to Your Webflow Site Without Any Plugins in 2026
 description: Learn how to integrate custom AI features directly into your Webflow site using embed codes and API connections. A practical no-code guide covering OpenAI setup, custom ChatGPT embeds, form automation, and content personalization without relying on third-party plugins or paid add-ons.
 author: cowork
 tags: ["webflow", "no-code", "ai integration", "custom embed", "api"]
 slug: integrate-ai-webflow-no-plugin-2026
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 AI-powered websites are no longer experimental. A 2026 survey by Gartner indicates that 67% of web development teams now embed at least one AI-driven feature into client projects, and Webflow users are accelerating this trend. Yet many site builders still assume they need expensive plugins or complex backend setups. The reality is different: **custom AI webflow embed** techniques let you inject intelligent behavior directly into your pages using nothing more than the platform's native Embed element and a few lines of JavaScript. This guide walks through exactly how to do that, covering everything from your first API call to advanced personalization workflows, without touching the Webflow App Marketplace.

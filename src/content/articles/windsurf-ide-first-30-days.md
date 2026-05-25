@@ -1,6 +1,9 @@
 ---
 title: "Windsurf IDE: First 30 Days with the Agentic Code Editor"
-pubDatetime: 2026-01-31T16:32:01Z
+pubDatetime: "2026-01-31T16:32:01Z"
+description: "了解Windsurf IDE: First 30 Days with the Agentic Code Editor - 完整指南与实用信息"
+ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+
 ---
 
 # Windsurf IDE: First 30 Days with the Agentic Code Editor

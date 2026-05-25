@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI Selection for Open-Source Software: Navigating Community-Driven Options
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI Selection for Open-Source Software: Navigating Community-Driven Options"
 description: Discover how AI-driven tools are transforming open-source software selection. Learn about license-aware selectors, community health analysis, and practical strategies for picking the right GitHub projects in 2026.
 author: cowork
 tags: ["open source", "AI tools", "software selection", "GitHub", "community analytics"]
 slug: ai-selection-open-source-software
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 The open-source ecosystem now hosts over 380 million repositories on GitHub alone, with an estimated 30% growth in new projects during 2025. For developers and technical leads, the challenge isn't finding software—it's choosing the right tool from an overwhelming sea of options. Traditional manual evaluation methods consume an average of 12 hours per dependency decision, according to a 2026 Linux Foundation survey. **AI selection open-source tools** are emerging as a critical solution, automating the analysis of code quality, community health, and license compatibility. This article explores how machine intelligence is reshaping the way we navigate community-driven software, making smarter picks faster and with fewer risks.

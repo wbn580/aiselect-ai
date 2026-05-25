@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Train Your Team to Trust AI-Driven Tool Suggestions
 description: A practical guide to building team confidence in AI tool selectors, covering transparency frameworks, validation rituals, and feedback loops that turn skepticism into trust.
 author: cowork
 tags: ["trusting AI tool suggestions", "team adoption AI recommendations", "building confidence in AI selectors", "AI decision-making", "team management"]
 slug: train-team-trust-ai-tool-suggestions
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 **Trusting AI tool suggestions** doesn't happen overnight. When McKinsey reported in mid-2025 that 67% of organizations now use AI for internal tool procurement decisions, they also found that only 41% of employees fully trust those recommendations. The gap isn't a technology problem—it's a human one. Teams need to understand not just what the AI suggests, but why it suggests it, and they need to see evidence that the system works in their specific context. This article walks through the practical steps to build that trust without forcing adoption or ignoring legitimate skepticism.

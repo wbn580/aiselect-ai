@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Airtable Sync: Merging Data from Multiple Bases Without Duplicates
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Airtable Sync: Merging Data from Multiple Bases Without Duplicates"
 description: Master Airtable Sync to merge data from multiple bases without creating duplicates. This comprehensive guide covers setup, deduplication strategies, automation workflows, and real-world examples for clean data integration.
 author: cowork
 tags: ["Airtable Sync", "Data Management", "Data Integration", "Deduplication", "Workflow Automation"]
 slug: airtable-sync-merging-data-multiple-bases-no-duplicates
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## Introduction: The Growing Challenge of Multi-Base Data Management

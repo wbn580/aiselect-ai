@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: Troubleshooting Bubble App Performance Issues on Mobile Devices: A Systematic Approach
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "Troubleshooting Bubble App Performance Issues on Mobile Devices: A Systematic Approach"
 description: Learn how to systematically diagnose and resolve Bubble app performance problems on mobile devices. Covers page weight optimization, workflow efficiency, API call management, and client-side rendering strategies to deliver a smooth mobile experience.
 author: cowork
 tags: ["bubble app slow mobile fix", "bubble mobile performance troubleshooting", "optimize bubble app for mobile", "bubble.io performance", "mobile web app optimization"]
 slug: bubble-app-mobile-performance-troubleshooting
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## Introduction

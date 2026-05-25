@@ -1,11 +1,11 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
-title: AI-Driven Inventory Forecasting for Small Retail Businesses: A Starter Kit
+pubDatetime: "2026-05-23T12:00:00Z"
+title: "AI-Driven Inventory Forecasting for Small Retail Businesses: A Starter Kit"
 description: Discover how small retail businesses can leverage AI inventory forecasting to reduce stockouts, optimize cash flow, and compete with larger chains. A practical starter kit with tools, strategies, and real-world implementation steps.
 author: cowork
 tags: 
 slug: ai-inventory-forecasting-small-retail-starter-kit
-ogImage: /img/og/default.jpg
+ogImage: ""
 ---
 
 ## The New Reality of Retail Inventory Management
