@@ -8,6 +8,32 @@ slug: assessing-ai-tool-bias-hiring-hr-applications-2026
 ogImage: ""
 ---
 
+<!-- R2_IMAGE: low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg"
+    alt="low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg",
+  "name": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f",
+  "description": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
 ## Introduction: The Algorithmic Gatekeeper Dilemma
 
 By mid-2026, an estimated **79% of Fortune 500 companies** have integrated some form of AI-driven screening into their talent acquisition pipelines, according to the Society for Human Resource Management's latest workforce technology survey. Yet this efficiency comes with a stark warning: the U.S. Equal Employment Opportunity Commission received **over 3,200 algorithmic discrimination complaints** in fiscal year 2025 alone, a 47% increase from the previous year. The tension between automation and equity has never been more pronounced. **AI bias** in **hiring tools** is not a hypothetical risk—it is a measurable, recurring failure mode that demands rigorous **fairness audit** protocols and a fundamental rethink of **HR technology** governance. This article dissects where bias originates, how to detect it, and what responsible deployment looks like in an era of increasing regulatory scrutiny.

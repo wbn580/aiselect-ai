@@ -8,6 +8,32 @@ slug: ai-academic-research-tools-citation-source-integrity
 ogImage: ""
 ---
 
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
 A 2026 survey by Springer Nature found that 64% of researchers now use AI tools at some stage of their workflow, yet only 28% trust these tools to handle citations accurately. Meanwhile, the International Association of Scientific Publishers reported a 42% rise in manuscript retractions linked to AI-hallucinated references between 2024 and early 2026. These figures underscore a critical tension: AI can dramatically accelerate literature reviews, synthesis, and drafting, but without built-in mechanisms for **citation integrity**, it risks undermining the very foundations of scholarly work. The emerging category of **citation-aware AI** aims to resolve this by grounding every output in verifiable, traceable sources.
 
 ## Why Citation Integrity Matters More Than Ever in 2026
