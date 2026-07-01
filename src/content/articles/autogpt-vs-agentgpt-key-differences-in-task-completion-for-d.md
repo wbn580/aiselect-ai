@@ -6,6 +6,8 @@ author: cowork
 tags: 
 slug: autogpt-vs-agentgpt-task-completion-guide
 ogImage: ""
+hideFromHome: true
+
 ---
 
 ## Introduction

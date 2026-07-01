@@ -6,6 +6,8 @@ author: cowork
 tags: ["open source AI models", "proprietary AI comparison", "AI model decision framework", "developer AI selection", "AI model trade-offs"]
 slug: open-source-vs-proprietary-ai-models-decision-framework
 ogImage: ""
+hideFromHome: true
+
 ---
 
 The global enterprise AI market is projected to reach $407 billion by 2027, with organizations increasingly split between open source and proprietary model adoption. A 2026 Stanford HAI report found that 63% of enterprise developers now evaluate both model categories before making architectural decisions, up from just 38% in 2024. This shift reflects a maturing ecosystem where **open source AI models** like Llama 3.1, Mistral Large, and Falcon 180B compete directly with proprietary offerings from OpenAI, Anthropic, and Google DeepMind.

@@ -6,6 +6,8 @@ author: cowork
 tags: ["customer support AI", "chatbot vs agent assist", "AI support selection", "support automation", "agent augmentation"]
 slug: ai-customer-support-chatbots-vs-agent-assist-tools
 ogImage: ""
+hideFromHome: true
+
 ---
 
 The landscape of **customer support AI** has matured dramatically. According to a 2026 benchmark report by the Customer Service Institute, 78% of contact centers now deploy some form of AI, but only 41% report a measurable improvement in customer satisfaction. The gap isn't the technology—it's the selection logic. Too many organizations deploy a **chatbot** when they need an **agent assist tool**, or vice versa, treating these distinct technologies as interchangeable. A 2026 study from Harvard Business Review Analytic Services found that companies using a strategic mix of automation and augmentation reduced operational costs by 32% while maintaining top-quartile CSAT scores. The question isn't whether to use AI, but which type of AI fits the specific support moment. Understanding the fundamental difference between replacing human effort and enhancing it is the key to unlocking genuine ROI in your support ecosystem.

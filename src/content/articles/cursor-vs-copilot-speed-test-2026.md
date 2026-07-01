@@ -3,6 +3,7 @@ title: "Cursor vs GitHub Copilot: Pair Programming Speed Test (June 2026)"
 pubDatetime: "2025-11-29T20:04:25Z"
 description: "了解Cursor vs GitHub Copilot: Pair Programming Speed Test (June 2026) - 完整指南与实用信息"
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+hideFromHome: true
 
 ---
 

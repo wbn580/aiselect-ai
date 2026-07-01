@@ -3,6 +3,7 @@ title: "DALL‑E 4 Inpainting vs Stable Diffusion 4: Edit Product Photos on a Bu
 pubDatetime: "2026-02-09T20:32:12Z"
 description: "了解DALL‑E 4 Inpainting vs Stable Diffusion 4: Edit Product Photos on a Budget - 完整指南与实用信息"
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+hideFromHome: true
 
 ---
 

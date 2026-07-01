@@ -3,6 +3,7 @@ title: "Softr vs Bubble: Which Builds a Client Portal Faster?"
 pubDatetime: "2026-01-10T06:53:56Z"
 description: "了解Softr vs Bubble: Which Builds a Client Portal Faster? - 完整指南与实用信息"
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+hideFromHome: true
 
 ---
 
