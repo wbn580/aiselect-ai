@@ -3,36 +3,10 @@ pubDatetime: "2026-05-23T12:00:00Z"
 title: "AI-Driven Inventory Forecasting for Small Retail Businesses: A Starter Kit"
 description: Discover how small retail businesses can leverage AI inventory forecasting to reduce stockouts, optimize cash flow, and compete with larger chains. A practical starter kit with tools, strategies, and real-world implementation steps.
 author: cowork
-tags: 
+tags: []
 slug: ai-inventory-forecasting-small-retail-starter-kit
 ogImage: ""
 ---
-
-<!-- R2_IMAGE: low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f -->
-<figure class="article-image">
-  <img
-    src="https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg"
-    alt="low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f"
-    width="1200"
-    height="800"
-    loading="lazy"
-    decoding="async"
-    sizes="(max-width: 768px) 100vw, 750px"
-  />
-</figure>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg",
-  "name": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f",
-  "description": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f — 配图来源：R2自有图库",
-  "width": "1200",
-  "height": "800",
-  "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
-}
-</script>
 
 ## The New Reality of Retail Inventory Management
 

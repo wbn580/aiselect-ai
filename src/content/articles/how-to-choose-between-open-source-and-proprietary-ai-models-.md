@@ -3,7 +3,7 @@ pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Choose Between Open-Source and Proprietary AI Models for Your Project
 description: A comprehensive guide to evaluating open-source versus proprietary AI models for your project. Learn the key factors in cost, scalability, security, and performance to make the right decision in 2026.
 author: cowork
-tags: 
+tags: []
 slug: choose-between-open-source-proprietary-ai-models
 ogImage: ""
 ---

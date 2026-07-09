@@ -3,7 +3,7 @@ pubDatetime: "2026-05-23T12:00:00Z"
 title: "Understanding AI Decision Fatigue: How to Optimize Tool Recommendations"
 description: Explore the psychology behind AI decision fatigue and learn actionable strategies for designing tool recommendation systems that reduce cognitive load and improve user satisfaction.
 author: cowork
-tags: 
+tags: []
 slug: ai-decision-fatigue-optimize-tool-recommendations
 ogImage: ""
 ---

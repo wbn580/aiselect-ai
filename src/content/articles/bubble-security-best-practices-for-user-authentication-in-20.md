@@ -3,7 +3,7 @@ pubDatetime: "2026-05-23T12:00:00Z"
 title: Bubble Security Best Practices for User Authentication in 2026
 description: Explore essential Bubble app security best practices for user authentication in 2026, including multi-factor authentication setup, API security, and session management strategies to protect your no-code applications from emerging threats.
 author: cowork
-tags: 
+tags: []
 slug: bubble-security-best-practices-2026
 ogImage: ""
 hideFromHome: true

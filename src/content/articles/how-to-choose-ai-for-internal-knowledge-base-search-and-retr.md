@@ -3,7 +3,7 @@ pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Choose AI for Internal Knowledge Base Search and Retrieval
 description: A comprehensive framework for evaluating AI tools designed for internal knowledge base search. Learn how to match retrieval-augmented generation architectures, vector databases, and semantic models to your company's wiki infrastructure and query patterns.
 author: cowork
-tags: 
+tags: []
 slug: ai-selection-internal-knowledge-base-search
 ogImage: ""
 ---

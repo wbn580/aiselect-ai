@@ -16,7 +16,7 @@ const links = [
         </span>
         <span class="font-mono font-bold text-base text-white tracking-tight">aiselect</span>
       </a>
-      <nav class="hidden md:flex gap-8">
+      <nav class="hidden xl:flex gap-8">
         {links.map(([label, href]) => (
           <a href={href} class="text-sm text-gray-400 hover:text-white transition-colors font-medium">{label}</a>
         ))}
@@ -24,3 +24,31 @@ const links = [
     </div>
   </div>
 </header>
+
+<style>
+
+
+  /* MENU-CROWD-FIX-20260708: keep dense desktop menus from wrapping or crushing CTA buttons. */
+  header nav a,
+  .nav-links a,
+  .nav-link,
+  .nav-cta,
+  .site-nav a {
+    white-space: nowrap;
+  }
+  .nav-links,
+  .site-nav {
+    min-width: 0;
+  }
+  .site-nav.flex-wrap,
+  nav.site-nav.flex-wrap {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .site-nav.flex-wrap::-webkit-scrollbar,
+  nav.site-nav.flex-wrap::-webkit-scrollbar {
+    display: none;
+  }
+</style>
