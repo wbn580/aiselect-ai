@@ -8,11 +8,11 @@ slug: assessing-ai-tool-bias-hiring-hr-applications-2026
 ogImage: ""
 ---
 
-<!-- R2_IMAGE: low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f -->
+<!-- R2_IMAGE: low-doc-finance-documentation -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg"
-    alt="low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f"
+    src="https://img.ulec.com.cn/loan/low-doc-%E8%B4%B7%E6%AC%BE-bas-%E4%BC%9A%E8%AE%A1%E5%B8%88%E4%BF%A1-%E9%93%B6%E8%A1%8C%E6%B5%81%E6%B0%B4%E6%8E%A5%E5%8F%97%E5%BA%A6-cnf20-435e935f-2026-940x627.jpeg"
+    alt="Financial documentation for an AI hiring-bias analysis"
     width="1200"
     height="800"
     loading="lazy"
@@ -24,9 +24,9 @@ ogImage: ""
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg",
-  "name": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f",
-  "description": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f — 配图来源：R2自有图库",
+  "contentUrl": "https://img.ulec.com.cn/loan/low-doc-%E8%B4%B7%E6%AC%BE-bas-%E4%BC%9A%E8%AE%A1%E5%B8%88%E4%BF%A1-%E9%93%B6%E8%A1%8C%E6%B5%81%E6%B0%B4%E6%8E%A5%E5%8F%97%E5%BA%A6-cnf20-435e935f-2026-940x627.jpeg",
+  "name": "Financial documentation illustration",
+  "description": "Supporting illustration from the site's owned image library",
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
@@ -140,7 +140,7 @@ A: Under the EU AI Act's employment provisions, organizations deploying high-ris
 
 A: Small organizations should prioritize **simpler, more transparent tools** over complex black-box systems. The OECD's 2026 Employment Outlook recommends that small businesses focus on **three low-cost practices**: using structured interview rubrics to complement any AI screening, requesting vendor-provided bias testing documentation before purchase, and conducting basic adverse impact calculations (comparing selection rates by gender and race) every six months using freely available EEOC statistical tools.
 
-## 参考资料
+## References
 
 - U.S. Equal Employment Opportunity Commission, 2025, Annual Report on Algorithmic Discrimination Complaints and Enforcement Actions
 - National Institute of Standards and Technology, 2026, Audit of Commercial AI Resume Screening Tools: Bias Prevalence and Mitigation Strategies

@@ -1,10 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import CodexReferralCard from '../components/CodexReferralCard.astro';
 
 const articles = await getCollection('articles');
 const sorted = articles.sort((a, b) =>
-  new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime()
+  new Date(b.data.publishDate || b.data.pubDatetime || '').getTime() - new Date(a.data.publishDate || a.data.pubDatetime || '').getTime()
 );
 ---
 
@@ -47,6 +48,10 @@ const sorted = articles.sort((a, b) =>
     </div>
   </section>
 
+  <div class="max-w-6xl mx-auto px-6">
+    <CodexReferralCard placement="home" />
+  </div>
+
   <!-- Latest Reviews -->
   <section id="reviews" class="max-w-6xl mx-auto px-6 mt-16">
     <div class="flex items-center justify-between mb-8">
@@ -55,7 +60,7 @@ const sorted = articles.sort((a, b) =>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
       {sorted.slice(0, 6).map(a => {
         const slug = a.id.replace(/\.md$/, '');
-        const date = new Date(a.data.publishDate).toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+        const date = new Date(a.data.publishDate || a.data.pubDatetime || '').toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
         return (
           <a href={`/${slug}/`} class="group block bg-white border border-gray-200 rounded-xl p-5 hover:border-[#00D9C0] hover:shadow-md transition-all">
             <div class="flex items-center justify-between mb-3">

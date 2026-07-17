@@ -1,7 +1,8 @@
 ---
 title: "Copy.ai Workflow Automations: Build Your Content Pipeline in 20 Minutes"
 pubDatetime: "2025-12-08T21:09:04Z"
-description: "了解Copy.ai Workflow Automations: Build Your Content Pipeline in 20 Minutes - 完整指南与实用信息"
+description: "Copy.ai Workflow Automations is a visual workflow builder that chains triggers, AI models, and actions into repeatable content pipelines. You map steps on a..."
+tags: ["Copy.ai", "Workflow", "Automations", "Build", "Content"]
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
 
 ---

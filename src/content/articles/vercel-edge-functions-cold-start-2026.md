@@ -1,7 +1,8 @@
 ---
 title: "Vercel Edge Functions Cold Start Battle: 2026 Performance Data"
 pubDatetime: "2025-11-28T11:16:41Z"
-description: "了解Vercel Edge Functions Cold Start Battle: 2026 Performance Data - 完整指南与实用信息"
+description: "Cold starts happen when an Edge Function receives a request but no instance is already running. In 2026, Vercel’s default hello‑world function shows a median..."
+tags: ["Vercel", "Edge", "Functions", "Cold", "Start"]
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
 
 ---
@@ -41,13 +42,12 @@ The table shows p50 and p99 for five sample regions (iad, sfo, fra, sin, gru). O
 - `always‑warm` p50 **48 ms**, p99 **92 ms**
 - default p50 **210 ms**, p99 **580 ms**
 
-| Region | always‑warm p50 | always‑warm p99 | default p50 | default p99 |
-|--------|-----------------|-----------------|-------------|-------------|
-| iad    | 42 ms           | 78 ms           | 195 ms      | 530 ms      |
-| sfo    | 45 ms           | 85 ms           | 200 ms      | 560 ms      |
-| fra    | 50 ms           | 95 ms           | 220 ms      | 600 ms      |
-| sin    | 52 ms           | 100 ms          | 230 ms      | 620 ms      |
-| gru    | 55 ms           | 110 ms          | 250 ms      | 670 ms      |
+- **iad**: 42 ms · 78 ms · 195 ms · 530 ms
+- **sfo**: 45 ms · 85 ms · 200 ms · 560 ms
+- **fra**: 50 ms · 95 ms · 220 ms · 600 ms
+- **sin**: 52 ms · 100 ms · 230 ms · 620 ms
+- **gru**: 55 ms · 110 ms · 250 ms · 670 ms
+
 
 **Region latency** varies by geographical distance to the nearest edge node, but the pattern holds: `always‑warm` compresses both median and tail latencies below 100 ms in every tested region.
 

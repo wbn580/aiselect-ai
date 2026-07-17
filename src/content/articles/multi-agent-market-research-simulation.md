@@ -1,7 +1,8 @@
 ---
 title: "Multi‑Agent Simulation: Coordinating 3 AI Agents to Research a Market Report"
 pubDatetime: "2026-01-24T12:36:24Z"
-description: "了解Multi‑Agent Simulation: Coordinating 3 AI Agents to Research a Market Report - 完整指南与实用信息"
+description: "Multi‑agent simulation orchestrates several large language models—each with a dedicated role—to tackle complex research tasks in parallel. In a 2026 pilot wi..."
+tags: ["Multi", "Agent", "Simulation", "Coordinating", "AI"]
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
 
 ---

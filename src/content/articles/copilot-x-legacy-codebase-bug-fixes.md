@@ -1,7 +1,8 @@
 ---
 title: "GitHub Copilot X: Context‑Aware Bug Fixes in Legacy Codebases"
 pubDatetime: "2025-12-14T10:25:21Z"
-description: "了解GitHub Copilot X: Context‑Aware Bug Fixes in Legacy Codebases - 完整指南与实用信息"
+description: "Copilot X is GitHub’s context‑aware AI assistant with a 200 K token context window. In a controlled trial, we fed it a 10‑year‑old PHP codebase containing 20..."
+tags: ["GitHub", "Copilot", "X", "Context", "Aware"]
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
 
 ---

@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const updated = '17 July 2026';
+---
+
+<BaseLayout title="Privacy Policy — AI Select" description="How AI Select handles personal information and website data.">
+  <div class="max-w-[42rem] mx-auto px-6 py-16">
+    <h1 class="text-3xl font-mono font-bold mb-3">Privacy Policy</h1>
+    <p class="text-sm text-[#6B7280] mb-8">Last updated: {updated}</p>
+    <div class="space-y-5 text-[#0F0F1B] leading-relaxed
+      [&_h2]:text-xl [&_h2]:font-mono [&_h2]:font-bold [&_h2]:mt-10 [&_h2]:mb-4
+      [&_h2]:pb-2 [&_h2]:border-b [&_h2]:border-gray-100
+      [&_a]:text-[#00B8A2] hover:[&_a]:underline
+      [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:space-y-2
+    ">
+      <p>AI Select is operated by Arrivau Pty Ltd in Australia under the Selector Labs editorial label. This policy explains how we handle information when you use aiselect.ai.</p>
+
+      <h2>Information we collect</h2>
+      <p>We may receive information you choose to send us, such as your name, email address, and message when you contact us. Our hosting, security, and analytics providers may also process limited technical data, including IP address, browser type, device information, referring page, and pages visited.</p>
+
+      <h2>How we use information</h2>
+      <ul>
+        <li>to operate, secure, and improve the website;</li>
+        <li>to respond to enquiries and correction requests;</li>
+        <li>to understand aggregate website usage; and</li>
+        <li>to prevent fraud, abuse, and technical problems.</li>
+      </ul>
+
+      <h2>Affiliate links and third parties</h2>
+      <p>Some pages contain affiliate links. When you follow one, the destination service or affiliate network may use cookies or similar technologies to attribute a referral. Those third parties handle data under their own privacy policies. See our <a href="/affiliate-disclosure/">affiliate disclosure</a> for more information.</p>
+
+      <h2>Data retention and disclosure</h2>
+      <p>We retain personal information only as long as reasonably needed for the purpose for which it was collected, legal obligations, dispute resolution, or security. We do not sell personal information. We may disclose information to service providers acting on our behalf or when required by law.</p>
+
+      <h2>Your choices</h2>
+      <p>You may ask to access, correct, or delete personal information we hold about you, subject to applicable law. You can also limit cookies using your browser settings, although some site functions may be affected.</p>
+
+      <h2>Contact</h2>
+      <p>For privacy questions or requests, email <a href="mailto:contact@aiselect.ai">contact@aiselect.ai</a>.</p>
+    </div>
+  </div>
+</BaseLayout>

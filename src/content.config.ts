@@ -7,6 +7,7 @@ const articles = defineCollection({
     title: z.string(),
     description: z.string(),
     category: z.string().optional().default('general'),
+    pubDatetime: z.string().optional(),
     publishDate: z.string().optional().default(''),
     modDate: z.string().optional(),
     rating: z.number().min(1).max(10).optional(),

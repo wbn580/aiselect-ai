@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import type { CollectionEntry } from 'astro:content';
+import CodexReferralCard from '../components/CodexReferralCard.astro';
 
 interface Props {
   entry: CollectionEntry<'articles'>;
@@ -24,8 +25,11 @@ if (_d.ogImage) _articleSchema.image = _d.ogImage;
 if (_pub) { _articleSchema.datePublished = _pub; _articleSchema.dateModified = String(_d.modDatetime || _pub); }
 if (Array.isArray(_d.tags) && _d.tags.length) { _articleSchema.keywords = _d.tags.join(", "); _articleSchema.articleSection = _d.tags[0]; }
 const _websiteSchema = { "@context": "https://schema.org", "@type": "WebSite", name: _SITE_NAME, url: _siteUrl };
-const { title, description, publishDate, rating } = entry.data;
-const date = new Date(publishDate).toLocaleDateString('en-US', {
+const { title, description, rating } = entry.data;
+const referralText = [title, description, entry.data.category, ...(entry.data.tags || [])].join(' ');
+const referralRelevant = /\b(code|coding|developer|software|agent|automation|api|devops|copilot|cursor|windsurf|programming)\b/i.test(referralText);
+const displayDate = entry.data.publishDate || entry.data.pubDatetime || '';
+const date = new Date(displayDate).toLocaleDateString('en-US', {
   year: 'numeric', month: 'long', day: 'numeric',
 });
 ---
@@ -60,6 +64,7 @@ const date = new Date(publishDate).toLocaleDateString('en-US', {
     ">
       <slot />
     </div>
+    {referralRelevant && <CodexReferralCard placement={`article/${entry.id.replace(/\.md$/, '')}`} compact />}
     <footer class="mt-16 pt-8 border-t border-gray-100">
       <p class="text-xs text-[#6B7280]">
         Published {date}. <a href="/methodology/" class="underline underline-offset-2">How we test</a>. Some links may earn a commission — see <a href="/about/" class="underline underline-offset-2">our disclosure</a>.

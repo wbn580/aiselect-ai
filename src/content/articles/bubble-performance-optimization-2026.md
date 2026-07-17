@@ -1,7 +1,8 @@
 ---
 title: "Bubble Performance Optimization: From 3 s to 0.8 s Load Time in 2026"
 pubDatetime: "2026-02-20T16:56:50Z"
-description: "了解Bubble Performance Optimization: From 3 s to 0.8 s Load Time in 2026 - 完整指南与实用信息"
+description: "A heavy Bubble app loads in 3 seconds. We cut that to 0.8 s, raising Lighthouse from 31 to 88, LCP from 3 012 ms to 793 ms, page weight −62%, bounce rate −21..."
+tags: ["Bubble", "Performance", "Optimization", "s", "to"]
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
 
 ---

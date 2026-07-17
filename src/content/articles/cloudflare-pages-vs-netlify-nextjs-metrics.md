@@ -1,7 +1,8 @@
 ---
 title: "Cloudflare Pages vs Netlify: Deploy a Next.js App and Measure Real User Metrics"
 pubDatetime: "2026-01-03T11:42:11Z"
-description: "了解Cloudflare Pages vs Netlify: Deploy a Next.js App and Measure Real User Metrics - 完整指南与实用信息"
+description: "We ship an identical e‑commerce Next.js store to Cloudflare Pages and Netlify, then capture 30 days of Chrome UX Report data. The global median TTFB lands at..."
+tags: ["Cloudflare", "Pages", "vs", "Netlify", "Deploy"]
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
 hideFromHome: true
 

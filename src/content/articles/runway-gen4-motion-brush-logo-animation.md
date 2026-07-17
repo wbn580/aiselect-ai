@@ -1,7 +1,8 @@
 ---
 title: "Runway Gen‑4 Motion Brush: Animate Static Logos in Under 60 Seconds"
 pubDatetime: "2025-12-09T06:17:36Z"
-description: "了解Runway Gen‑4 Motion Brush: Animate Static Logos in Under 60 Seconds - 完整指南与实用信息"
+description: "Runway Gen‑4 Motion Brush turns still logos into 5‑second video clips by painting motion directly onto raster or vector art. An internal benchmark across 500..."
+tags: ["Runway", "Gen", "Motion", "Brush", "Animate"]
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
 
 ---
@@ -24,12 +25,11 @@ Input formats: **PNG** (with transparency) and **SVG** (auto‑rasterized at 192
 
 ## Benchmarks: Speed, File Size, and Quality
 
-| Metric               | Runway Gen‑4 Motion Brush | After Effects (fluent user) |
-|----------------------|---------------------------|-----------------------------|
-| Average creation time| **48 seconds** (generation) | 23 minutes (keyframing + ramp tweaks) |
-| File size (5s MP4)   | **4.1 MB** (H.264, 1080p) | 2.8‑8.2 MB (variable bitrate) |
-| Motion naturalness   | **7.8/10** (survey n=47)  | 8.9/10 (manual control)    |
-| Cost per animation   | **$0.22** (generation credits) | ~$6.80 (designer hourly rate amortized) |
+- **Average creation time**: **48 seconds** (generation) · 23 minutes (keyframing + ramp tweaks)
+- **File size (5s MP4)**: **4.1 MB** (H.264, 1080p) · 2.8‑8.2 MB (variable bitrate)
+- **Motion naturalness**: **7.8/10** (survey n=47) · 8.9/10 (manual control)
+- **Cost per animation**: **$0.22** (generation credits) · ~$6.80 (designer hourly rate amortized)
+
 
 Render speed varies ±8 seconds with server load. File size holds steady because Runway uses a capped VBR preset — your download is always production‑ready without re‑encoding.
 

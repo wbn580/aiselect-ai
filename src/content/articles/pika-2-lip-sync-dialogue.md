@@ -1,7 +1,8 @@
 ---
 title: "Pika 2.0 Lip Sync: Add Dialogue to AI Characters Without Post‑Production"
 pubDatetime: "2025-12-24T13:01:51Z"
-description: "了解Pika 2.0 Lip Sync: Add Dialogue to AI Characters Without Post‑Production - 完整指南与实用信息"
+description: "Pika 2.0's lip‑sync module turns silent AI‑generated video into talking headshots — no audio‑editing timeline, no manual keyframing. In our benchmark across..."
+tags: ["Pika", "Lip", "Sync", "Add", "Dialogue"]
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
 
 ---

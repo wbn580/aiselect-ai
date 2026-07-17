@@ -1,7 +1,8 @@
 ---
 title: "Netlify Edge Handlers: Personalize Content at the CDN Level"
 pubDatetime: "2026-02-13T07:20:23Z"
-description: "了解Netlify Edge Handlers: Personalize Content at the CDN Level - 完整指南与实用信息"
+description: "Edge Handlers are serverless functions that execute at Netlify’s CDN nodes before a request reaches your origin. They let you rewrite HTML, inject personaliz..."
+tags: ["Netlify", "Edge", "Handlers", "Personalize", "Content"]
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
 
 ---

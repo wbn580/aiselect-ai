@@ -1,7 +1,8 @@
 ---
 title: "Sora by OpenAI: Full Video Production Timeline for a 2‑Minute Ad"
 pubDatetime: "2026-01-11T18:32:13Z"
-description: "了解Sora by OpenAI: Full Video Production Timeline for a 2‑Minute Ad - 完整指南与实用信息"
+description: "Sora generates photorealistic video from text prompts. In a controlled production test, a complete 2‑minute ad went from blank script to final cut in 6.2 hou..."
+tags: ["Sora", "by", "OpenAI", "Full", "Video"]
 ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
 
 ---
