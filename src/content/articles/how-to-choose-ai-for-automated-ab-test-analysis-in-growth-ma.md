@@ -3,7 +3,7 @@ pubDatetime: "2026-05-23T12:00:00Z"
 title: How to Choose AI for Automated A/B Test Analysis in Growth Marketing
 description: Discover how to select the right AI A/B test analysis tool for growth marketing. Learn about automated experiment interpretation, statistical rigor, and integration capabilities to accelerate data-driven decisions in 2026.
 author: cowork
-tags: ["AI A/B test analysis tool", "automated experiment interpretation", "growth marketing AI selection", "statistical significance AI", "marketing analytics"]
+tags: ["AI A-B test analysis tool", "automated experiment interpretation", "growth marketing AI selection", "statistical significance AI", "marketing analytics"]
 slug: choosing-ai-automated-ab-test-analysis-growth-marketing
 ogImage: ""
 ---

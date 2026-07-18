@@ -3,7 +3,7 @@ pubDatetime: "2026-05-23T12:00:00Z"
 title: "AI-Powered A/B Testing Tools for Landing Page Optimization: Smarter Experiments for Higher Conversions"
 description: Discover how AI-driven A/B testing tools are transforming landing page optimization with automated experimentation, multivariate analysis, and real-time personalization. Learn which platforms deliver measurable conversion lifts in 2026.
 author: cowork
-tags: ["AI A/B testing landing page", "automated A/B testing AI", "landing page optimization AI", "AI multivariate testing", "AI conversion optimization tool"]
+tags: ["AI A-B testing landing page", "automated A-B testing AI", "landing page optimization AI", "AI multivariate testing", "AI conversion optimization tool"]
 slug: ai-ab-testing-tools-landing-page-optimization
 ogImage: ""
 ---
