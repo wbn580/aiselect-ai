@@ -7,43 +7,55 @@
       "title": "2027 年教育代理与招生运营的核心要点：自动化边界、合规底线与可持续流程",
       "release_date": "2026-02-17",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "1a5c16f7a82d567f8323d23720a7e6347b3947d67739a9c8bde7ff438bc957b9"
+      "source_sha256": "1a5c16f7a82d567f8323d23720a7e6347b3947d67739a9c8bde7ff438bc957b9",
+      "publication_datetime": "2026-02-17T19:08:26Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "aiselect-ai-0396",
       "title": "2026 年文书辅助工具的使用边界：从语言润色到核心叙事，哪些能碰哪些不能碰",
       "release_date": "2026-05-08",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "1b625c7af47c5d6d291088ac99a0a519c0c1b13eaee05ee0092ef69642fa7b44"
+      "source_sha256": "1b625c7af47c5d6d291088ac99a0a519c0c1b13eaee05ee0092ef69642fa7b44",
+      "publication_datetime": "2026-05-08T15:56:58Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "aiselect-ai-0398",
       "title": "2027年留学课程数据库与选专业方法：从信息筛选到决策框架",
       "release_date": "2026-05-11",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "8c99cfe6c471099b845f41a26b8cc479768bf34e6772d86e1d2ebbda93834b85"
+      "source_sha256": "8c99cfe6c471099b845f41a26b8cc479768bf34e6772d86e1d2ebbda93834b85",
+      "publication_datetime": "2026-05-11T11:38:44Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "aiselect-ai-0397",
       "title": "2027年QS与2026年THE大学排名怎么看：一份给留学申请者的解读框架",
       "release_date": "2026-06-06",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "bd18c0d62251e4887a02bc593ac409d5b3425a5a25fb9206eb521c3bccb11a6e"
+      "source_sha256": "bd18c0d62251e4887a02bc593ac409d5b3425a5a25fb9206eb521c3bccb11a6e",
+      "publication_datetime": "2026-06-06T20:33:05Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "aiselect-ai-0395",
       "title": "How to Use AI School Selection Tools Reliably in 2026–2027",
       "release_date": "2026-07-06",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "61a497a47a31d1b631592d1f732e0459b188d2214a02fb7b05cb89f5089c066f"
+      "source_sha256": "61a497a47a31d1b631592d1f732e0459b188d2214a02fb7b05cb89f5089c066f",
+      "publication_datetime": "2026-07-06T12:17:31Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "aiselect-ai-0399",
       "title": "2026 跨国教育（TNE）完整科普：模式、认可度与选择前必须理清的关键问题",
       "release_date": "2026-07-17",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "190016dc3c6b341e4b167d66349cf042954cc8972a3d0a5a33bf3a5a7b64bc56"
+      "source_sha256": "190016dc3c6b341e4b167d66349cf042954cc8972a3d0a5a33bf3a5a7b64bc56",
+      "publication_datetime": "2026-07-17T03:24:26Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     }
   ],
-  "generated_at": "2026-07-30T13:55:25Z"
+  "generated_at": "2026-07-31T13:43:36.135876+00:00"
 }
