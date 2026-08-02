@@ -3,7 +3,7 @@ title: "Windsurf IDE: First 30 Days with the Agentic Code Editor"
 pubDatetime: "2026-01-31T16:32:01Z"
 description: "Windsurf is an agentic code editor—a VS Code fork that layers in Cascade, an AI agent capable of autonomous project scaffolding, refactoring, and full-file g..."
 tags: ["Windsurf", "IDE", "Agentic", "Code", "Editor"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/工具评测/windsurf-ide-first-30-days-2026-1880x1058.jpg"
 
 ---
 

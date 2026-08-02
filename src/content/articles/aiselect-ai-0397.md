@@ -9,7 +9,7 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/工具评测/aiselect-ai-0397-2026-1880x869.jpg"
 tags:
 - 大学排名（QS / THE）怎么看
 category: SEO Tools

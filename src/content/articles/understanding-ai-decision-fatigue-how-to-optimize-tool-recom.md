@@ -5,7 +5,7 @@ description: Explore the psychology behind AI decision fatigue and learn actiona
 author: cowork
 tags: []
 slug: ai-decision-fatigue-optimize-tool-recommendations
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/understanding-ai-decision-fatigue-how-to-optimize-tool-recom-2026-1880x1253.jpg"
 ---
 
 The average knowledge worker now interacts with over 14 AI-powered tools weekly, according to a 2026 Stanford Digital Economy Lab report. This proliferation of intelligent assistants, recommendation engines, and automated decision-support systems has created a paradox: tools designed to simplify choices are overwhelming users. A 2025 Microsoft Work Trend Index found that 67% of professionals feel they spend more time evaluating AI-generated suggestions than acting on them. This phenomenon—**AI decision fatigue**—represents one of the most pressing challenges in user experience design today.

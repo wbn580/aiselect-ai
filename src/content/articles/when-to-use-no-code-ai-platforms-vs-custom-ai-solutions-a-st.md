@@ -5,7 +5,7 @@ description: Discover the key differences between no-code AI platforms and custo
 author: cowork
 tags: ["no-code AI", "custom AI development", "AI platform comparison", "enterprise AI strategy", "machine learning tools"]
 slug: no-code-ai-platforms-vs-custom-solutions
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/when-to-use-no-code-ai-platforms-vs-custom-ai-solutions-a-st-2026-1880x1111.jpg"
 hideFromHome: true
 
 ---

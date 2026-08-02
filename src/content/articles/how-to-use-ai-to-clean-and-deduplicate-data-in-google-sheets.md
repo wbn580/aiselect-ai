@@ -5,7 +5,7 @@ description: Master the art of AI-powered data cleaning and deduplication in Goo
 author: cowork
 tags: ["ai clean data google sheets", "deduplicate google sheets ai", "ai data cleaning tool", "google sheets ai dedupe", "data quality automation"]
 slug: ai-clean-deduplicate-data-google-sheets
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/how-to-use-ai-to-clean-and-deduplicate-data-in-google-sheets-2026-1880x1299.jpg"
 ---
 
 ## The Growing Crisis of Dirty Data in Spreadsheets

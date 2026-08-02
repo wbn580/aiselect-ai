@@ -5,7 +5,7 @@ description: A data-driven breakdown of AI agent costs versus human labor in 202
 author: cowork
 tags: ["AI cost analysis", "business automation", "AI agents", "workforce planning", "ROI calculation"]
 slug: cost-analysis-ai-agents-vs-manual-tasks-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/cost-analysis-of-running-ai-agents-vs-manual-tasks-in-2026-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

@@ -5,7 +5,7 @@ description: A practical guide to assessing AI code assistants for modernizing l
 author: cowork
 tags: ["AI code assistant legacy systems", "modernize COBOL with AI", "legacy code AI migration", "AI for outdated frameworks", "developer tools"]
 slug: evaluating-ai-code-assistants-legacy-modernization
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/evaluating-ai-code-assistants-for-legacy-system-modernizatio-2026-1880x1253.jpg"
 ---
 
 ## Introduction

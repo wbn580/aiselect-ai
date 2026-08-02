@@ -5,7 +5,7 @@ description: A comprehensive technical comparison of open source and proprietary
 author: cowork
 tags: ["open source AI models", "proprietary AI comparison", "AI model decision framework", "developer AI selection", "AI model trade-offs"]
 slug: open-source-vs-proprietary-ai-models-decision-framework
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/open-source-vs-proprietary-ai-models-a-developers-complete-d-2026-1880x1153.jpg"
 hideFromHome: true
 
 ---

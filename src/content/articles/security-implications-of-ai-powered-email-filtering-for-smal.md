@@ -5,7 +5,7 @@ description: Explore the hidden security risks and practical benefits of AI-powe
 author: cowork
 tags: ["AI email filtering security", "small business AI email security", "AI phishing detection email", "AI email filter risks", "AI email security tool small business"]
 slug: security-implications-ai-email-filtering-small-businesses
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/security-implications-of-ai-powered-email-filtering-for-smal-2026-1880x1111.jpg"
 ---
 
 ## The Double-Edged Sword of AI Email Filtering

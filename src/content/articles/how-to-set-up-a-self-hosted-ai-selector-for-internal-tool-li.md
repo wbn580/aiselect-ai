@@ -5,7 +5,7 @@ description: A practical engineering guide to deploying an on-premise AI recomme
 author: cowork
 tags: ["self-hosted AI tool selector", "internal tool library AI", "deploy AI recommendation system on-premise", "enterprise AI infrastructure", "tool discovery automation"]
 slug: set-up-self-hosted-ai-selector-internal-tool-libraries
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/how-to-set-up-a-self-hosted-ai-selector-for-internal-tool-li-2026-1880x1255.jpg"
 ---
 
 Managing an internal tool library at scale creates a paradox: the more tools you build to accelerate workflows, the harder it becomes for teams to find the right one. In 2026, a survey of 1,200 enterprise DevOps teams revealed that **47% of internal tools remain underutilized** simply because developers cannot locate them when needed. A self-hosted AI tool selector solves this by embedding an intelligent recommendation layer directly into your infrastructure, matching natural language queries to the most relevant internal tools without sending sensitive metadata to third-party services.

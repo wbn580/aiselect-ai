@@ -3,7 +3,7 @@ title: "Midjourney V7: Style Reference Consistency Across a Brand Campaign"
 pubDatetime: "2026-01-18T14:10:08Z"
 description: "Style reference consistency measures how reliably Midjourney V7 reproduces a visual style across multiple generations. In a test with 15 professional designe..."
 tags: ["Midjourney", "V7", "Style", "Reference", "Consistency"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/工具评测/midjourney-v7-style-consistency-brand-2026-1880x869.jpg"
 
 ---
 

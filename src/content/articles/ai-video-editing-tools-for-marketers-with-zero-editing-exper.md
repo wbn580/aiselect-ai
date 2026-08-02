@@ -5,7 +5,7 @@ description: Discover how AI video editing tools empower marketers with no techn
 author: cowork
 tags: ["ai video editing beginner", "marketing video ai", "auto caption ai tool", "video marketing", "AI tools"]
 slug: ai-video-editing-tools-marketers-zero-experience
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/ai-video-editing-tools-for-marketers-with-zero-editing-exper-2026-1880x1253.jpg"
 ---
 
 ## The Rise of AI-Powered Video Creation for Non-Editors

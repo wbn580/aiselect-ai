@@ -3,7 +3,7 @@ title: "Runway Gen‑4 Motion Brush: Animate Static Logos in Under 60 Seconds"
 pubDatetime: "2025-12-09T06:17:36Z"
 description: "Runway Gen‑4 Motion Brush turns still logos into 5‑second video clips by painting motion directly onto raster or vector art. An internal benchmark across 500..."
 tags: ["Runway", "Gen", "Motion", "Brush", "Animate"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/工具评测/runway-gen4-motion-brush-logo-animation-2026-1880x1253.jpg"
 
 ---
 

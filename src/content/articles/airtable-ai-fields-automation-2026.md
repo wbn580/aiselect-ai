@@ -3,7 +3,7 @@ title: "Airtable AI Fields: Automate Data Enrichment with Zero Code"
 pubDatetime: "2025-12-26T09:46:26Z"
 description: "AI fields turn your Airtable base into an automated enrichment engine. You write a plain-English instruction, and Airtable runs it against every record—no sc..."
 tags: ["Airtable", "AI", "Fields", "Automate", "Data"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/工具评测/airtable-ai-fields-automation-2026-2026-1880x1299.jpg"
 
 ---
 

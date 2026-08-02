@@ -5,7 +5,7 @@ description: Discover the key differences between low-code and no-code AI integr
 author: cowork
 tags: ["low code vs no code ai", "ai integration skill level", "no code ai for beginners", "low code ai tools comparison", "ai development platforms"]
 slug: low-code-vs-no-code-ai-integration-skill-level
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/low-code-vs-no-code-ai-integration-which-fits-your-skill-lev-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

@@ -3,7 +3,7 @@ title: "No‑Logs VPN Audit: What Really Gets Stored in 2026"
 pubDatetime: "2026-01-07T14:38:40Z"
 description: "A no‑logs VPN promises it never records your browsing history, IP address, or connection metadata. In practice, only a cryptographically signed report from a..."
 tags: ["No", "Logs", "VPN", "Audit", "What"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/工具评测/no-logs-vpn-audit-2026-2026-1880x1111.jpg"
 
 ---
 

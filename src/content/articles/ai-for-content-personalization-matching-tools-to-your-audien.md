@@ -5,7 +5,7 @@ description: Explore how AI content personalization transforms digital experienc
 author: cowork
 tags: ["AI content personalization", "audience segmentation AI", "select AI for content", "personalization tools CMS", "AI content matching"]
 slug: ai-content-personalization-matching-tools-audience-segments
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/ai-for-content-personalization-matching-tools-to-your-audien-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

@@ -5,7 +5,7 @@ description: Navigate the expanding landscape of AI for academic research method
 author: cowork
 tags: ["Research AI", "Academic Tools", "Qualitative Analysis", "Quantitative Methods", "Literature Review"]
 slug: ai-academic-research-matching-tools-methods
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/ai-for-academic-research-matching-tools-to-qualitative-vs-qu-2026-1880x1111.jpg"
 hideFromHome: true
 
 ---

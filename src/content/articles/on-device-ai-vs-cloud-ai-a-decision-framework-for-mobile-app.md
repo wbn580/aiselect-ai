@@ -5,7 +5,7 @@ description: A practical decision framework for mobile app developers evaluating
 author: cowork
 tags: ["on-device AI", "cloud AI", "mobile app development", "offline inference", "privacy-focused AI"]
 slug: on-device-ai-vs-cloud-ai-decision-framework-mobile-developers
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/on-device-ai-vs-cloud-ai-a-decision-framework-for-mobile-app-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

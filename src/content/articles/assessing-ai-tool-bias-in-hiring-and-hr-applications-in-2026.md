@@ -5,7 +5,7 @@ description: A comprehensive analysis of how artificial intelligence bias infilt
 author: cowork
 tags: ["AI bias", "hiring tools", "fairness audit", "HR technology", "algorithmic equity"]
 slug: assessing-ai-tool-bias-hiring-hr-applications-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/assessing-ai-tool-bias-in-hiring-and-hr-applications-in-2026-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: low-doc-finance-documentation -->

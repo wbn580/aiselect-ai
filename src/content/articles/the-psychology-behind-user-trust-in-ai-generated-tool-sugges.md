@@ -5,7 +5,7 @@ description: Explore the psychological mechanisms that drive user trust in AI-ge
 author: cowork
 tags: ["trust in AI recommendations", "psychology of AI selection", "user trust AI tools", "AI transparency factors", "explainable AI selector"]
 slug: psychology-behind-user-trust-ai-tool-suggestions
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/the-psychology-behind-user-trust-in-ai-generated-tool-sugges-2026-1880x1253.jpg"
 ---
 
 Artificial intelligence now shapes decisions that once relied entirely on human judgment. A 2026 Pew Research Center survey revealed that 71% of knowledge workers regularly encounter AI-generated tool suggestions in their workflow, yet only 38% consistently act on those recommendations. This gap between exposure and adoption raises a fundamental question: what psychological mechanisms determine whether a user trusts an AI-suggested tool?

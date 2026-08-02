@@ -3,7 +3,7 @@ title: "WireGuard vs OpenVPN Speed Test Across 20 Server Locations (2026)"
 pubDatetime: "2025-11-27T20:08:44Z"
 description: "WireGuard and OpenVPN are two protocols that encrypt traffic between your device and a remote network. This test measures raw protocol efficiency—throughput..."
 tags: ["WireGuard", "vs", "OpenVPN", "Speed", "Across"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/工具评测/wireguard-vs-openvpn-speed-test-2026-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

@@ -5,7 +5,7 @@ description: Explore how AI image upscaling transforms e-commerce product photog
 author: cowork
 tags: ["ai image upscaling", "e-commerce photography", "product image optimization", "machine learning tools", "visual commerce"]
 slug: ai-image-upscaling-ecommerce-quality-speed-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/ai-image-upscaling-for-e-commerce-product-photos-quality-vs--2026-1880x1255.jpg"
 hideFromHome: true
 
 ---

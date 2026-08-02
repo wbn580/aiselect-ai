@@ -5,7 +5,7 @@ description: Discover how citation-aware AI tools are transforming academic rese
 author: cowork
 tags: ["academic AI", "citation tools", "research integrity", "literature review", "AI ethics"]
 slug: ai-academic-research-tools-citation-source-integrity
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/ai-for-academic-research-tools-that-respect-citation-and-sou-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

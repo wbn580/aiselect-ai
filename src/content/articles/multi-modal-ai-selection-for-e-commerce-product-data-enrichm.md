@@ -5,7 +5,7 @@ description: Discover how to select the right multi-modal AI systems for enrichi
 author: cowork
 tags: []
 slug: multi-modal-ai-ecommerce-product-enrichment
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/multi-modal-ai-selection-for-e-commerce-product-data-enrichm-2026-1880x1299.jpg"
 ---
 
 ## Understanding the Role of Multi-Modal AI in Modern E-Commerce Catalogs

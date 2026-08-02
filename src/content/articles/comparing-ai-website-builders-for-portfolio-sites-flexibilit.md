@@ -5,7 +5,7 @@ description: Discover how AI website builders balance creative freedom and user-
 author: cowork
 tags: ["AI website builder portfolio", "creative portfolio AI builder", "flexible AI website builder", "AI portfolio site tool", "custom code AI website builder"]
 slug: comparing-ai-website-builders-portfolio-flexibility-vs-ease
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/comparing-ai-website-builders-for-portfolio-sites-flexibilit-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

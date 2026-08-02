@@ -5,7 +5,7 @@ description: A detailed cost and performance breakdown of deploying AgentGPT on 
 author: cowork
 tags: ["agentgpt", "deployment", "local hosting", "cloud hosting", "cost analysis"]
 slug: agentgpt-deployment-local-vs-cloud-hosting-cost-analysis
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/agentgpt-deployment-options-local-vs-cloud-hosting-cost-anal-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

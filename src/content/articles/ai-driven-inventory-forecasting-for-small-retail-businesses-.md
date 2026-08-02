@@ -5,7 +5,7 @@ description: Discover how small retail businesses can leverage AI inventory fore
 author: cowork
 tags: []
 slug: ai-inventory-forecasting-small-retail-starter-kit
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/ai-driven-inventory-forecasting-for-small-retail-businesses--2026-1880x1253.jpg"
 ---
 
 ## The New Reality of Retail Inventory Management

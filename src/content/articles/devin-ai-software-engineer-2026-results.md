@@ -3,7 +3,7 @@ title: "Devin AI Software Engineer: What It Actually Ships in 2026"
 pubDatetime: "2026-01-13T08:55:36Z"
 description: "Devin is an autonomous AI software engineer built by Cognition AI that turns GitHub issues into fully-reviewed pull requests. We analyzed 50 real‑world issue..."
 tags: ["Devin", "AI", "Software", "Engineer", "What"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/工具评测/devin-ai-software-engineer-2026-results-2026-1880x1253.jpg"
 
 ---
 

@@ -5,7 +5,7 @@ description: Explore how API rate limits affect AI tool performance, from thrott
 author: cowork
 tags: ["API rate limits", "AI performance", "throttling", "real-time processing", "API optimization"]
 slug: api-rate-limits-ai-tool-performance
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/the-impact-of-api-rate-limits-on-ai-tool-performance-2026-1880x1253.jpg"
 ---
 
 ## Understanding API rate limits in AI ecosystems

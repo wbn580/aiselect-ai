@@ -5,7 +5,7 @@ description: Explore how AutoGPT achieves 94% task completion rates compared to 
 author: cowork
 tags: ["autogpt", "manual scripting", "task automation", "business process efficiency", "AI agents"]
 slug: autogpt-vs-manual-scripting-task-completion-rates
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/autogpt-vs-manual-scripting-a-data-driven-analysis-of-task-c-2026-1880x1299.jpg"
 hideFromHome: true
 
 ---

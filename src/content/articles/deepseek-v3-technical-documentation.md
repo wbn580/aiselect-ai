@@ -3,7 +3,7 @@ title: "DeepSeek‑V3 for Technical Documentation: Developer’s Honest Breakdow
 pubDatetime: "2026-02-06T16:03:44Z"
 description: "DeepSeek‑V3 is a 685B‑parameter Mixture‑of‑Experts model optimized for structured text generation. In a controlled benchmark run across 500 API doc and READM..."
 tags: ["DeepSeek", "V3", "Technical", "Documentation", "Developer"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/工具评测/deepseek-v3-technical-documentation-2026-1880x1253.jpg"
 
 ---
 

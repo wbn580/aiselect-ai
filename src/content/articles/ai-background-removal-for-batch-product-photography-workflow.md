@@ -5,7 +5,7 @@ description: Master AI background removal for batch product photography with pro
 author: cowork
 tags: ["AI background removal", "batch product photography", "AI image tools", "product photo editing", "workflow automation"]
 slug: ai-background-removal-batch-product-photography-workflow
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/工具评测/ai-background-removal-for-batch-product-photography-workflow-2026-1880x1253.jpg"
 ---
 
 ## The Shift Toward Automated Product Image Processing

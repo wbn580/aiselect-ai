@@ -3,7 +3,7 @@ title: "Build a Customer Support Agent with n8n and Claude: Step‑by‑Step in 
 pubDatetime: "2026-02-01T08:07:58Z"
 description: "A support agent powered by n8n and Claude autonomously resolves common customer inquiries. Using Anthropic’s Claude 3.5 Sonnet within an n8n workflow, one re..."
 tags: ["Build", "a", "Customer", "Support", "Agent"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/工具评测/n8n-claude-customer-support-agent-2026-1880x1253.jpg"
 
 ---
 
