@@ -3,7 +3,7 @@ title: "Cloudflare Pages vs Netlify: Deploy a Next.js App and Measure Real User 
 pubDatetime: "2026-01-03T11:42:11Z"
 description: "We ship an identical e‑commerce Next.js store to Cloudflare Pages and Netlify, then capture 30 days of Chrome UX Report data. The global median TTFB lands at..."
 tags: ["Cloudflare", "Pages", "vs", "Netlify", "Deploy"]
-ogImage: "https://img.ulec.com.cn/工具评测/cloudflare-pages-vs-netlify-nextjs-metrics-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/cloudflare-pages-vs-netlify-nextjs-metrics-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

@@ -5,13 +5,13 @@ description: Discover how citation-aware AI tools are transforming academic rese
 author: cowork
 tags: ["academic AI", "citation tools", "research integrity", "literature review", "AI ethics"]
 slug: ai-academic-research-tools-citation-source-integrity
-ogImage: "https://img.ulec.com.cn/工具评测/ai-for-academic-research-tools-that-respect-citation-and-sou-2026-1880x1111.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/ai-for-academic-research-tools-that-respect-citation-and-sou-2026-1880x1111.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    src="https://img.aiselect.ai/edu/test-backfill-uni-2026-1880x1253.jpg"
     alt="university library"
     width="1200"
     height="800"
@@ -24,7 +24,7 @@ ogImage: "https://img.ulec.com.cn/工具评测/ai-for-academic-research-tools-th
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "contentUrl": "https://img.aiselect.ai/edu/test-backfill-uni-2026-1880x1253.jpg",
   "name": "university library",
   "description": "university library — 配图来源：R2自有图库",
   "width": "1200",

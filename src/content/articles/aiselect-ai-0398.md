@@ -9,7 +9,7 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg
+ogImage: https://img.aiselect.ai/rehost/e45ed9890a4f.jpg
 tags:
 - 课程数据库与选专业方法
 category: SEO Tools
@@ -19,7 +19,7 @@ readingTime: 8
 
 The first real obstacle in planning an international education isn't usually "which country?" It's "what can I actually apply for?" and "which universities genuinely offer this direction?" Course databases exist to solve that matching problem, but their value doesn't come from how many records they hold. It comes from whether the data structure is robust enough to support a rational decision about your field of study.
 
-![2027年留学课程数据库与选专业方法：从信息筛选到决策框架](https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg)
+![2027年留学课程数据库与选专业方法：从信息筛选到决策框架](https://img.aiselect.ai/rehost/e45ed9890a4f.jpg)
 
 ## What a Course Database Actually Solves
 

@@ -5,7 +5,7 @@ description: Discover how AI transforms data cleaning in Google Sheets. Learn ab
 author: cowork
 tags: ["AI Productivity Tools", "Google Sheets", "Data Cleaning", "Spreadsheet Automation", "AI Data Tools"]
 slug: ai-automated-data-cleaning-google-sheets
-ogImage: "https://img.ulec.com.cn/工具评测/ai-powered-data-cleaning-in-google-sheets-automate-error-det-2026-1880x1299.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/ai-powered-data-cleaning-in-google-sheets-automate-error-det-2026-1880x1299.jpg"
 ---
 
 The average data analyst spends **60% of their time cleaning and preparing data** rather than analyzing it, according to a 2026 survey by Anaconda. With the global volume of spreadsheet data growing at an estimated **23% year-over-year**, manual data cleaning has become unsustainable for modern teams. Google Sheets, used by over **2 billion active users** as of early 2026, has emerged as a central hub for collaborative data work—but its built-in cleaning tools remain limited to basic functions like TRIM and SPLIT.

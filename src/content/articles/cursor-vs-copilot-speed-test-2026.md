@@ -3,7 +3,7 @@ title: "Cursor vs GitHub Copilot: Pair Programming Speed Test (June 2026)"
 pubDatetime: "2025-11-29T20:04:25Z"
 description: "AI pair programming tools turn plain-language instructions into production code. In June 2026, two senior React developers ran the same 12 timed tasks—one wi..."
 tags: ["Cursor", "vs", "GitHub", "Copilot", "Pair"]
-ogImage: "https://img.ulec.com.cn/工具评测/cursor-vs-copilot-speed-test-2026-2026-1880x869.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/cursor-vs-copilot-speed-test-2026-2026-1880x869.jpg"
 hideFromHome: true
 
 ---

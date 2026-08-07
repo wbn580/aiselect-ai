@@ -5,7 +5,7 @@ description: A comprehensive guide to building a custom rich text editor plugin 
 author: cowork
 tags: ["bubble plugin development", "rich text editor", "custom bubble plugin", "plugin API tutorial", "web development"]
 slug: bubble-plugin-custom-rich-text-editor
-ogImage: "https://img.ulec.com.cn/工具评测/bubble-plugin-development-creating-a-custom-rich-text-editor-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/bubble-plugin-development-creating-a-custom-rich-text-editor-2026-1880x1253.jpg"
 ---
 
 ## Introduction to Bubble Plugin Development for Rich Text Editing

@@ -5,7 +5,7 @@ description: Explore essential Bubble app security best practices for user authe
 author: cowork
 tags: []
 slug: bubble-security-best-practices-2026
-ogImage: "https://img.ulec.com.cn/工具评测/bubble-security-best-practices-for-user-authentication-in-20-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/bubble-security-best-practices-for-user-authentication-in-20-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

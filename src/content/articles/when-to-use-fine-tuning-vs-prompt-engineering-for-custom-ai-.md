@@ -5,7 +5,7 @@ description: Explore the strategic trade-offs between fine-tuning and prompt eng
 author: cowork
 tags: ["fine-tuning vs prompts", "custom AI behavior control", "model adaptation cost", "few-shot learning trade-offs", "specialized AI without training"]
 slug: fine-tuning-vs-prompt-engineering-custom-ai-behavior
-ogImage: "https://img.ulec.com.cn/工具评测/when-to-use-fine-tuning-vs-prompt-engineering-for-custom-ai--2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/when-to-use-fine-tuning-vs-prompt-engineering-for-custom-ai--2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

@@ -5,7 +5,7 @@ description: Learn how to systematically diagnose and resolve Bubble app perform
 author: cowork
 tags: ["bubble app slow mobile fix", "bubble mobile performance troubleshooting", "optimize bubble app for mobile", "bubble.io performance", "mobile web app optimization"]
 slug: bubble-app-mobile-performance-troubleshooting
-ogImage: "https://img.ulec.com.cn/工具评测/troubleshooting-bubble-app-performance-issues-on-mobile-devi-2026-1880x869.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/troubleshooting-bubble-app-performance-issues-on-mobile-devi-2026-1880x869.jpg"
 ---
 
 ## Introduction

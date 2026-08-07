@@ -9,12 +9,12 @@ author: "selector-labs"
 slug: "dataforseo-review-2026"
 readingTime: 8
 tags: ["SEO API", "DataForSEO", "SERP API", "keyword data", "developer tools"]
-ogImage: "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg"
+ogImage: "https://img.aiselect.ai/rehost/e45ed9890a4f.jpg"
 ---
 
 <figure class="article-image">
   <img
-    src="https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg"
+    src="https://img.aiselect.ai/rehost/e45ed9890a4f.jpg"
     alt="Analytics dashboard with SEO ranking and keyword data charts"
     width="1200"
     height="800"

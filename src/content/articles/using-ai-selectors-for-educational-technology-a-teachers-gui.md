@@ -5,7 +5,7 @@ description: Discover how AI selectors for educational technology can transform 
 author: cowork
 tags: ["AI selector for edtech", "teachers guide AI tools", "classroom technology selection", "AI for education tools", "edtech recommendation AI"]
 slug: using-ai-selectors-educational-technology-teachers-guide
-ogImage: "https://img.ulec.com.cn/工具评测/using-ai-selectors-for-educational-technology-a-teachers-gui-2026-1743x1300.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/using-ai-selectors-for-educational-technology-a-teachers-gui-2026-1743x1300.jpg"
 ---
 
 ## Introduction

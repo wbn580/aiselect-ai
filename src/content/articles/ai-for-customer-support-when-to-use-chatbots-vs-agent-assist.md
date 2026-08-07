@@ -5,7 +5,7 @@ description: Learn how to strategically deploy customer support AI by understand
 author: cowork
 tags: ["customer support AI", "chatbot vs agent assist", "AI support selection", "support automation", "agent augmentation"]
 slug: ai-customer-support-chatbots-vs-agent-assist-tools
-ogImage: "https://img.ulec.com.cn/工具评测/ai-for-customer-support-when-to-use-chatbots-vs-agent-assist-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/ai-for-customer-support-when-to-use-chatbots-vs-agent-assist-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

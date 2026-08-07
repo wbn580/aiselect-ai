@@ -3,7 +3,7 @@ title: "Claude 3.5 Sonnet vs GPT-4o: Real‑World Writing Accuracy Tested in 202
 pubDatetime: "2025-12-13T07:31:58Z"
 description: "In 2026, long‑form content generation demands more than fluency — you need factual precision and tone consistency. Claude 3.5 Sonnet and GPT‑4o are the top m..."
 tags: ["Claude", "Sonnet", "vs", "GPT-4o", "Writing"]
-ogImage: "https://img.ulec.com.cn/工具评测/claude-vs-gpt4o-writing-accuracy-2026-2026-1880x869.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/claude-vs-gpt4o-writing-accuracy-2026-2026-1880x869.jpg"
 hideFromHome: true
 
 ---

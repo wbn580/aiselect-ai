@@ -3,7 +3,7 @@ title: "From Prompt to Prototype: Use Claude and Cursor to Build a Landing Page 
 pubDatetime: "2025-11-23T16:55:21Z"
 description: "You can ship a production‑quality landing page in under two hours. In this exact workflow, we moved from a raw product description to a live Next.js prototyp..."
 tags: ["Prompt", "to", "Prototype", "Use", "Claude"]
-ogImage: "https://img.ulec.com.cn/工具评测/prompt-to-prototype-claude-cursor-landing-page-2026-1880x869.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/prompt-to-prototype-claude-cursor-landing-page-2026-1880x869.jpg"
 
 ---
 

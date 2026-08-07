@@ -3,7 +3,7 @@ title: "AutoGPT vs AgentGPT: Autonomous Task Completion Rate in Real Scenarios"
 pubDatetime: "2025-12-29T22:06:34Z"
 description: "Autonomous AI agents decompose high-level goals into multi-step tool executions, browsing the web, filling forms, and reasoning without step-by-step promptin..."
 tags: ["AutoGPT", "vs", "AgentGPT", "Autonomous", "Task"]
-ogImage: "https://img.ulec.com.cn/工具评测/autogpt-vs-agentgpt-task-completion-rate-2026-1880x869.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/autogpt-vs-agentgpt-task-completion-rate-2026-1880x869.jpg"
 hideFromHome: true
 
 ---

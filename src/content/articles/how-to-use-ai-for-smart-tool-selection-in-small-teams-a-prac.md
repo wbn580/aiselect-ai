@@ -5,7 +5,7 @@ description: Discover how small teams can leverage AI to evaluate, compare, and 
 author: cowork
 tags: ["AI tool selection small teams", "smart software selection guide", "AI for team productivity tools", "workflow automation", "small team software strategy"]
 slug: ai-smart-tool-selection-small-teams
-ogImage: "https://img.ulec.com.cn/工具评测/how-to-use-ai-for-smart-tool-selection-in-small-teams-a-prac-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/how-to-use-ai-for-smart-tool-selection-in-small-teams-a-prac-2026-1880x1253.jpg"
 ---
 
 ## Introduction: The Hidden Cost of Poor Tool Selection

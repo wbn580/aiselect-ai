@@ -3,7 +3,7 @@ title: "Jasper for Enterprise Teams: What Changed in Q1 2026"
 pubDatetime: "2026-01-23T13:46:40Z"
 description: "Jasper’s enterprise collaboration toolkit gets a nuclear-grade upgrade. The Q1 2026 release raises the multi-user concurrency limit to 50 simultaneous editor..."
 tags: ["Jasper", "Enterprise", "Teams", "What", "Changed"]
-ogImage: "https://img.ulec.com.cn/工具评测/jasper-enterprise-update-q1-2026-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/jasper-enterprise-update-q1-2026-2026-1880x1253.jpg"
 
 ---
 

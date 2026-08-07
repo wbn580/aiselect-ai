@@ -5,7 +5,7 @@ description: Discover how organizations across healthcare, finance, manufacturin
 author: cowork
 tags: ["open-source AI", "model customization", "fine-tuning", "industry-specific AI", "enterprise machine learning"]
 slug: customizing-open-source-ai-industry-needs
-ogImage: "https://img.ulec.com.cn/工具评测/customizing-open-source-ai-models-for-specific-industry-need-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/customizing-open-source-ai-models-for-specific-industry-need-2026-1880x1253.jpg"
 ---
 
 ## Introduction

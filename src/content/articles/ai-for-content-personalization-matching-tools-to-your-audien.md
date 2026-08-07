@@ -5,13 +5,13 @@ description: Explore how AI content personalization transforms digital experienc
 author: cowork
 tags: ["AI content personalization", "audience segmentation AI", "select AI for content", "personalization tools CMS", "AI content matching"]
 slug: ai-content-personalization-matching-tools-audience-segments
-ogImage: "https://img.ulec.com.cn/工具评测/ai-for-content-personalization-matching-tools-to-your-audien-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/ai-for-content-personalization-matching-tools-to-your-audien-2026-1880x1253.jpg"
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    src="https://img.aiselect.ai/edu/test-backfill-uni-2026-1880x1253.jpg"
     alt="university library"
     width="1200"
     height="800"
@@ -24,7 +24,7 @@ ogImage: "https://img.ulec.com.cn/工具评测/ai-for-content-personalization-ma
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "contentUrl": "https://img.aiselect.ai/edu/test-backfill-uni-2026-1880x1253.jpg",
   "name": "university library",
   "description": "university library — 配图来源：R2自有图库",
   "width": "1200",

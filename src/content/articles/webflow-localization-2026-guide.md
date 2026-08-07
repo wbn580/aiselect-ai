@@ -3,7 +3,7 @@ title: "Webflow Localization in 2026: Launch a Multilingual Site Without Plugins
 pubDatetime: "2026-01-19T08:11:38Z"
 description: "Webflow Localization is a native panel in the Designer that lets you publish a single site in up to 15 languages—no third‑party apps, no custom code hacks. I..."
 tags: ["Webflow", "Localization", "in", "Launch", "a"]
-ogImage: "https://img.ulec.com.cn/工具评测/webflow-localization-2026-guide-2026-1880x1111.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/webflow-localization-2026-guide-2026-1880x1111.jpg"
 
 ---
 

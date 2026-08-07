@@ -5,7 +5,7 @@ description: Discover the decision framework for choosing between fine-tuning an
 author: cowork
 tags: ["AI Models", "Fine-Tuning", "Prompt Engineering", "Model Optimization", "AI Strategy"]
 slug: fine-tuning-vs-prompt-engineering-decision
-ogImage: "https://img.ulec.com.cn/工具评测/when-to-use-fine-tuned-models-vs-prompt-engineering-in-your--2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/when-to-use-fine-tuned-models-vs-prompt-engineering-in-your--2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

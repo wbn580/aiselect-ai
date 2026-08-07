@@ -5,7 +5,7 @@ description: A comprehensive analysis of ai pricing models in 2026, comparing su
 author: cowork
 tags: ["ai pricing models", "subscription vs usage ai", "ai tool cost comparison", "ai economics", "saas pricing"]
 slug: understanding-ai-pricing-models-subscription-vs-usage-based
-ogImage: "https://img.ulec.com.cn/工具评测/understanding-ai-pricing-models-subscription-vs-usage-based--2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/understanding-ai-pricing-models-subscription-vs-usage-based--2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

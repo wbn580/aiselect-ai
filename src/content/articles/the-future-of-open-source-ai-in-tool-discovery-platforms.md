@@ -5,7 +5,7 @@ description: Explore how open-source AI is reshaping tool discovery platforms th
 author: cowork
 tags: ["open-source AI", "tool discovery", "transparent AI", "customizable recommendations", "software selection"]
 slug: future-open-source-ai-tool-discovery-platforms
-ogImage: "https://img.ulec.com.cn/工具评测/the-future-of-open-source-ai-in-tool-discovery-platforms-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/the-future-of-open-source-ai-in-tool-discovery-platforms-2026-1880x1253.jpg"
 ---
 
 The landscape of software tool discovery is undergoing a fundamental transformation. According to a 2026 analysis by the Open Source Initiative, over 67% of developers now express frustration with proprietary recommendation systems that prioritize sponsored placements over genuine utility. Meanwhile, the Linux Foundation's 2026 survey of enterprise technology leaders reveals that 73% of organizations are actively seeking **transparent AI selection models** to guide their software procurement decisions. These numbers signal a decisive shift toward open-source solutions in tool discovery platforms.

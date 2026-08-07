@@ -5,7 +5,7 @@ description: Discover how AI prototyping tools transform rough concepts into pol
 author: cowork
 tags: ["AI prototyping", "design tools", "wireframe generation", "Uizard", "Visily"]
 slug: ai-powered-prototyping-idea-to-interactive-mockup
-ogImage: "https://img.ulec.com.cn/工具评测/ai-powered-prototyping-from-idea-to-interactive-mockup-in-ho-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/ai-powered-prototyping-from-idea-to-interactive-mockup-in-ho-2026-1880x1253.jpg"
 ---
 
 The design landscape has shifted dramatically. In 2025, a McKinsey survey found that 62% of product teams now integrate AI-assisted design tools into their workflow, cutting early-stage prototyping time by an average of 47%. A separate 2026 report from the Nielsen Norman Group highlights that designers using AI wireframe generators complete initial mockup iterations 3.2 times faster than those relying solely on traditional methods. These numbers reflect a fundamental change: prototyping is no longer a multi-day bottleneck but a process that can unfold in hours.

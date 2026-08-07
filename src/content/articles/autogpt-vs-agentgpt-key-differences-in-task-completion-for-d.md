@@ -5,7 +5,7 @@ description: An in-depth developer guide comparing AutoGPT and AgentGPT on task 
 author: cowork
 tags: []
 slug: autogpt-vs-agentgpt-task-completion-guide
-ogImage: "https://img.ulec.com.cn/工具评测/autogpt-vs-agentgpt-key-differences-in-task-completion-for-d-2026-1880x869.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/autogpt-vs-agentgpt-key-differences-in-task-completion-for-d-2026-1880x869.jpg"
 hideFromHome: true
 
 ---

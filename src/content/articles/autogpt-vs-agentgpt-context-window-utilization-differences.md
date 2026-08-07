@@ -5,7 +5,7 @@ description: An in-depth technical comparison of how AutoGPT and AgentGPT manage
 author: cowork
 tags: ["autogpt", "agentgpt", "context window", "memory limits", "technical deep dive"]
 slug: autogpt-agentgpt-context-window-utilization
-ogImage: "https://img.ulec.com.cn/工具评测/autogpt-vs-agentgpt-context-window-utilization-differences-2026-1880x869.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/autogpt-vs-agentgpt-context-window-utilization-differences-2026-1880x869.jpg"
 hideFromHome: true
 
 ---

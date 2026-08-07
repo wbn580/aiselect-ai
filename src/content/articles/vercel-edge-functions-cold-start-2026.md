@@ -3,7 +3,7 @@ title: "Vercel Edge Functions Cold Start Battle: 2026 Performance Data"
 pubDatetime: "2025-11-28T11:16:41Z"
 description: "Cold starts happen when an Edge Function receives a request but no instance is already running. In 2026, Vercel’s default hello‑world function shows a median..."
 tags: ["Vercel", "Edge", "Functions", "Cold", "Start"]
-ogImage: "https://img.ulec.com.cn/工具评测/vercel-edge-functions-cold-start-2026-2026-1880x1299.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/vercel-edge-functions-cold-start-2026-2026-1880x1299.jpg"
 
 ---
 

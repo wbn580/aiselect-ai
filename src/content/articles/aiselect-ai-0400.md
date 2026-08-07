@@ -9,7 +9,7 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg
+ogImage: https://img.aiselect.ai/rehost/e45ed9890a4f.jpg
 tags:
 - 教育代理与招生运营要点
 category: SEO Tools
@@ -19,7 +19,7 @@ readingTime: 8
 
 Running an education agency involves far more than helping students submit applications. The real work lives in the operational chain: verifying document checklists, tracking application progress, following up on visa statuses, and sending accommodation reminders. For anyone building admissions operations tools or managing an agent team, the central question isn't whether to use technology—it's which parts of that chain can be handed over to a system, which must stay in human hands, and what risks appear the moment you blur that line.
 
-![2027 年教育代理与招生运营的核心要点：自动化边界、合规底线与可持续流程](https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg)
+![2027 年教育代理与招生运营的核心要点：自动化边界、合规底线与可持续流程](https://img.aiselect.ai/rehost/e45ed9890a4f.jpg)
 
 ## What Admissions-Operations Software Should and Shouldn't Do
 

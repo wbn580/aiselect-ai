@@ -3,7 +3,7 @@ title: "Claude 3.5 Sonnet for Fiction Writing: Plot Consistency Over 50 Chapters
 pubDatetime: "2026-01-27T18:40:05Z"
 description: "Claude 3.5 Sonnet processes 200K tokens of context—enough to hold an entire novel draft in active memory. In a controlled long-form test, the model outlined..."
 tags: ["Claude", "Sonnet", "Fiction", "Writing", "Plot"]
-ogImage: "https://img.ulec.com.cn/工具评测/claude-fiction-writing-plot-consistency-2026-1880x869.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/claude-fiction-writing-plot-consistency-2026-1880x869.jpg"
 
 ---
 

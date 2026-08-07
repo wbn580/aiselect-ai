@@ -5,7 +5,7 @@ description: Explore how AI grammar checkers perform across academic disciplines
 author: cowork
 tags: ["AI grammar checker academic writing", "discipline-specific grammar AI", "academic AI proofreading tool", "STEM grammar AI accuracy", "humanities grammar AI"]
 slug: ai-grammar-checkers-academic-writing-discipline-accuracy
-ogImage: "https://img.ulec.com.cn/工具评测/ai-grammar-checkers-for-academic-writing-discipline-specific-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/ai-grammar-checkers-for-academic-writing-discipline-specific-2026-1880x1253.jpg"
 ---
 
 The global market for AI-powered writing assistants reached $1.8 billion in 2026, with academic users representing 34% of total adoption according to industry research. A 2026 survey of 2,400 doctoral candidates across 18 countries revealed that 71% now use some form of AI grammar checker for academic writing, yet only 23% believe these tools adequately address their field-specific terminology and conventions. This gap between widespread use and discipline-level satisfaction points to a critical question: how accurate are current AI proofreading tools when applied to specialized academic texts?

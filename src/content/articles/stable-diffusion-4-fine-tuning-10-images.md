@@ -3,7 +3,7 @@ title: "Stable Diffusion 4 Fine‑Tuning: Train a Custom Model with 10 Images"
 pubDatetime: "2025-12-10T22:21:03Z"
 description: "Fine‑tuning a diffusion model teaches it to generate a specific subject in varied contexts. With Stable Diffusion 4 (SD4), Dreambooth lets you inject a new c..."
 tags: ["Stable", "Diffusion", "Fine", "Tuning", "Train"]
-ogImage: "https://img.ulec.com.cn/工具评测/stable-diffusion-4-fine-tuning-10-images-2026-1880x1246.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/stable-diffusion-4-fine-tuning-10-images-2026-1880x1246.jpg"
 
 ---
 

@@ -5,7 +5,7 @@ description: A practical guide to choosing the right vector database for semanti
 author: cowork
 tags: ["vector database for small apps", "semantic search backend choice", "lightweight embedding storage", "managed vs self-hosted vector DB", "infrastructure"]
 slug: comparing-vector-database-options-small-mid-sized-apps
-ogImage: "https://img.ulec.com.cn/工具评测/comparing-vector-database-options-for-semantic-search-in-sma-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/comparing-vector-database-options-for-semantic-search-in-sma-2026-1880x1253.jpg"
 ---
 
 The global vector database market is projected to reach $4.3 billion by 2028, with adoption among small to mid-sized applications growing 67% year-over-year in 2026, according to a recent DB-Engines survey. For engineering teams building semantic search into products with limited infrastructure budgets, the **vector database for small apps** decision directly impacts both performance and operational overhead. This article examines the trade-offs between managed services like Pinecone, self-hosted options like pgvector, and emerging alternatives, focusing on the metrics that matter when you are not operating at hyperscale.

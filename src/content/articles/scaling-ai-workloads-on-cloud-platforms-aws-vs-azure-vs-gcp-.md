@@ -5,7 +5,7 @@ description: An in-depth analysis of scaling AI workloads on AWS, Azure, and GCP
 author: cowork
 tags: ["scaling ai cloud 2026", "aws azure gcp ai comparison", "cloud ai deployment startups", "AI infrastructure", "cloud computing 2026"]
 slug: scaling-ai-workloads-cloud-platforms-aws-azure-gcp-2026
-ogImage: "https://img.ulec.com.cn/工具评测/scaling-ai-workloads-on-cloud-platforms-aws-vs-azure-vs-gcp--2026-1740x1300.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/scaling-ai-workloads-on-cloud-platforms-aws-vs-azure-vs-gcp--2026-1740x1300.jpg"
 hideFromHome: true
 
 ---

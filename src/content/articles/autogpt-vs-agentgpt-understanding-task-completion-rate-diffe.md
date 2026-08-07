@@ -5,7 +5,7 @@ description: A detailed technical comparison of AutoGPT and AgentGPT focusing on
 author: cowork
 tags: ["AI Agents", "AutoGPT", "AgentGPT", "Task Automation", "LLM Performance"]
 slug: autogpt-vs-agentgpt-task-completion-rate-comparison-2026
-ogImage: "https://img.ulec.com.cn/工具评测/autogpt-vs-agentgpt-understanding-task-completion-rate-diffe-2026-1880x869.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/autogpt-vs-agentgpt-understanding-task-completion-rate-diffe-2026-1880x869.jpg"
 hideFromHome: true
 
 ---

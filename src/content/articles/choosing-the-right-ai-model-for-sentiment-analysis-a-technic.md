@@ -5,7 +5,7 @@ description: A comprehensive technical guide comparing transformer architectures
 author: cowork
 tags: ["sentiment analysis", "NLP models", "AI model selection", "machine learning", "text classification"]
 slug: ai-model-sentiment-analysis-technical-comparison
-ogImage: "https://img.ulec.com.cn/工具评测/choosing-the-right-ai-model-for-sentiment-analysis-a-technic-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/choosing-the-right-ai-model-for-sentiment-analysis-a-technic-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

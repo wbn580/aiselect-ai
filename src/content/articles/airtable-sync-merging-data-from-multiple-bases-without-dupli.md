@@ -5,7 +5,7 @@ description: Master Airtable Sync to merge data from multiple bases without crea
 author: cowork
 tags: ["Airtable Sync", "Data Management", "Data Integration", "Deduplication", "Workflow Automation"]
 slug: airtable-sync-merging-data-multiple-bases-no-duplicates
-ogImage: "https://img.ulec.com.cn/工具评测/airtable-sync-merging-data-from-multiple-bases-without-dupli-2026-1880x1299.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/airtable-sync-merging-data-from-multiple-bases-without-dupli-2026-1880x1299.jpg"
 ---
 
 ## Introduction: The Growing Challenge of Multi-Base Data Management

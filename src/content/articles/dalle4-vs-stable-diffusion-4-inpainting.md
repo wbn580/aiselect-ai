@@ -3,7 +3,7 @@ title: "DALL‑E 4 Inpainting vs Stable Diffusion 4: Edit Product Photos on a Bu
 pubDatetime: "2026-02-09T20:32:12Z"
 description: "Inpainting replaces a masked region of an image with new content that blends seamlessly into the surroundings. Our Q1 2026 benchmark on 10 e‑commerce product..."
 tags: ["DALL", "E", "Inpainting", "vs", "Stable"]
-ogImage: "https://img.ulec.com.cn/工具评测/dalle4-vs-stable-diffusion-4-inpainting-2026-1880x1253.jpg"
+ogImage: "https://img.aiselect.ai/工具评测/dalle4-vs-stable-diffusion-4-inpainting-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---
