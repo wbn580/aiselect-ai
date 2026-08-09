@@ -35,19 +35,6 @@ const sorted = articles.sort((a, b) =>
     </div>
   </section>
 
-  <!-- Tool Categories -->
-  <section class="max-w-6xl mx-auto px-6 -mt-10 relative z-10">
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
-      {['Web Hosting','VPN','AI Writing','No-code','Automation','Database','Image Gen','Business'].map(cat => (
-        <a href={`/category/${cat.toLowerCase().replace(/ /g, '-')}/`}
-           class="bg-white border border-gray-200 rounded-xl p-4 hover:border-[#00D9C0] hover:shadow-sm transition-all group">
-          <span class="text-sm font-mono font-semibold group-hover:text-[#00D9C0]">{cat}</span>
-          <span class="block text-2xs text-gray-400 mt-0.5">&rarr;</span>
-        </a>
-      ))}
-    </div>
-  </section>
-
   <div class="max-w-6xl mx-auto px-6">
     <CodexReferralCard placement="home" />
   </div>

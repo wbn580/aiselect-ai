@@ -15,7 +15,7 @@ const cats = [...catMap.entries()].sort((a, b) => b[1] - a[1]);
     <h1 class="text-2xl font-bold mb-4">Categories</h1>
     <ul>
       {cats.map(([cat, count]) => (
-        <li><a href={`/category/${cat.toLowerCase().replace(/ /g, '-')}/`}>{cat} ({count})</a></li>
+        <li><span>{cat} ({count})</span></li>
       ))}
     </ul>
   </main>
