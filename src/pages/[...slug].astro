@@ -38,9 +38,11 @@ const _faqItems = (() => {
   } catch { return [] as {q:string;a:string}[]; }
 })();
 const _faqSchema = _faqItems.length ? { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: _faqItems.map(it => ({ "@type": "Question", name: it.q, acceptedAnswer: { "@type": "Answer", text: it.a } })) } : null;
+const _ogImageProp = entry.data?.ogImage || entry.data?.heroImage || entry.data?.featured_image || entry.data?.featuredImage || entry.data?.coverImage || entry.data?.image || undefined; /* og-wiring */
+
 ---
 
-<ArticleLayout entry={entry}>
+<ArticleLayout ogImage={_ogImageProp} entry={entry}>
   {_faqSchema && <script type="application/ld+json" set:html={JSON.stringify(_faqSchema)} />}
   <Content />
 </ArticleLayout>
