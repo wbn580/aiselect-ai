@@ -11,12 +11,14 @@ interface Props {
 }
 
 const { title, description, image } = Astro.props;
+const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
+
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
-    <BaseHead title={title} description={description} image={image} />
+    <BaseHead ogImage={_ogImageProp} title={title} description={description} image={image} />
     <script type="application/ld+json">
       {JSON.stringify({
         "@context": "https://schema.org",

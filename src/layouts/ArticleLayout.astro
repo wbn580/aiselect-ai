@@ -32,9 +32,11 @@ const displayDate = entry.data.publishDate || entry.data.pubDatetime || '';
 const date = new Date(displayDate).toLocaleDateString('en-US', {
   year: 'numeric', month: 'long', day: 'numeric',
 });
+const _ogImageProp = entry.data?.ogImage || entry.data?.heroImage || entry.data?.featured_image || entry.data?.featuredImage || entry.data?.coverImage || entry.data?.image || undefined; /* og-wiring */
+
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout ogImage={_ogImageProp} title={title} description={description}>
   <script type="application/ld+json" set:html={JSON.stringify(_articleSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(_websiteSchema)} />
   <article class="max-w-[42rem] mx-auto px-6 py-16">

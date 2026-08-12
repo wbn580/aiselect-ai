@@ -5,7 +5,7 @@ description: A comprehensive guide to selecting AI-powered text-to-speech engine
 author: AI Audio Tools Editor
 tags: ["text-to-speech accessibility", "WCAG AI compliance", "government website TTS", "Amazon Polly SSML", "screen reader AI"]
 slug: text-to-speech-engine-accessibility-compliance-government-websites
-ogImage: /img/og/待配.jpg
+
 ---
 
 Government websites face unprecedented pressure to deliver **text-to-speech accessibility** that goes beyond basic screen reader compatibility. With the European Accessibility Act enforcement beginning June 2025 and updated Section 508 standards taking effect across US federal agencies, the selection of a **government website TTS** engine has become a critical procurement decision. Recent data from the World Health Organization indicates that over 1.3 billion people worldwide experience significant disability, representing 16% of the global population. Meanwhile, the WebAIM Million 2025 report found that 95.9% of government homepages still contain detectable WCAG failures, with missing text alternatives and improper ARIA labeling among the most persistent issues.

@@ -5,7 +5,7 @@ description: Learn to build a fully offline AI photo restoration workstation usi
 author: AI Tools Editorial
 tags: ["local AI upscaler", "photo restoration offline", "Upscayl archival", "Real-ESRGAN privacy", "pre-digital photo AI"]
 slug: local-ai-upscaler-archival-photo-restoration
-ogImage: /img/og/archival-photo-restoration.jpg
+
 ---
 
 Archivists, family historians, and cultural heritage professionals face a growing dilemma. According to the **2026 Digital Preservation Coalition Global Survey**, 78% of institutions now handle pre-digital photographic materials, yet 63% report insufficient budgets for outsourced restoration. Meanwhile, cloud-based AI tools introduce privacy risks—the **2026 IBM Cost of a Data Breach Report** notes that image-related data exposures in creative sectors rose 14% year-over-year. A **local AI upscaler** solves both problems, delivering professional-grade **photo restoration offline** without ever transmitting sensitive archival materials to third-party servers.
