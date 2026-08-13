@@ -19,8 +19,9 @@ const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
 <html lang="en">
   <head>
     <BaseHead ogImage={_ogImageProp} title={title} description={description} image={image} />
-    <script type="application/ld+json">
-      {JSON.stringify({
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify({
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "AI Select",
@@ -28,7 +29,7 @@ const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
         "description": "AI tools, reviewed honestly. Hands-on testing, transparent ratings, affiliate-disclosed verdicts.",
         "inLanguage": "en"
       })}
-    </script>
+    />
   </head>
   <body class="font-sans text-[#0F0F1B] bg-white antialiased min-h-screen flex flex-col">
     <Header />
