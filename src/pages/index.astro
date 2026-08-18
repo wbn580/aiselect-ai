@@ -3,7 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import CodexReferralCard from '../components/CodexReferralCard.astro';
 
-const articles = await getCollection('articles');
+const articles = (await getCollection('articles')).filter((a) => !a.data.hideFromHome);
 const sorted = articles.sort((a, b) =>
   new Date(b.data.publishDate || b.data.pubDatetime || '').getTime() - new Date(a.data.publishDate || a.data.pubDatetime || '').getTime()
 );
