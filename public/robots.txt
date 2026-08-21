@@ -40,3 +40,4 @@ User-agent: ToutiaoSpider
 Allow: /
 
 Sitemap: https://aiselect.ai/sitemap-index.xml
+Sitemap: https://aiselect.ai/sitemap.xml
