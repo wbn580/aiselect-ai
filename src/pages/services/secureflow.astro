@@ -1,0 +1,209 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SecureFlowConversion from '../../components/SecureFlowConversion.astro';
+
+const offers = [
+  {
+    name: 'Snapshot',
+    price: 'A$0 ex GST',
+    note: 'A$0 incl GST · available at launch',
+    status: 'AVAILABLE AT LAUNCH',
+    available: true,
+    text: 'Free opportunity score, data-risk route and a machine recommendation: proceed, narrow, prepare or decline.',
+    priceSpecifications: [
+      { name: 'Free Snapshot price excluding GST', price: '0.00', valueAddedTaxIncluded: false },
+      { name: 'Free Snapshot price including GST', price: '0.00', valueAddedTaxIncluded: true },
+    ],
+  },
+  {
+    name: 'Auto Blueprint',
+    price: 'A$290 ex GST',
+    note: 'A$319 incl GST · planned pilot',
+    status: 'NOT OPEN FOR ORDER',
+    available: false,
+    text: 'Planned process and data map, value baseline, guardrails, acceptance tests and implementation specification.',
+    priceSpecifications: [
+      { name: 'Planned one-off price excluding GST', price: '290.00', valueAddedTaxIncluded: false },
+      { name: 'Planned one-off price including GST', price: '319.00', valueAddedTaxIncluded: true },
+    ],
+  },
+  {
+    name: 'Safety Prep',
+    price: 'A$390 ex GST',
+    note: 'A$429 incl GST · planned pilot',
+    status: 'NOT OPEN FOR ORDER',
+    available: false,
+    text: 'Planned guided access, MFA, data-minimisation and approval controls with automatic re-checking.',
+    priceSpecifications: [
+      { name: 'Planned one-off price excluding GST', price: '390.00', valueAddedTaxIncluded: false },
+      { name: 'Planned one-off price including GST', price: '429.00', valueAddedTaxIncluded: true },
+    ],
+  },
+  {
+    name: 'LeadFlow Launch',
+    price: 'A$1,490 ex GST',
+    note: 'A$1,639 incl GST · planned pilot',
+    status: 'NOT OPEN FOR ORDER',
+    available: false,
+    text: 'Planned standard website-enquiry workflow, two supported connectors, customer UAT and 30-day monitoring.',
+    priceSpecifications: [
+      { name: 'Planned one-off price excluding GST', price: '1490.00', valueAddedTaxIncluded: false },
+      { name: 'Planned one-off price including GST', price: '1639.00', valueAddedTaxIncluded: true },
+    ],
+  },
+  {
+    name: 'Guardrail Care',
+    price: 'A$149/mo ex GST',
+    note: 'A$163.90/mo incl GST',
+    secondaryPrice: 'A$1,490/yr ex GST · A$1,639/yr incl GST',
+    status: 'NOT OPEN FOR ORDER',
+    available: false,
+    text: 'Planned monitoring, retries, monthly evidence report, quarterly re-scan and permission-change alerts.',
+    priceSpecifications: [
+      { name: 'Planned monthly price excluding GST', price: '149.00', valueAddedTaxIncluded: false, billingDuration: 'P1M' },
+      { name: 'Planned monthly price including GST', price: '163.90', valueAddedTaxIncluded: true, billingDuration: 'P1M' },
+      { name: 'Planned annual price excluding GST', price: '1490.00', valueAddedTaxIncluded: false, billingDuration: 'P1Y' },
+      { name: 'Planned annual price including GST', price: '1639.00', valueAddedTaxIncluded: true, billingDuration: 'P1Y' },
+    ],
+  },
+];
+
+const structuredOffers = offers.map(offer => ({
+  '@type': 'Offer',
+  name: offer.name,
+  url: 'https://aiselect.ai/services/secureflow/',
+  availability: offer.available ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
+  description: `${offer.text} ${offer.available ? 'Available in the free launch release.' : 'Planned pilot only; not currently available to order.'}`,
+  itemOffered: { '@type': 'Service', name: `SecureFlow ${offer.name}` },
+  priceSpecification: offer.priceSpecifications.map(spec => ({
+    '@type': 'UnitPriceSpecification',
+    name: spec.name,
+    price: spec.price,
+    priceCurrency: 'AUD',
+    valueAddedTaxIncluded: spec.valueAddedTaxIncluded,
+    ...('billingDuration' in spec ? { billingDuration: spec.billingDuration } : {}),
+  })),
+}));
+
+const faq = [
+  ['Can I buy a paid service now?', 'No. The launch release contains only the free Snapshot and the self-serve Workflow Definition Kit. Paid products are not open for order, no payment is accepted, and no order, subscription or intake is created.'],
+  ['Where is the human?', 'The free launch release needs no sales call or project-manager hand-off. If paid delivery later opens, your team would approve terms, minimum OAuth access, field mapping, outbound wording, UAT and go-live. Internal people would enter only for a genuine legal, security or engineering exception.'],
+  ['What is the planned LeadFlow Launch scope?', 'The planned template covers one standard website enquiry: validate, deduplicate, summarise, route by deterministic rules, write to one supported CRM or business table, acknowledge with approved wording, retry safe failures and produce an outcome report. It is not available to order at launch.'],
+  ['What will you not automate?', 'Payments, contracts, credit, hiring or dismissal, regulated advice, legal, medical, financial or migration judgement, regulatory submissions, covert monitoring, spam, incident response, penetration testing or unapproved asset scanning.'],
+  ['Do you need our passwords or customer files?', 'No. The public Snapshot collects neither and the launch release does not connect to customer systems. If paid delivery later opens, supported connections would require customer-approved OAuth with the minimum allowlisted permissions. Identity, health and financial documents remain outside the planned template.'],
+  ['What if our systems are not supported?', 'The Snapshot can recommend preparation or a narrower planned product, but it cannot create an order. If paid delivery later opens, unsupported connectors, permissions or data must stop or downgrade the scope before any accepted implementation; a salesperson cannot override the safety boundary.'],
+];
+---
+
+<BaseLayout
+  title="SecureFlow — Free workflow and data-risk Snapshot for Australian SMEs"
+  description="Run a free workflow and data-risk Snapshot for an Australian SME, then use the self-serve definition kit. Paid SecureFlow pilots are not yet open."
+>
+  <script
+    type="application/ld+json"
+    set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Service',
+      name: 'SecureFlow',
+      serviceType: 'Productised workflow automation and data-safety preparation',
+      provider: { '@type': 'Organization', name: 'Arrivau Pty Ltd', url: 'https://aiselect.ai/services/secureflow/' },
+      areaServed: { '@type': 'Country', name: 'Australia' },
+      audience: { '@type': 'BusinessAudience', audienceType: 'Small and medium businesses' },
+      offers: structuredOffers
+    })}
+  />
+
+  <section class="relative overflow-hidden bg-[#171a33] text-white">
+    <div class="absolute inset-0 opacity-50 bg-[radial-gradient(circle_at_80%_8%,rgba(0,217,192,.28),transparent_28%),linear-gradient(120deg,transparent_35%,rgba(255,255,255,.025)_35%,rgba(255,255,255,.025)_36%,transparent_36%)]"></div>
+    <div class="relative max-w-6xl mx-auto px-6 py-20 lg:py-28">
+      <div class="flex flex-wrap items-center gap-3 text-[11px] font-mono uppercase tracking-[0.16em] text-[#83e9dd]">
+        <span class="rounded-full border border-[#00d9c0]/30 bg-[#00d9c0]/10 px-3 py-1.5">Launch release · free only</span>
+        <span>Australia + cross-border SMEs</span>
+      </div>
+      <div class="mt-8 grid lg:grid-cols-[1.28fr_.72fr] gap-12 items-end">
+        <div>
+          <p class="font-mono text-sm text-[#00d9c0]">SecureFlow / exception-only operations</p>
+          <h1 class="mt-5 max-w-4xl text-4xl sm:text-5xl lg:text-7xl font-mono font-bold tracking-[-0.055em] leading-[.98]">Screen one workflow.<br/><span class="text-[#8be9de]">Keep people in control.</span></h1>
+          <p class="mt-7 max-w-2xl text-lg leading-relaxed text-[#c8ccdc]">Start with a free rules-based screen for one repetitive SME workflow. The public launch release stops at the Snapshot result and self-serve definition kit; paid implementation, connections and monitoring are not yet open.</p>
+          <div class="mt-9 flex flex-col sm:flex-row gap-3">
+            <a href="#snapshot" class="inline-flex min-h-12 items-center justify-center rounded-xl bg-[#00d9c0] px-6 py-3 font-mono text-sm font-bold text-[#171a33] hover:bg-[#8be9de] transition-colors">Run the free snapshot →</a>
+            <a href="/services/secureflow/workflow-definition-kit/" class="inline-flex min-h-12 items-center justify-center rounded-xl border border-white/15 bg-white/[.06] px-6 py-3 font-mono text-sm font-bold text-white hover:bg-white/[.1] transition-colors">Open the self-serve kit</a>
+          </div>
+        </div>
+        <aside class="rounded-2xl border border-white/10 bg-white/[.055] p-6 backdrop-blur-sm">
+          <p class="text-xs font-mono uppercase tracking-[.14em] text-[#83e9dd]">Planned first paid template · not yet open</p>
+          <h2 class="mt-3 text-xl font-mono font-bold">LeadFlow-SME-01</h2>
+          <ol class="mt-5 space-y-3 text-sm text-[#c8ccdc]">
+            <li class="flex gap-3"><span class="text-[#00d9c0]">01</span><span>Website enquiry is validated and deduplicated.</span></li>
+            <li class="flex gap-3"><span class="text-[#00d9c0]">02</span><span>Low-risk summary; deterministic owner routing.</span></li>
+            <li class="flex gap-3"><span class="text-[#00d9c0]">03</span><span>Approved acknowledgement, reminders and retries.</span></li>
+            <li class="flex gap-3"><span class="text-[#00d9c0]">04</span><span>Outcome log and monthly evidence report.</span></li>
+          </ol>
+          <p class="mt-5 border-t border-white/10 pt-4 text-xs leading-relaxed text-[#9da4bc]">No automated quoting, regulated advice or high-impact decision-making.</p>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <section class="max-w-6xl mx-auto px-6 py-16 lg:py-20">
+    <div class="grid md:grid-cols-3 gap-5">
+      <article class="rounded-2xl border border-[#e1e8e7] p-6"><span class="font-mono text-xs font-bold text-[#008f80]">PUBLIC NOW</span><h2 class="mt-3 font-mono text-xl font-bold">Snapshot + self-serve kit</h2><p class="mt-3 text-sm leading-relaxed text-[#626a7a]">The launch release screens one workflow and provides a definition checklist. It creates no order, charge, subscription or customer-system connection.</p></article>
+      <article class="rounded-2xl border border-[#e1e8e7] p-6"><span class="font-mono text-xs font-bold text-[#008f80]">PAID GATE</span><h2 class="mt-3 font-mono text-xl font-bold">Checkout remains disabled</h2><p class="mt-3 text-sm leading-relaxed text-[#626a7a]">Paid service waits for an independent merchant account and KYC, signature-verified payment webhooks, and an operating fulfilment executor.</p></article>
+      <article class="rounded-2xl border border-[#e1e8e7] p-6"><span class="font-mono text-xs font-bold text-[#008f80]">FUTURE CUSTOMER CONTROL</span><h2 class="mt-3 font-mono text-xl font-bold">Five explicit approvals</h2><p class="mt-3 text-sm leading-relaxed text-[#626a7a]">Before any future connection: terms, minimum OAuth scope, mapping and messages, UAT, then go-live. The system cannot approve itself.</p></article>
+    </div>
+  </section>
+
+  <section class="bg-[#f5f7f7] border-y border-[#e5ebea] py-16 lg:py-20">
+    <div class="max-w-6xl mx-auto px-6">
+      <div class="max-w-3xl"><p class="font-mono text-xs font-bold tracking-[.16em] uppercase text-[#008f80]">Transparent planned catalogue · no checkout</p><h2 class="mt-3 text-3xl lg:text-4xl font-mono font-bold tracking-tight">Free launch slice, paid pilots shown in advance</h2><p class="mt-4 text-[#626a7a] leading-relaxed">Only Snapshot and the self-serve Workflow Definition Kit are public at launch. Paid prices are proposed pilot parameters, not market averages or order offers. No paid order, charge, subscription or intake can be created.</p></div>
+      <div class="mt-10 grid md:grid-cols-2 lg:grid-cols-5 gap-4">
+        {offers.map((offer, index) => (
+          <article class:list={["relative rounded-2xl border p-5", index === 3 ? "border-[#00bfa9] bg-[#171a33] text-white shadow-xl" : "border-[#dfe7e5] bg-white"]}>
+            <span class:list={["inline-flex rounded-full px-2.5 py-1 text-[9px] font-mono font-bold tracking-wide", offer.available ? "bg-[#dff8f4] text-[#007f73]" : index === 3 ? "bg-[#ffbd66] text-[#171a33]" : "bg-[#f0f2f2] text-[#626a7a]"]}>{offer.status}</span>
+            <h3 class="font-mono font-bold text-base">{offer.name}</h3>
+            <p class:list={["mt-5 text-2xl font-mono font-bold", index === 3 ? "text-[#8be9de]" : "text-[#171a33]"]}>{offer.price}</p>
+            <p class:list={["mt-2 text-[11px] font-semibold", index === 3 ? "text-[#d6daea]" : "text-[#626a7a]"]}>{offer.note}</p>
+            {'secondaryPrice' in offer && <p class:list={["mt-1 text-[10px] leading-relaxed", index === 3 ? "text-[#aeb4c8]" : "text-[#818897]"]}>{offer.secondaryPrice}</p>}
+            <p class:list={["mt-5 text-sm leading-relaxed", index === 3 ? "text-[#c8ccdc]" : "text-[#626a7a]"]}>{offer.text}</p>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="max-w-6xl mx-auto px-6 py-16 lg:py-20">
+    <div class="grid lg:grid-cols-[.72fr_1.28fr] gap-12 items-start">
+      <div class="lg:sticky lg:top-24"><p class="font-mono text-xs font-bold tracking-[.16em] uppercase text-[#008f80]">Launch boundary</p><h2 class="mt-3 text-3xl lg:text-4xl font-mono font-bold tracking-tight">The public path stops before commerce.</h2><p class="mt-4 text-[#626a7a] leading-relaxed">Snapshot and the self-serve kit are the complete launch slice. The paid lifecycle below remains disabled until its legal, payment-security and fulfilment gates are operating.</p></div>
+      <div class="grid sm:grid-cols-2 gap-4">
+        {[
+          ['01 · Screen · public', 'An attributed free Snapshot measures workflow value, feasibility and data guardrails.'],
+          ['02 · Route · public', 'The result may recommend a planned product, narrow the scope, provide preparation guidance or decline. It is not an order.'],
+          ['03 · Define · public', 'The self-serve Kit helps the customer document triggers, fields, approvals, exceptions and tests.'],
+          ['04 · Checkout · disabled', 'No payment is accepted until independent merchant/KYC, signature-verified webhooks and fulfilment controls pass.'],
+          ['05 · Intake · disabled', 'The launch release creates no intake. Any future intake must follow verified payment and explicit customer approvals.'],
+          ['06 · Deliver · disabled', 'Connections, tests, UAT, go-live, monitoring, renewal and referral remain outside the public launch release.'],
+        ].map(([title, text]) => <article class="rounded-2xl border border-[#e1e8e7] p-5"><h3 class="font-mono font-bold text-[#171a33]">{title}</h3><p class="mt-3 text-sm leading-relaxed text-[#626a7a]">{text}</p></article>)}
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-[#171a33] text-white py-16 lg:py-20">
+    <div class="max-w-6xl mx-auto px-6 grid lg:grid-cols-2 gap-12">
+      <div><p class="font-mono text-xs font-bold tracking-[.16em] uppercase text-[#83e9dd]">Planned paid acceptance · not active</p><h2 class="mt-3 text-3xl font-mono font-bold">The proposed narrow lane</h2><ul class="mt-7 space-y-3 text-sm text-[#c8ccdc]">{['One stable website-enquiry workflow','One business entity and up to 15 users','Up to two supported cloud connectors','Low-sensitivity contact and service-category fields','Customer-approved messages and routing rules','Customer UAT and named go-live approval'].map(item => <li class="flex gap-3"><span class="text-[#00d9c0]">✓</span><span>{item}</span></li>)}</ul></div>
+      <div><p class="font-mono text-xs font-bold tracking-[.16em] uppercase text-[#ffbd66]">Snapshot hard stops</p><h2 class="mt-3 text-3xl font-mono font-bold">No salesperson can override these</h2><ul class="mt-7 space-y-3 text-sm text-[#c8ccdc]">{['Active or suspected cyber incident','Identity, health or financial-document intake','Payments, credit, employment or regulated decisions','Passwords, shared admin access or bypassed MFA','On-premise, custom API, attachments or data migration','Spam, covert monitoring or unapproved scanning'].map(item => <li class="flex gap-3"><span class="text-[#ffbd66]">×</span><span>{item}</span></li>)}</ul></div>
+    </div>
+  </section>
+
+  <div class="py-16 lg:py-20"><SecureFlowConversion /></div>
+
+  <section class="max-w-4xl mx-auto px-6 pb-20">
+    <p class="font-mono text-xs font-bold tracking-[.16em] uppercase text-[#008f80]">Questions before the snapshot</p>
+    <h2 class="mt-3 text-3xl font-mono font-bold tracking-tight">Plain boundaries, before access.</h2>
+    <div class="mt-8 divide-y divide-[#e1e8e7] border-y border-[#e1e8e7]">
+      {faq.map(([q, a], index) => <details class="group py-5" open={index === 0}><summary class="flex cursor-pointer list-none items-center justify-between gap-6 font-mono font-bold text-[#171a33]"><span>{q}</span><span class="text-[#00a995] group-open:rotate-45 transition-transform">+</span></summary><p class="mt-4 max-w-3xl text-sm leading-relaxed text-[#626a7a]">{a}</p></details>)}
+    </div>
+    <div class="mt-10 rounded-2xl border border-[#dce8e6] bg-[#f4f9f8] p-6 text-sm leading-relaxed text-[#596273]">
+      <strong class="text-[#171a33]">Launch and editorial disclosure.</strong> SecureFlow is operated by Arrivau Pty Ltd. The launch release contains only the free Snapshot and self-serve Workflow Definition Kit. Paid pilots are shown for transparency but are not open for order; no payment, subscription, intake or delivery commitment is created. If paid service later opens, buying it cannot change an AI Select editorial verdict. See the <a class="font-semibold text-[#007f73] underline underline-offset-4" href="/privacy/">privacy notice</a>, <a class="font-semibold text-[#007f73] underline underline-offset-4" href="/services/secureflow/terms/">advance service terms</a> and <a class="font-semibold text-[#007f73] underline underline-offset-4" href="/contact/">contact route</a>.
+    </div>
+  </section>
+</BaseLayout>

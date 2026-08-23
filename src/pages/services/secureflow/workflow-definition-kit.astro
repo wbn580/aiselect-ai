@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+const checks = [
+  ['Trigger', 'Write the single event that starts the workflow. Avoid “when needed” or a judgement call.'],
+  ['Owner', 'Name one accountable process owner and one fallback owner.'],
+  ['Inputs', 'List each required field and remove anything not needed for the action.'],
+  ['Rules', 'Write deterministic routing, duplicate and rejection rules before adding AI.'],
+  ['Approval', 'Identify payments, contracts, regulated advice and external messages that require a person.'],
+  ['Exception', 'Define what stops safely, who receives the alert, and what evidence they need.'],
+  ['Baseline', 'Record current weekly volume, manual hours, rework and missed-response rate.'],
+  ['Acceptance', 'Create one normal test, one duplicate, one missing field and one connector failure.'],
+];
+---
+
+<BaseLayout title="Free Workflow Definition Kit — SecureFlow" description="A self-serve checklist for making one SME workflow stable, measurable and safe enough to assess for automation.">
+  <section class="bg-[#171a33] text-white">
+    <div class="max-w-5xl mx-auto px-6 py-16 lg:py-20">
+      <p class="font-mono text-xs font-bold uppercase tracking-[.16em] text-[#83e9dd]">SecureFlow · free self-serve route</p>
+      <h1 class="mt-4 max-w-3xl text-4xl lg:text-5xl font-mono font-bold tracking-tight">Define the workflow before you automate it.</h1>
+      <p class="mt-5 max-w-2xl text-[#c8ccdc] leading-relaxed">Complete these eight controls, keep the answers in your own systems, then re-run the Snapshot. No sales call, password, file upload or marketing consent is required.</p>
+      <button type="button" onclick="window.print()" class="mt-7 inline-flex min-h-12 items-center justify-center rounded-xl bg-[#00d9c0] px-6 py-3 font-mono text-sm font-bold text-[#171a33] hover:bg-[#8be9de]">Print or save as PDF</button>
+    </div>
+  </section>
+
+  <main class="max-w-5xl mx-auto px-6 py-14 lg:py-18">
+    <div class="grid md:grid-cols-2 gap-4">
+      {checks.map(([title, text], index) => (
+        <section class="break-inside-avoid rounded-2xl border border-[#dce7e5] p-5 sm:p-6">
+          <div class="flex gap-4">
+            <span class="shrink-0 inline-flex h-8 w-8 items-center justify-center rounded-lg bg-[#e5f8f5] font-mono text-sm font-bold text-[#008f80]">{index + 1}</span>
+            <div><h2 class="font-mono text-lg font-bold text-[#171a33]">{title}</h2><p class="mt-2 text-sm leading-relaxed text-[#626a7a]">{text}</p></div>
+          </div>
+          <div class="mt-6 h-12 border-b border-dashed border-[#aab9b6]"></div>
+          <div class="h-12 border-b border-dashed border-[#aab9b6]"></div>
+        </section>
+      ))}
+    </div>
+
+    <section class="mt-10 rounded-2xl border border-[#cfe1de] bg-[#f3f8f7] p-6">
+      <h2 class="font-mono text-xl font-bold text-[#171a33]">Ready to re-scan when…</h2>
+      <ul class="mt-4 grid sm:grid-cols-2 gap-3 text-sm text-[#596273]">
+        {['The trigger has one meaning','Required data is minimal','One owner accepts exceptions','High-impact actions keep approval','The process is repeated and measurable','Four acceptance tests are written'].map(item => <li class="flex gap-3"><span class="text-[#00a995]">✓</span><span>{item}</span></li>)}
+      </ul>
+      <a href="/services/secureflow/#snapshot" class="mt-6 inline-flex min-h-12 items-center justify-center rounded-xl bg-[#171a33] px-6 py-3 font-mono text-sm font-bold text-white hover:bg-[#262b4e]">Re-run the free snapshot →</a>
+    </section>
+
+    <p class="mt-8 text-xs leading-relaxed text-[#7a8290]">This kit is general workflow-planning information, not an audit, certification, penetration test or legal advice. If you suspect an active cyber incident, use official Australian Government <a class="text-[#008f80] underline" href="https://www.cyber.gov.au/report-and-recover">reporting and recovery guidance</a> instead of connecting more systems.</p>
+  </main>
+</BaseLayout>
+
+<style>
+  @media print {
+    header, footer, button, a[href*="snapshot"] { display: none !important; }
+    main { padding: 0 !important; }
+    section { box-shadow: none !important; }
+  }
+</style>
