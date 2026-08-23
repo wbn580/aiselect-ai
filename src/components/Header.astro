@@ -16,6 +16,14 @@ const links = [
         </span>
         <span class="font-mono font-bold text-base text-white tracking-tight">aiselect</span>
       </a>
+      <details class="relative ml-auto xl:hidden">
+        <summary class="list-none min-h-11 min-w-11 inline-flex items-center justify-center cursor-pointer rounded-md border border-white/15 text-xs font-mono font-bold text-white" aria-label="Open navigation">Menu</summary>
+        <div class="absolute right-0 top-full mt-2 w-52 rounded-lg border border-white/10 bg-[#1A1A2E] p-2 shadow-xl flex flex-col z-20">
+          {links.map(([label, href]) => (
+            <a href={href} class="min-h-11 px-3 inline-flex items-center text-sm text-gray-300 hover:text-white hover:bg-white/5 rounded-md">{label}</a>
+          ))}
+        </div>
+      </details>
       <nav class="hidden xl:flex gap-8">
         {links.map(([label, href]) => (
           <a href={href} class="text-sm text-gray-400 hover:text-white transition-colors font-medium">{label}</a>
