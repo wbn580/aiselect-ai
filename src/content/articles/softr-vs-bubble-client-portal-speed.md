@@ -4,8 +4,6 @@ pubDatetime: "2026-01-10T06:53:56Z"
 description: "A client portal is a password‑protected workspace where users view dashboards, upload files, and interact with your service. In a 2026 timed build‑off, a com..."
 tags: ["Softr", "vs", "Bubble", "Which", "Builds"]
 ogImage: "https://img.aiselect.ai/工具评测/softr-vs-bubble-client-portal-speed-2026-1880x869.jpg"
-hideFromHome: true
-
 ---
 
 # Softr vs Bubble: Which Builds a Client Portal Faster?

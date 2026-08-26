@@ -6,8 +6,6 @@ author: cowork
 tags: ["AI Models", "Fine-Tuning", "Prompt Engineering", "Model Optimization", "AI Strategy"]
 slug: fine-tuning-vs-prompt-engineering-decision
 ogImage: "https://img.aiselect.ai/工具评测/when-to-use-fine-tuned-models-vs-prompt-engineering-in-your--2026-1880x1253.jpg"
-hideFromHome: true
-
 ---
 
 # When to Use Fine-Tuned Models vs Prompt Engineering in Your Stack

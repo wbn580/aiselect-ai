@@ -6,8 +6,6 @@ author: cowork
 tags: ["AI form builder vs traditional", "intelligent form creation tools", "switch to AI form software", "form automation", "productivity tools"]
 slug: ai-form-builders-vs-traditional-tools-when-to-switch
 ogImage: "https://img.aiselect.ai/工具评测/ai-powered-form-builders-vs-traditional-tools-when-to-switch-2026-1880x1253.jpg"
-hideFromHome: true
-
 ---
 
 ## The Quiet Revolution in Form Building

@@ -6,7 +6,6 @@ publishDate: '2026-05-08T15:56:58Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: aiselect-ai-0396
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: /og-default.png

@@ -6,7 +6,6 @@ publishDate: '2026-07-06T12:17:31Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: aiselect-ai-0395
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: https://img.aiselect.ai/rehost/e45ed9890a4f.jpg
